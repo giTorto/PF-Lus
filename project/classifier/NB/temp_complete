@@ -1,0 +1,1084 @@
+star of thor	0.093023255814	actor	actor
+who is in the movie the campaign	0.766918125311	actor	actor
+list the cast of the movie the campaign	0.531193363745	movie	actor
+who was in twilight	0.889830508475	actor	actor
+who is in vulguria	0.636363636364	actor	actor
+actor from lost	0.133333333333	actor	actor
+who played in the movie rocky	0.903742056955	actor	actor
+who played in the movie captain america	0.989461207452	actor	actor
+cast and crew for in july	0.997460170861	actor	actor
+who is in movie in july	0.829056454797	actor	actor
+who's in star wars episode four	0.898395721925	movie	actor
+who was in apollo thirteen	0.944553483808	actor	actor
+who was apollo thirteen 's cast	0.882825040128	actor	actor
+search for information about the cast and crew of appolo thirteen	0.998505791371	actor	actor
+i would like to know more about the cast and crew of the movie apollo thirteen	0.917113108297	movie	actor
+who starred in the avengers	0.984827289358	actor	actor
+cast for finding nemo	0.6	movie	actor
+actor from lassie	0.133333333333	actor	actor
+list actors in the movie midnight cowboy	0.73726541555	actor	actor
+dirty dancing actors	0.270588235294	movie	actor
+who are cast and crew of dirty dancing	0.999959037351	actor	actor
+who was in hitch	0.957446808511	actor	actor
+who is in the cast of hitch	0.999882149685	actor	actor
+star of facts of life	0.156862745098	actor	actor
+show me movie credits	0.744394618834	movie	actor
+who does the voices for the movie	0.530282106924	movie	actor
+find movie actors	0.0652173913043	movie	actor
+show credits - forager	0.0487804878049	actor	actor
+star of modern family	0.170212765957	actor	actor
+look up information about the cast crew of go	0.816953387354	movie	actor
+find information about the cast and crew of go	0.999743613964	actor	actor
+who was in the cast of go	0.999828243619	actor	actor
+can you find the lead actor in pretty women	0.67259547119	actor	actor
+what are the actors names and parts in finding nemo	0.728174936922	movie	actor_name character
+searching for names of crew members of appollo thirteen	0.393442622951	actor_name	actor_name
+budget for dark knight	0.444444444444	budget	budget
+what was the budget for the godfather	0.999876110861	budget	budget
+budget for twilight	0.705882352941	budget	budget
+please look up the budget of step up	0.991854336368	budget	budget
+budget for titanic the movie	0.85993485342	budget	budget
+what was the budget for the movie titanic	0.999646643225	budget	budget
+budget for iron man 2	0.505263157895	budget	budget
+please tell me how much was the budget for avatar	0.999940036021	budget	budget
+how much money did they spend to make avatar	0.973927239486	budget	budget
+avatar's budget	0.025	actor	budget
+how much did avatar take in	0.911800806593	revenue	budget
+please show me what the budget was for avatar	0.776761483566	budget	budget
+what was the budget for the avatar movie	0.999989064437	budget	budget
+can you tell me the budget of the movie avatar	0.685884438112	movie	budget
+total budget for the movie avatar	0.950092617094	budget	budget
+what was the budget for batman begins	0.999905507637	budget	budget
+what was the budget for the avengers	0.999915576463	budget	budget
+what was the budget for gone with the wind	0.999892263687	budget	budget
+what was spent on my big fat greek wedding	0.999063378083	budget	budget
+what was pretty woman s budget	0.359154929577	revenue	budget
+what was the budget for spaceballs	0.999765202476	budget	budget
+how many movies has kevin bacon been the lead actor in	0.969044960926	movie_count	movie_count
+how many star wars movies are there	0.927912197556	movie	movie_count
+how many movies are rated g	0.816920943135	movie	movie_count
+spain has how many movies	0.931693989071	movie_count	movie_count
+how many movies has kristen stewart starred in	0.967627106835	movie_count	movie_count
+how many movies has robert wise directed	0.971411130329	movie_count	movie_count
+how many movies did alfred hitchcock direct	0.978385615914	movie_count	movie_count
+how many movies has paramount done	0.992	movie_count	movie_count
+i would like to know the name of the country from where the movie kati patang comes	0.995085393122	movie	country
+what country is bullhead	0.831168831169	country	country
+what country made black swan	0.688995215311	country	country
+what country was black swan from	0.926470588235	country	country
+what country was the movie made	0.905030190119	country	country
+what country did deep blue sea come from	0.96725440806	country	country
+origin of titanic	0.0909090909091	country	country
+origin of king lear	0.093023255814	country	country
+when will top gun be released	0.974477958237	release_date	release_date
+release year and date for casino	0.344262295082	release_date	release_date
+when did will ferrell begin acting	0.301587301587	movie	release_date
+show me when 24 will be released	0.987509184423	release_date	release_date
+can i have release date of movie	0.8928255093	release_date	release_date
+movie's release date	0.467532467532	release_date	release_date
+show me when the movie was made	0.894000168298	movie	release_date
+when the movie titanic was released	0.749461593683	release_date	release_date
+what year did the italian movie roman holiday come out	0.975806451613	release_date	release_date
+can you please search for release date for karate kid	0.864059339556	movie	release_date
+karate kid release date please	0.87537993921	release_date	release_date
+when was dirty dancing released	0.976460331299	release_date	release_date
+when was spaceballs released	0.512195121951	release_date	release_date
+when was batman released	0.512195121951	release_date	release_date
+when was pretty woman released	0.494117647059	release_date	release_date
+when was men in black released	0.708860759494	release_date	release_date
+when did kristen stewart start acting	0.191176470588	release_date	release_date
+when is possessed going to be released	0.948081264108	release_date	release_date
+when was resident evil released	0.965517241379	release_date	release_date
+release date for finding nemo	0.896531277794	release_date	release_date
+when was finding nemo released	0.977501939488	release_date	release_date
+release date of hum tum	0.940298507463	release_date	release_date
+when was freedom writers released	0.466666666667	release_date	release_date
+when was avatar released	0.966310599836	release_date	release_date
+when did avatar released	0.689393939394	release_date	release_date
+i would like to know the release date of the movie avatar	0.737365058718	movie	release_date
+can you tell me when was the movie avatar released	0.997148069856	release_date	release_date
+when was date night released	0.512195121951	release_date	release_date
+when did black swan come out	0.87595712098	release_date	release_date
+when did avergers come out	0.772972972973	release_date	release_date
+what date did the amazing spiderman show for the 1st time	0.779220779221	release_date	release_date
+what is the release date of vulgaria	0.998582001127	release_date	release_date
+when the movie the godfather was released	0.617142857143	release_date	release_date
+when does looper come out	0.338461538462	release_date	release_date
+can you tell me the release date of the movie barfi	0.890496919367	release_date	release_date
+what date did the movie heroine come out	0.950500949756	release_date	release_date
+when did the house at the end of the street hit theaters	0.968169600135	movie	release_date
+what day is fun size coming out	0.0909090909091	release_date	release_date
+what day will django unchained come out	0.34375	release_date	release_date
+when will i be able to view iron man 3	0.909413854352	release_date	release_date
+on what date will iron man 3 be released	0.993348115299	release_date	release_date
+who directed gone with the wind	0.997268528734	director	director
+who was the director for black swan	0.983016263578	director	director
+tell me the directed of black swan	0.279110335805	movie	director
+who is the director of sleepless in seattle	0.997382314152	director	director
+find who the director was in men in black 3	0.858278145695	director	director
+locate the director who created the movie men in black 3	0.983016020805	director	director
+director of titanic	0.540816326531	director	director
+titanic director	0.025	actor	director
+avengers movie director	0.0714285714286	revenue	director
+dirctor of movie avengers	0.164383561644	genre	director
+who was the director for nacho libre	0.990234375	director	director
+director for big	0.2	director	director
+who was the director of welcome to the dollhouse	0.997253664873	director	director
+who directed the movie house at the end of the at the street	0.999887491639	movie	director
+who was the director of the movie toy story	0.999137750689	director	director
+list director gilda	0.025	actor	director
+who directed field of dreams	0.957904583723	director	director
+who is the second director on finding nemo	0.532475131656	movie	director
+find director of finding nemo	0.940828402367	director	director
+who directed finding nemo	0.983596867149	director	director
+finding nemo directed by who	0.957148422283	movie	director
+director of finding nemo	0.940828402367	director	director
+who directed hitch	0.752941176471	director	director
+i want to know who is the director of the movie batman	0.981795114676	director	director
+who is director of the words	0.971298361292	director	director
+who directed million dollar baby	0.603773584906	director	director
+who was the guy that directed moneyball	0.749250749251	actor	director
+who did twilight	0.0487804878049	director	director
+twilight director	0.025	actor	director
+who directed twilight	0.603773584906	director	director
+who directed twilight	0.603773584906	director	director
+who is the director of hum tum	0.999569667147	director	director
+look for the director of step up	0.998885172798	director	director
+please find the director of freedom writers	0.998649579466	director	director
+find the director of freedom writers	0.998921182891	director	director
+look up the director of freedom writers	0.992592959596	director	director
+find the director of freedom writers	0.998921182891	director	director
+who directed baby mama	0.603773584906	director	director
+godfather director	0.025	actor	director
+show me who directed the sound of music	0.999730212016	director	director
+who directed the sound of music	0.999707719519	director	director
+who directed the sound of music	0.999707719519	director	director
+find the name of the director of return	0.899974271748	director	director_name
+show movie avengers director name	0.0833333333333	rating	director_name
+name the director in sleepless in seattle	0.658823529412	director	director_name
+what's the genre for black swan	0.823762376238	genre	genre
+what is black swan's genre	0.245161290323	rating	genre
+what genre is parenthood	0.951923076923	genre	genre
+what kind of movie is parenthood	0.984615384615	genre	genre
+genre for pride and prejudice	0.220338983051	genre	genre
+can you tell me the genre of the movie lawless	0.872247784244	movie	genre
+show me what genre does movie lawless belongs to	0.441841004184	genre	genre
+genre for snow white and the huntsman	0.24427480916	budget	genre
+what is the movie type	0.363189255651	movie	genre
+what's the genre of rushmore	0.766467065868	genre	genre
+get the genre of welcome to the dollhouse	0.695652173913	genre	genre
+i want to find the genre freedom writers is in	0.99889171194	movie	genre
+what genre is freedom writers in	0.889887640449	genre	genre
+genre for batman	0.245283018868	genre	genre
+give me the genre of the movie avatar	0.777189304948	movie	genre
+i would like to know the genre of the movie avatar	0.992173060828	movie	genre
+genre for bad teacher	0.25	genre	genre
+can you tell me pretty girl the movie's genre	0.5859375	movie	genre
+what genre is the movie pitch perfect	0.978525800405	genre	genre
+in what language is this movie	0.949771689498	language	language
+what language is this movie	0.913738019169	language	language
+what language is the movie hero in	0.994422310757	language	language
+language of king lear	0.303571428571	language	language
+language of casa blanca	0.28813559322	language	language
+what language is head on in	0.934640522876	language	language
+language of spanglish	0.298245614035	language	language
+find out what language the father of my children is in	0.989298454221	language	language
+i am intersted in viewing belle what foreign language is the movie available in	0.572380409386	movie	language
+i need to find out about names of some japanese movies	0.999425944963	movie	movie_name
+can you tell me names of some japanese movies	0.985674579099	movie	movie_name
+ron howard name some of the movies he produce	0.998285186651	movie	movie_name
+tell me the names of the movies produced by william packer	0.999999294974	movie	movie_name
+about life is beautiful	0.919080919081	movie	movie
+show me info on life is beautiful	0.999889673631	movie	movie
+find old movies	0.0487804878049	movie	movie
+find movie ratings	0.0833333333333	movie_other	movie rating
+find newly released movies in spanish	0.986946832219	movie	movie
+was bill paxton in the movie apollo thirteen	0.772373292481	actor	movie
+was kevin bacon in the movie apollo thirteen	0.687034851215	movie	movie
+find movies about dancing	0.998638220608	movie	movie
+search for movies about dancing	0.999901670799	movie	movie
+show will ferrell films	0.422222222222	movie	movie
+will ferrell movies	0.503311258278	movie	movie
+what movies has will ferrell appeared in	0.999736798164	movie	movie
+find russian movies	0.315789473684	movie	movie
+show me the movie pretty women so i can see who starred in the movie	0.927153914027	movie	movie actor
+feral	0.025	actor	movie
+the movie is called big	0.488549618321	movie	movie
+will smith acting carrer	0.106382978723	movie	movie
+how many movies did peter jackson do	0.980730514812	movie_count	movie
+movies and gross payment	0.0487804878049	movie	movie revenue
+search for tim burton movies in french	0.999758123035	movie	movie
+exhibit all details of original finding nemo movie	0.999788913106	movie	movie
+finding nemo movie	0.769014084507	movie	movie
+find the movie finding nemo	0.892504357931	movie	movie
+i am looking for information on the movie finding nemo	0.999973857104	movie	movie
+show me details for the movie finding nemo	0.999763300614	movie	movie
+what did andrew stanton direct	0.241935483871	movie	movie
+show me some other movies directed by andrew stanton	0.999999117966	movie	movie
+display albert brooks movie	0.0714285714286	movie	movie
+show a movie with albert brooks in the cast	0.994986622334	movie	movie
+what other films has sergio leone directed	0.945775535939	movie	movie
+what movies has george harrison produced	0.988095238095	movie	movie
+what has charlie sheen starred in	0.674157303371	movie	movie
+please find the movies in which clive owen has appeared	0.999970696658	movie	movie
+in which movies has clive owen appear	0.9963099631	movie	movie
+spike lee directed what movie	0.904109589041	movie	movie
+search for movies directed by spike lee	0.999999388637	movie	movie
+movie release dates	0.0487804878049	release_date	movie release_date
+director information for movies	0.903361344538	movie	movie director
+movies by director	0.823529411765	movie	movie director
+please list all movies not rated pg	0.99987600744	movie	movie
+find movies	0.692913385827	movie	movie
+i want a list of english speaking movies	0.999950459148	movie	movie
+a list of movies made in america	0.999999965451	movie	movie
+are there any movies produced in the united states	0.999999581694	movie	movie
+show english movies	0.093023255814	movie	movie
+search english movies	0.093023255814	movie	movie
+comedy	0.025	actor	movie
+find a comedy	0.695652173913	movie	movie
+watch comedy movies	0.0487804878049	movie	movie
+get horror films	0.0714285714286	movie	movie
+show me horror movies	0.942824687618	movie	movie
+i want to see a listing of horror movies	0.999994488008	movie	movie
+show actor bruce willis movies	0.166666666667	movie	movie
+which movies did bruce willis star in	0.993103448276	movie	movie
+list movies with bruce willis	0.994843506416	movie	movie
+show me movies made in canada	0.999998762421	movie	movie
+can i watch a canadian film	0.874100719424	movie	movie
+see canadian movies	0.133333333333	movie	movie
+search for information about canadian movies	0.962520052501	movie	movie
+I'd like to see some italian films	0.994910748196	movie	movie
+show me something italian - made	0.6225	movie	movie
+i want to see a movie from spain	0.999999448131	movie	movie
+find movies from spain	0.998553787963	movie	movie
+spain country movies	0.025	actor	movie
+display a list of spanish films	0.997978890636	movie	movie
+spanish movie listing	0.170212765957	movie	movie
+spanish movies	0.303571428571	movie	movie
+find actors in movies	0.268656716418	person	movie actor
+search by actors	0.204081632653	movie_other	movie actor
+find some romantic movies	0.56	movie	movie
+i want to see a movie in french	0.999999971994	movie	movie
+gwyneth paltrow movies	0.025	actor	movie
+find movies with quentin tarantino as director	0.992236598891	movie	movie
+england movies	0.0487804878049	movie	movie
+england movies please	0.133333333333	movie	movie
+find david tennant movies	0.025	actor	movie
+show me what richard lester directed	0.942884190596	movie	movie
+get films in hindi	0.434782608696	movie	movie
+show me movies from india	0.999964612264	movie	movie
+what is a british horror movie	0.422907488987	movie	movie
+i want to watch an r rated comedy	0.999904338735	movie	movie
+list of french language comedies	0.956439393939	movie	movie
+look for dirty dancing movie with jennifer grey	0.999531915942	movie	movie
+tell me in detail about the movie dirty dancing	0.999787765033	movie	movie
+tell about movie dirty dancing	0.977831764349	movie	movie
+can i see a list of bette midler movies	0.999998788943	movie	movie
+list of movies starring bette midler	0.999789806821	movie	movie
+show me all of anne hathaway's movies	0.996512492139	movie	movie
+what movies has sandra bullock produced	0.99520383693	movie	movie
+find me movies from portugal	0.999581951993	movie	movie
+what movies has robert redford been in	0.999759094194	movie	movie
+dirty dancing info	0.270588235294	movie	movie
+dirty dancing	0.270588235294	movie	movie
+give a short bio for dirty dancing	0.433962264151	movie	movie
+about dirty dancing	0.270588235294	movie	movie
+movies from japan	0.886956521739	movie	movie
+show movies from japan	0.992558672009	movie	movie
+list japanese movies	0.264150943396	movie	movie
+show me japanese movies	0.978801066966	movie	movie
+give me a list of some japanese movies	0.999999919533	movie	movie
+give me a list of japanese movies	0.999998996384	movie	movie
+japanese movies	0.264150943396	movie	movie
+show me japanese language movies	0.963482466747	movie	movie
+which films are spoken in japanese	0.626086956522	movie	movie
+miramax films only	0.025	actor	movie
+show movies by miramax	0.935534591195	movie	movie
+search sandra bullock movies	0.204081632653	movie	movie
+watch sandra bullock movies	0.204081632653	movie	movie
+find movies about vampires	0.996602491506	movie	movie
+find movies having vampires	0.682170542636	movie	movie
+will smith movies	0.192307692308	movie	movie
+cars movie	0.025	actor	movie
+what movies did darla anderson produce	0.987224669604	movie	movie
+what films are made by paramount	0.988739357319	movie	movie
+show me movies by paramount	0.999955470114	movie	movie
+what movies has paramount released	0.976470588235	movie	movie
+show all movies from turkey	0.999593733588	movie	movie
+show me movies produced by bruce lee	0.999999761053	movie	movie
+is parenthood a drama	0.285714285714	movie	movie
+i want to see an kevin james film tonight	0.999739039005	movie	movie
+find films from china	0.506329113924	movie	movie
+get films from china	0.380952380952	movie	movie
+i'd like to watch a movie made in china	0.99999763235	movie	movie
+list some movies from china	0.996551724138	movie	movie
+chinese films	0.025	actor	movie
+show me other chinese movies	0.90820668693	movie	movie
+show me chinese movies	0.90820668693	movie	movie
+what movies have a pg-13 rating	0.997396354897	movie	movie
+please list movies that are rated pg-13	0.999998323603	movie	movie
+i need a g rating so i can take the kids	0.946635730858	movie	movie
+find a g rated movie	0.935643564356	movie	movie
+find g movies	0.1875	movie	movie
+find g movies	0.1875	movie	movie
+i want rated g movies	0.994428313584	movie	movie
+look up g rated movies	0.976744186047	movie	movie
+i am searching for any g rated movies for my children to view	0.999889468001	movie	movie
+rated g movies for family watching	0.989205103042	movie	movie
+find g rated movies	0.769230769231	movie	movie
+are there any movies rated g playing	0.99996693231	movie	movie
+i want to see movies rated g	0.999999820572	movie	movie
+find movies rated g	0.998788165401	movie	movie
+show me movies with g rating	0.999987655693	movie	movie
+did robert wise direct any other musicals	0.744827586207	movie	movie
+bruce lee produced movie listing	0.711111111111	movie	movie
+what was the last movie made by robert wise	0.999104977975	movie	movie
+find movies produced by mgm	0.999916668673	movie	movie
+show me british made movies	0.767334360555	movie	movie
+movies from the uk	0.969718309859	movie	movie
+find me movies from the uk	0.999983069646	movie	movie
+can you list ron howard movie production	0.952380952381	movie	movie
+i need to know the movies produce by ron howard	0.999905541148	movie	movie
+did clint eastwood direct any other movies besides million dollar baby	0.996281241892	movie	movie
+find movies directed by clint eastwood	0.999999064092	movie	movie
+what movies have been directed by clint eastwood	0.999999662451	movie	movie
+list all movies that were directed by clint eastwood	0.999999992973	movie	movie
+what movies has clint eastwood directed	0.998469428855	movie	movie
+show movies directed by clint eastwood	0.999995155318	movie	movie
+find all films by stanley kubrick	0.785340314136	movie	movie
+i want to select the option to search for movies produced by stephen spielberg	1.0	movie	movie
+i would like to search for movies produced by stephen speilberg	0.999999999978	movie	movie
+show me japanese horror movies	0.942824687618	movie	movie
+i would like to see movies ron howard directed	0.999999707706	movie	movie
+movies by stephen spielberg	0.987742303307	movie	movie
+movies by stephen spielberg	0.987742303307	movie	movie
+what movies did stephen spielberg direct	0.99925514935	movie	movie
+list steven spielberg movies	0.898876404494	movie	movie
+steven spielberg movie	0.307692307692	movie	movie
+steven spielberg movies please	0.93023255814	movie	movie
+directed by steven spielberg	0.997052767572	movie	movie
+find the steven spielberg movies	0.949957591179	movie	movie
+find movies from steven spielberg	0.999498914314	movie	movie
+i would like to watch a movie directed by eddie murphy	0.999999997304	movie	movie
+the camp	0.0487804878049	movie	movie
+watch sandra bullock the blind side	0.1	movie	movie
+i want to see movies with hugh jackman	0.999999746833	movie	movie
+list movies with kevin spacey	0.961075069509	movie	movie
+look for movies from france	0.999772053795	movie	movie
+can you show me movies that were made in france	0.99999999983	movie	movie
+find me any movies that were made in france	0.999999813208	movie	movie
+french movies please	0.409090909091	movie	movie
+french movies	0.1875	movie	movie
+find movies produced by	0.999833351233	movie	movie producer
+movies by producers	0.460526315789	movie	movie producer
+display movies produced by	0.998169913376	movie	movie producer
+find movies produced by mosfilm	0.999944444239	movie	movie
+what was kristen stewart's first movie	0.268907563025	budget	movie
+get me movies directed by miranda july	0.999985190231	movie	movie
+tom hanks movies	0.773869346734	movie	movie
+show me movies with tom hanks	0.99999869371	movie	movie
+i am trying to find a list of movies with tom hanks	0.999999999902	movie	movie
+provide movies directed by oliver stone please	0.999785410938	movie	movie
+i want to look for movies produced by albert ruddy	0.999999999768	movie	movie
+what are all of the movies produced by albert ruddy	0.999999998695	movie	movie
+movies produced by yash chopra	0.998169913376	movie	movie
+what did brad pitt porduce	0.763157894737	movie	movie
+bring up all brad pitt produced movies	0.999316286066	movie	movie
+show all movies that penny marshall directed	0.999237804878	movie	movie
+i need a list of all the movies directed by james cameron	0.999999999998	movie	movie
+give me a list of all the movies directed by james cameron	1.0	movie	movie
+james cameron movies produced	0.965944272446	movie	movie
+movies produced by james cameron	0.999775962851	movie	movie
+what films have been produced by warner bros.	0.99913445979	movie	movie
+find movies produced by warner bros.	0.999993332983	movie	movie
+what movies have been produced by warner bros.	0.999993760391	movie	movie
+show me movies by wb	0.999777390221	movie	movie
+give me information about finding nemo	0.999071386389	movie	movie
+i want information about finding nemo	0.999393336407	movie	movie
+show me finding nemo	0.979589778077	movie	movie
+finding nemo bing	0.322314049587	movie	movie
+search finding nemo	0.322314049587	movie	movie
+show information page for finding nemo	0.917647058824	movie	movie
+the campaign information	0.210526315789	movie	movie
+more information on apallo thirteen	0.579310344828	person	movie
+research apollo thirteen	0.189655172414	actor	movie
+has kristen stewart starred in movies other than twilight	0.805369127517	movie	movie
+show me kristen stewart movies	0.951794436186	movie	movie
+what movies has kristen stewarted starred in	0.99637719994	movie	movie
+lionsgate movies	0.133333333333	movie	movie
+show lionsgate movies	0.230769230769	movie	movie
+show movies made by production lionsgate	0.998945306614	movie	movie
+give me something by charles vidor	0.881516587678	movie	movie
+show charles vidor movie	0.12	movie	movie
+what film did charles vidor direct	0.214285714286	movie	movie
+which movies have been made outside the united states	0.999872701392	movie	movie
+find me nigeria movies	0.358208955224	movie	movie
+display 7 arts movies	0.0714285714286	movie	movie
+korean movie	0.093023255814	movie	movie
+what other movies did roberto benigni star in	0.995116557634	movie	movie
+i want to see movies starring denzel washington please	0.999999905696	movie	movie
+list the kareena's  movie	0.108695652174	movie	movie
+i want to watch a drama made in turkey	0.999999341765	movie	movie
+jennifer lopez played in what movies	0.935738444194	movie	movie
+show me all of the movies directed by woody allen	0.9999999995	movie	movie
+show robert wise movies	0.268656716418	movie	movie
+want to see robert wise movies	0.997355608828	movie	movie
+what movies has robert wise directed	0.997829353815	movie	movie
+what movies have robert wise directed	0.99528118581	movie	movie
+where can i find a list of movies produced by chris nolan	0.999999999985	movie	movie
+what movies has brad pitt been in	0.999958456234	movie	movie
+what are the movies brad pitt had been in	0.999980039245	movie	movie
+what are some movies with brad pitt	0.999998169534	movie	movie
+find an r rated movie	0.566037735849	movie	movie
+show me r rated movies	0.998656426093	movie	movie
+give me a list of r rated movies	0.999999927624	movie	movie
+look up r rated movies	0.993926007731	movie	movie
+i want only r rated movies	0.997732426304	movie	movie
+i want to see a list of rated r movies	0.99999999894	movie	movie
+show me only movies with a rating of r	0.999997738378	movie	movie
+please look for movies with an r rating	0.999955372372	movie	movie
+show me movies rated r	0.999972822866	movie	movie
+look for movies with an r rating	0.999927954831	movie	movie
+give me a list of all movies that are rated r	1.0	movie	movie
+i want to watch movies from norway	0.999993639093	movie	movie
+can i have a list of spanish speaking movies	0.999953851681	movie	movie
+show me movies made in mexico	0.999996906059	movie	movie
+show me the movie pot zombies	0.976971944855	movie	movie
+what movies have zombies in them	0.998721516131	movie	movie
+show me movies about zombies	0.999983510601	movie	movie
+show me movies about zombies	0.999983510601	movie	movie
+show me ones by david fincher	0.6225	movie	movie
+show ridley scott's filmography	0.025	actor	movie
+find ridley scott movies	0.0714285714286	movie	movie
+can you show me movies directed by ridley scott	0.999999997676	movie	movie
+list german movies	0.0487804878049	movie	movie
+german movies	0.0487804878049	movie	movie
+find action films	0.0487804878049	movie	movie
+find some action movies	0.35	movie	movie
+list dredd movie	0.0487804878049	other	movie
+show me george lucas movies	0.904906117505	movie	movie
+find movies directed by george lucas	0.999996353615	movie	movie
+produced by	0.584158415842	movie	movie producer
+please find movies produced by morgan freeman	0.999999395541	movie	movie
+please look up movies produced by morgan freeman	0.99999882633	movie	movie
+search for movies produced by morgan freeman	0.999999667317	movie	movie
+find movies produced by morgan freeman	0.999995370117	movie	movie
+look up movies produced by morgan freeman	0.999996758443	movie	movie
+what movies has meryl streep starred in	0.998753706648	movie	movie
+show me the movies directed by the director of this movie	0.999997393437	movie	movie
+i want to see movies made in russia	0.999999987139	movie	movie
+look up star wars four movie	0.960711638251	movie	movie
+display all details about star wars-a new hope movie	0.99673530889	movie	movie
+get all details about star wars-a new hope movie	0.998302207131	movie	movie
+star wars episode four	0.903225806452	movie	movie
+i want star wars four main page	0.993311036789	movie	movie
+search star wars four	0.660550458716	movie	movie
+find me tons of info related to star wars four	0.99602920456	movie	movie
+get details of in july movie	0.993994615862	movie	movie
+find details of in july movie	0.988264360716	movie	movie
+show details of in july movie	0.994097545822	movie	movie
+tell me about in july movie	0.991954149675	movie	movie
+look up the movie in july	0.995978872193	movie	movie
+display information for the movie title in july	0.99923870625	movie	movie
+movie in july data	0.832971800434	movie	movie
+where can i find the movie aankhen in hindi	0.999093841599	movie	movie
+display julia roberts films	0.0487804878049	person	movie
+list the movies that have the actress angelina jolie	0.999964447263	movie	movie
+dustin hoffman movies	0.025	actor	movie
+what movies did david ayer direct	0.969500324465	movie	movie
+i would like to view movies produced by clint eastwood	0.999999997826	movie	movie
+list all movies about horses	0.999522653218	movie	movie
+find all johnny depp movies	0.493827160494	movie	movie
+search by director	0.307692307692	movie_other	movie director
+search by director	0.307692307692	movie_other	movie director
+is there any upcoming movies from warner brothers	0.999521704133	movie	movie
+bring up movies with ice skating in it	0.999728114824	movie	movie
+find newly released comedies from england	0.113636363636	movie	movie
+i need info on house at the end of the street	0.999950136979	movie	movie
+what is the houses at the end of the street about	0.99466957427	movie	movie
+give me more facts about the movie house at the end of the street in detail	0.999992116855	movie	movie
+i would like to know in detail about the movie house at the end of the street	0.999999999911	movie	movie
+display movie information for the film house at the end of the street	0.999982881225	movie	movie
+films with chinese	0.152173913043	movie	movie
+i want to watch a movie in chinese	0.999999547774	movie	movie
+find movies produced and directed by tyler perry	0.999993756283	movie	movie
+tom cruise movies please	0.742268041237	movie	movie
+i want tom cruise movies please	0.990928995934	movie	movie
+which movies star tom cruise	0.827586206897	movie	movie
+which movies do tom cruise play in	0.897196261682	movie	movie
+find end of watch	0.242424242424	revenue	movie
+search by genre	0.204081632653	movie_other	movie genre
+looking for movies of yash chopra	0.99912866686	movie	movie
+find me information about the campaign movie	0.999248396655	movie	movie
+information for movie the campaign	0.939794419971	movie	movie
+show me info on the movie the campaign please	0.999990801323	movie	movie
+i need to see all the details about the movie the campaign	0.999999966721	movie	movie
+sort all pg movies	0.551724137931	movie	movie
+pg rated movies	0.75	movie	movie
+access a list of pg movies please	0.999943747539	movie	movie
+give me a list of pg movies	0.999999121836	movie	movie
+can you find me a list of pg rated movies to watch	0.999999999908	movie	movie
+show me a list of pg rated movies	0.99999997062	movie	movie
+find movies with a pg rating	0.999972944455	movie	movie
+what movies are pg	0.986579754601	movie	movie
+movies by alfred hitchcock	0.978108989287	movie	movie
+what movies did alfred hitchcock make	0.997718292615	movie	movie
+watch hitchcook movies	0.025	actor	movie
+i want to see any current movies starring tom hanks	0.999999365327	movie	movie
+i want a list of recent movies rated pg	0.999999994165	movie	movie
+give me a list of recent movies rated pg	0.999999997596	movie	movie
+ray stark produced what other movies	0.985221674877	movie	movie
+what is spielberg's latest movie	0.461538461538	movie	movie
+please find movies directed by tom hanks	0.99999982919	movie	movie
+are there any recent movies that are polish speaking	0.999990496614	movie	movie
+what movies has tom cruise been in recently	0.999942630945	movie	movie
+search for new movies	0.821917808219	movie	movie
+search for in july	0.966183574879	movie	movie
+watch in july online	0.296296296296	movie	movie
+search for information about lionsgate	0.657108721625	movie	organization
+lionsgate info	0.0487804878049	producer	organization
+find information about paramount studios	0.333333333333	movie	organization
+who is ray stark	0.416666666667	person	person
+find information on charles vidor	0.478935698448	movie	person
+i want to look up information about tom cruise	0.999882987609	movie	person
+can you please search details about will ferrell	0.991130058601	movie	person
+will ferrell biography	0.471544715447	person	person
+show will ferrell biography	0.640883977901	person	person
+show me a complete biography of will ferrell	0.993303497431	movie	person
+show me information on will ferrell	0.56708738252	movie	person
+show me will ferrell's bio	0.75	movie	person
+get info on kristen stewart	0.671641791045	movie	person
+does kristen stewart have a personal page	0.45	movie	person
+where can i find information about kristen stewart	0.967212090797	movie	person
+jennifer aniston bio	0.0487804878049	movie	person
+i want to see spielberg's main page	0.999190957974	movie	person
+steven spielberg summary	0.307692307692	movie	person
+about steven spielberg	0.371900826446	person	person
+find me bio details for steven spielberg	0.960457360648	movie	person
+bio for steven spielberg	0.398230088496	person	person
+show me alfred hitchcock	0.938147566719	movie	person
+i want more information about alfred hitchock's biography	0.584276444847	movie	person
+all info hitchcock	0.0487804878049	person	person
+find the name of the producer of avatar	0.952245224838	producer	person_name
+producer hitch	0.025	actor	producer
+who produces hitch	0.093023255814	producer	producer
+production company for transformers	0.487804878049	producer	producer
+what company made et	0.18	producer	producer
+what was the production company for et	0.561403508772	budget	producer
+who produces cars	0.093023255814	producer	producer
+can you find who produced cars	0.745398773006	producer	producer
+production company for devil	0.5	producer	producer
+who produced the movie steel magnolias	0.996394485684	producer	producer
+who produced avatar	0.892561983471	producer	producer
+i want to know the producer of avatar	0.831908450266	movie	producer
+who produced avatar	0.892561983471	producer	producer
+who produced avatar	0.892561983471	producer	producer
+avatar producer	0.025	actor	producer
+i would like to know who produced the movie avatar	0.740530005986	producer	producer
+who produced the movie avatar	0.995736795572	producer	producer
+who are the producers for the movie avatar	0.798535314414	producer	producer
+what is grease's producer	0.153225806452	rating	producer
+who produced grease	0.58064516129	producer	producer
+who produced the movie my big fat greek wedding	0.820918622067	producer	producer
+who produced pretty woman	0.5625	producer	producer
+tell me the producer for the godfather	0.905963398677	producer	producer
+the godfather was produced by	0.744479495268	movie	producer
+who produced the movie clue	0.990661525485	producer	producer
+who produced hotel rwanda	0.89010989011	producer	producer
+who produced marley and me	0.461538461538	producer	producer
+who produced despicable me	0.574468085106	producer	producer
+who is the company that produced the movie inception	0.975886238597	producer	producer
+what company developed the movie inception	0.396226415094	producer	producer
+find producer of the great debaters	0.966188396756	producer	producer
+who produced inception	0.58064516129	producer	producer
+provide the name of the company that produced sparkle	0.991102467666	person_name	producer
+i need to know the company that produced sparkle	0.485420529243	producer	producer
+find the producer of look who's talking	0.978404960445	producer	producer
+who produced harlem nights	0.58064516129	producer	producer
+find the producer of step up	0.983821553346	producer	producer
+please find the producer of freedom writers	0.981605620207	producer	producer
+look for the producer of freedom writers	0.984248299003	producer	producer
+show me movie rating	0.694560669456	movie	rating
+how much revenue did pretty woman make	0.998351595074	revenue	revenue
+earnings for pretty woman	0.3	revenue	revenue
+what was the revenue of pretty woman	0.989252325554	revenue	revenue
+how much did pretty woman make	0.939419486932	revenue	revenue
+what was the gross revenue for the avengers	0.969419071786	revenue	revenue
+how much did the avengers make	0.787953404678	revenue	revenue
+revenue for the avengers	0.690124858116	revenue	revenue
+how much did the dark night generate in revenues	0.848399563564	revenue	revenue
+find revenue totals for jurassic park	0.135593220339	revenue	revenue
+revenue for independence day	0.327586206897	revenue	revenue
+what is the new will ferrell movie about	0.989121829008	movie	subjects
+who played the voice of nemo in finding nemo	0.986376436563	actor	actor
+who played richie cunningham in happy days	0.676056338028	actor	actor
+who stars in house at the end of the street	0.819467833421	movie	actor
+show me the cast for the house at the end of the street	0.99727074282	movie	actor
+cast and crew of house at the end of the street	0.950696164627	actor	actor
+ethel actress from i love lucy	0.615384615385	actor	actor
+actress who played ethel on i love lucy	0.96180338134	actor	actor
+who are the cast members in lord of the rings the two towers	0.983114496321	actor	actor
+who played hawkeye in mash	0.342857142857	actor	actor
+who played mother in tarkovsky's mirror	0.783673469388	actor	actor
+show me the actor of the movie muthyala muggu	0.943944687692	movie	actor
+who are the droids in star wars episode four	0.905931695626	movie	actor
+who was that guy again who was in the avengers	0.993584284335	actor	actor
+which actor played frodo in lord of the rings	0.237476808905	revenue	actor
+find the name of the actress who played mother in mirror by andrey tarkovsky	0.849915636313	actor	actor_name
+what is the name of the actress who played mother in tarkovsky's mirror	0.837676743327	actor_name	actor_name
+what is the name of the actor who played todd in the tv show one life to live	0.91480804472	actor	actor_name
+give me the name of the main actress in platoon	0.560775011638	movie	actor_name
+what's the name of the mom on seinfeld	0.983822034499	actor_name	actor_name
+name the co-star in shoot to kill	0.829015544041	actor	actor_name
+what is the name of the actor who played atticus finch in to kill a mockingbird	0.98878696413	actor_name	actor_name
+show me the name of the guy who was the father and a lawyer in to kill a mockingbird	0.993005546598	actor	actor_name
+please provide the cost for producing the deer hunter	0.946979038224	budget	budget
+what is the budget for epic	0.965210739135	budget	budget
+search budget for the movie epic	0.859893662883	budget	budget
+what was the budget for fire proof	0.999765202476	budget	budget
+what was the budget for fly whele	0.999765202476	budget	budget
+what was the budget for 1st harry potter movie	0.999529189583	budget	budget
+how much was spent on shooting the last harry potter film	0.784446322908	budget	budget
+how much does it cost to produce looper	0.995911692559	budget	budget
+how much did it cost to produce looper	0.999576366976	budget	budget
+how much money was spent to produce looper	0.893617021277	budget	budget
+how much did men in black 3 cost	0.948991696323	revenue	budget
+how much was it to make paranorman	0.998597259853	budget	budget
+show me the budget to rebel movie	0.700545102866	movie	budget
+show me the budget for star wars 2	0.603861286717	movie	budget
+how much did it cost to create the boardwalk empire	0.997042087252	budget	budget
+show me the budget for expendables 1	0.96564542707	budget	budget
+what was the budget for finding nemo in 3d	0.999229638069	budget	budget
+liongate	0.025	actor	company
+which country made inchochine	0.235294117647	country	country
+what country filed les mes	0.711111111111	country	country
+what country is les mes from	0.951672862454	country	country
+where was the milk of sorrow made	0.25	country	country
+what country is shawshank redemption	0.831168831169	country	country
+what country does the movie thoda pyaar thoda magic comes from	0.999961131912	country	country
+tell me where the white ribbon came from	0.190476190476	movie	country
+when was the movie barfi! released	0.932002365135	release_date	release_date
+what are the dates for the movie barfi!	0.98146937952	movie	release_date
+release date of the new bugs bunny film	0.940473969024	release_date	release_date
+what is the release date of evil goes global	0.99890094276	release_date	release_date
+what is the release date for jaws 17 in the theaters	0.994645957058	release_date	release_date
+what is the release date for jurassic park 4	0.998832070775	release_date	release_date
+list release dates for the jurassic park movies	0.193181818182	budget	release_date
+when will the movie omg oh my god be released	0.999971790178	release_date	release_date
+when was the lord of the rings movie released	0.924662674917	release_date	release_date
+whats paranormal activities release date	0.467532467532	release_date	release_date
+when will robocop come out	0.807339449541	release_date	release_date
+when was suckerpunch be released	0.956616052061	release_date	release_date
+when was the sound of music released	0.550901773737	release_date	release_date
+when will twilight breaking dawn part 2 be released	0.88654353562	release_date	release_date
+who directed ai	0.603773584906	director	director
+find the director of downton abbey	0.992541548439	director	director
+who directed good bad and ugly	0.566371681416	director	director
+i can't remember who directed star wars	0.969363166954	director	director
+find the director of to kill a mockingbird	0.998888356297	director	director
+is amelie in a different language	0.0833333333333	language	language
+what language was amelie filmed in	0.624	language	language
+what language is the full monty in	0.979452054795	language	language
+what is ju on's original language	0.139705882353	rating	language
+what language is secrets and lies in	0.931596091205	language	language
+give me names of some action movies with a pg thirteen rating	0.998267369279	movie	movie_name
+show all comedy musicals for twenty twelve	0.988184747583	movie	movie
+are there any documentaries on classic cars	0.96065873742	movie	movie
+show all dramas produced in 2010	0.932432432432	movie	movie
+find some mysteries	0.152173913043	movie	movie
+search romantic commedies	0.025	actor	movie
+sci-fi	0.025	actor	movie
+show me westerns	0.767334360555	movie	movie
+show car documentaries	0.0487804878049	movie	movie
+show me a katie holmes flick	0.995185228468	movie	movie
+i want to see videos of steven spielberg	0.999975732756	movie	movie
+videos related to steven spielberg	0.541935483871	movie	movie
+new released videos	0.025	actor	movie
+i want to see brazilian movies	0.999020201074	movie	movie
+show all canandian movies for nineteen eighty	0.940145985401	movie	movie
+what movies were made in ireland this year	0.999957624494	movie	movie
+find philipino movies in english	0.936555891239	movie	movie
+show me the highest-grossing movies from portugal	0.998911042228	movie	movie
+find movies in america about obama	0.998875375964	movie	movie
+i'd love to watch an albert ruddy movie	0.935933147632	movie	movie
+what other films has arthur ruddy done	0.78125	movie	movie
+bring up all movies brad pitt directed	0.999885850152	movie	movie
+what movies has brad pitt directed	0.999896147056	movie	movie
+movies by david selsnic	0.460526315789	movie	movie
+did holly hunter direct any movies	0.58064516129	movie	movie
+what movies did joe coen do	0.969500324465	movie	movie
+movies by john paul as a director	0.927152317881	movie	movie
+show me movies directed by john paul	0.999999681408	movie	movie
+tom cruise has directed what movies	0.998246053621	movie	movie
+please list all movies directed by tom cruise	0.999999956923	movie	movie
+wesley snipes directed what movie	0.44	movie	movie
+find action movies with john travolta	0.945736434109	movie	movie
+show all animation films for twenty twelve	0.996030313966	movie	movie
+animated pg thirteen movies	0.4	movie	movie
+physfi movies	0.025	actor	movie
+i like sci-fi movies	0.025	actor	movie
+show me films released in september	0.998760210035	movie	movie
+show all movies released in september	0.999976602675	movie	movie
+look up all movies coming in september	0.99919315798	movie	movie
+find movies for twenty ten	0.997924365919	movie	movie
+most recent zombie movies	0.259259259259	movie	movie
+search for movies in chinese	0.999890484613	movie	movie
+find me movies that are in chinese	0.999999763641	movie	movie
+i want to see a list of all movies shown in english	0.999999999984	movie	movie
+find movies in farsi	0.992541386211	movie	movie
+send me movies that are in french	0.99999969304	movie	movie
+find movies in french	0.999642286921	movie	movie
+i would like a list of movies in french	0.999999999872	movie	movie
+movies in french	0.969471332837	movie	movie
+i want to find movies using the french langauage	0.999964628905	movie	movie
+i want movies in french	0.999853830194	movie	movie
+find movies in german before 2000	0.999249098002	movie	movie
+give me some movies which were filmed in polish	0.99983111932	movie	movie
+find movies in portugese	0.992541386211	movie	movie
+show all movies in spanish	0.999971297996	movie	movie
+list of movies in the spanish language	0.999979622873	movie	movie
+movies in spanish	0.974230043997	movie	movie
+i am searching for movies in spanish	0.999912985817	movie	movie
+i would like to look for movies in spanish	0.999999998171	movie	movie
+find movies in swahili	0.992541386211	movie	movie
+show me a list of all movies produced by alfred ruddy	0.999999999999	movie	movie
+what other movies charles vidor produce	0.921658986175	movie	movie
+has jennifer anniston produced movies	0.093023255814	movie	movie
+show me the movies produced by m s raju	0.999998578729	movie	movie
+list the movies created by 7 arts	0.972850678733	movie	movie
+lionsgate = i would like to get a list of your movies from two thousand and nine to two thousand and twelve	0.999999999945	movie	movie
+twentieth century fox movies 2012	0.942028985507	movie	movie
+show me nc minus seventeen rated movies	0.98409248098	movie	movie
+show me movies with not rated rating	0.999929857038	movie	movie
+give me a list of nr movies	0.999957849854	movie	movie
+what is a list of pg thirteen action movies	0.999992577438	movie	movie
+i want to see a pg thirteen movie	0.999985333167	movie	movie
+show me a complete list of r rated movies that came out in the last 30 days	0.999999999999	movie	movie
+show me all rated r movies by paramount	0.9999994124	movie	movie
+show me movies that are unrated	0.999995122691	movie	movie
+list movies from 1995 with adam sandler	0.956953642384	movie	movie
+i want to see movies with alan rickmman	0.999999493667	movie	movie
+which movies has angelina jolie starred this season	0.996800237333	movie	movie
+what movie was angelina a main actress	0.323529411765	movie	movie
+look up movies starring the singer mario	0.999621759929	movie	movie
+i want to find movies starring the singer mario	0.999999957485	movie	movie
+look for movies with max von sudow	0.999600762181	movie	movie
+show me movies that have patrick swayze and jennifer grey in them	0.999999976374	movie	movie
+show me movies that star patrick swayze starred in from nineteen eighty seven	0.999999806033	movie	movie
+what is that dancing movie with patrick swayze	0.977312390925	movie	movie
+movies of sharukh khan	0.204081632653	movie	movie
+movie that tom hanks and kevin becon played in together	0.954032957502	movie	movie
+movies about animals	0.625	movie	movie
+show me movies about bollywood	0.999884585625	movie	movie
+chess movies	0.025	actor	movie
+show me movies on chess	0.998443810088	movie	movie
+what are some movies about disco	0.999630068364	movie	movie
+what movies can offer tips on gardening	0.939179632249	movie	movie
+i want to look up movies about hair	0.999999561222	movie	movie
+find movies about libraries	0.998298355077	movie	movie
+find some movies about musicians	0.991076740036	movie	movie
+can you find movies about preschool boys	0.999982110047	movie	movie
+look for movies about preschool boys	0.999739033475	movie	movie
+what films focus on rape and victim's rights	0.133333333333	movie	movie
+i would like to know names of some movies on religious issues	0.99960391163	movie	movie
+give me a list of some movies on religious issues	0.999999899304	movie	movie
+look for movies about school	0.998956950503	movie	movie
+tell me the names of some soccer movies	0.891619632778	movie	movie
+what are some time travel movies i can watch	0.998465527277	movie	movie
+show me movies involving time travel	0.999775607619	movie	movie
+vampire movies please	0.0714285714286	movie	movie
+list movies with a theme of war in them	0.999537340479	movie	movie
+show all movies with the theme of war	0.999748111666	movie	movie
+can you find me some movies about war	0.9999989184	movie	movie
+i want a list of movies about war	0.999999991866	movie	movie
+i want movies about war	0.999310540617	movie	movie
+find movies about world war two	0.996602491506	movie	movie
+what are some zombie apocalypse movies	0.941616766467	movie	movie
+search for zombie movies	0.916230366492	movie	movie
+show me belle in spanish	0.988016824062	movie	movie
+is dredd rated r	0.245614035088	movie	movie
+take me to the french version of et	0.347826086957	movie	movie
+find et in french	0.617647058824	movie	movie
+find fast and furious in japanese	0.0697674418605	movie	movie
+hard day's night richard lester	0.0666666666667	movie	movie
+information about movie life is beautiful	0.997597645839	movie	movie
+movie information for life is beautiful	0.991256916464	movie	movie
+will you please show me info on the movie life is beautiful	0.999999995372	movie	movie
+can you please show me info on the movie life is beautiful	0.99999999803	movie	movie
+show me details to the movie life is beautiful	0.999953452576	movie	movie
+show me info on the movie life is beautiful please	0.999998910076	movie	movie
+open a page about the movie life is beautiful	0.998535748335	movie	movie
+is nine fourteen the premiere date for resident evil	0.869565217391	release_date	movie
+select rio in chinese	0.113636363636	movie	movie
+find me the first star wars movie info	0.999857604915	movie	movie
+i need details about the movie star wars:episode four -a new hope	0.999757086832	movie	movie
+did ray stark produce steel magnolias	0.272727272727	movie	movie
+is the movie toy story 4 being released next summer	0.343347639485	movie	movie
+i want to look up information about american movies	0.999985973813	movie	movie
+chinese foreign film with kungfu	0.0681818181818	country	movie
+french movies for twenty twelve	0.997822213423	movie	movie
+look for russian movies by mosfilm	0.997812806396	movie	movie
+show production company lionsgate	0.285714285714	producer	organization
+paramount film studios	0.025	actor	organization
+i would like to have more information about the producer ray stark	0.999877112619	movie	person
+show me details for the director steven spielberg	0.990530854638	movie	person
+show me that actor tom cruise	0.9400660689	movie	person
+i would like information about the actor will ferrell	0.999170361791	movie	person
+who produced the movie great debaters	0.997376601714	producer	producer
+king's speech production company	0.166666666667	producer	producer
+i wonder who produced star wars	0.978615440377	producer	producer
+i can't remember who produced star wars	0.936849410132	producer	producer
+who produced star wars	0.936849410132	producer	producer
+movie producers	0.025	actor	producer
+how much did end of watch gross	0.99713430419	revenue	revenue
+how much did movie earn	0.911960715538	revenue	revenue
+show me the earnings for hotel transylvania	0.869520934124	movie	revenue
+what did the movie the house at the end of the steet gross	0.998631778913	movie	revenue
+revenue for iron man 2	0.633333333333	revenue	revenue
+what amount of revenue did iron man make	0.923076923077	revenue	revenue
+what was the gross revenue of iron man	0.992731696665	revenue	revenue
+kahani's revenue	0.025	actor	revenue
+get the revenue of kahani	0.933549432739	revenue	revenue
+revenue looper	0.025	actor	revenue
+how much did looper gross in sales	0.995985730589	revenue	revenue
+how much did looper gross	0.984133993628	revenue	revenue
+ho much did looper make	0.891089108911	revenue	revenue
+how much money did mr and mrs smith make	0.959501797144	revenue	revenue
+how much money did the movie mr and mrs smith make	0.972025751892	revenue	revenue
+in the movie mr and mrs smith how much money did the box offfice report	0.998849653501	revenue	revenue
+how much money did philadelphia make	0.957055214724	revenue	revenue
+i want to know what the revenue for pirates was	0.968271468823	movie	revenue
+how much was made from platoon	0.483333333333	budget	revenue
+what was the gross revenue earned by star wars in its original release	0.722003750983	revenue	revenue
+what was the total gross receipts at the box office for the movie star wars	0.720573701959	revenue	revenue
+what were the gross receipts for hunger games	0.86642599278	revenue	revenue
+tell me how much money tommy boy made	0.892703862661	revenue	revenue
+how much revenue did top gun make	0.981132075472	revenue	revenue
+tell me the revenue of training day	0.929236635624	revenue	revenue
+what is life is beautiful about	0.903190619035	movie	subjects
+show me a list of production companies	0.99998581045	movie	producer
+show me the viewer ratings in orange	0.702335830762	movie	movie_other
+is in july on netflix	0.397790055249	movie	movie_other
+rate movies	0.025	actor	movie_other
+find the actor that sings let me love you	0.986468200271	movie_other	movie_other
+what is steven spielberg up to	0.626865671642	movie	movie_other
+israel are all your movies in your native language or in english	0.99311228576	movie	movie_other
+what's playing tonight	0.025	actor	movie_other
+where can i buy this movie	0.763043478261	movie	movie_other
+i would like to know if this is a real scary	0.999572007828	movie	movie_other
+how to rent dirty dancing	0.270588235294	movie	movie_other
+can i rent finding nemo on netflix	0.758099352052	movie	movie_other
+hotel rwanda is based on what	0.275862068966	movie	movie_other
+i need to know where you keep resident evil	0.571613320401	movie	movie_other
+in september	0.22	movie	movie_other
+dvd finding nemo	0.322314049587	movie	movie_other
+find movie from criteria	0.122448979592	movie	movie_other
+find a movie	0.820143884892	movie	movie_other
+can you tell me which movie made the most at the box office in the weekend of september twenty eighth	0.972061860455	movie	movie_other
+find movies selected on all criteria	0.6875	movie	movie_other
+options available for movies today	0.505882352941	movie	movie_other
+find all selected criteria	0.185185185185	movie	movie_other
+search highlighted information	0.025	actor	movie_other
+bring up movie request	0.22641509434	movie	movie_other
+find selected information	0.0487804878049	other	movie_other
+find selected criteria	0.0487804878049	other	movie_other
+where can i watch movie	0.818181818182	movie	movie_other
+search all databases	0.025	actor	movie_other
+search databases	0.0487804878049	other	movie_other
+where can i see movie	0.822335025381	movie	movie_other
+what is the age limit for the pg rating for the movie hotel transylvania	0.80871600401	movie	movie_other
+what does the rating r mean for the movie dred	0.734082397004	rating	movie_other
+show me the sequels or prequels to this movie	0.97256492592	movie	movie_other
+how long did it take james cameron to produce avatar	0.820846905537	budget	movie_other
+is this film dubbed in english	0.620689655172	movie	movie_other
+apollo thirteen cast was chosen how	0.31884057971	actor	movie_other
+what other formats is finding nemo in	0.78313253012	movie	movie_other
+in how many days did it take to make twenty one point two for looper	0.68200270636	budget	movie_other
+what age group is for rated r movies	0.617848970252	movie_other	movie_other
+show me the behind scenes of the movie in orange	0.998884333743	movie	movie_other
+how long do you predict that wb will continue to strive in today's market	0.131147540984	movie	movie_other
+the crap	0.025	actor	movie_other
+who determines the ratings on movies	0.047619047619	movie_other	movie_other
+house at the end of the street should of made more money	0.997594463101	movie	movie_other
+find me dirty dancing news	0.893203883495	movie	movie_other
+who else could have preformed your job	0.0487804878049	director	movie_other
+twenty one point two was paid out	0.739884393064	other	movie_other
+find some notes on parental guidance please	0.137254901961	movie	movie_other
+who came up for the main plot	0.271551724138	movie	movie_other
+what is the standard to be rated g	0.604534005038	movie	movie_other
+i love taye diggs	0.0869565217391	actor	movie_other
+show me the movie reviews in orange	0.975867024646	movie	movie_other
+show me celebrities	0.6225	movie	movie_other
+how old do you have to be to see an r-rated movie	0.748138313225	movie_other	movie_other
+does ireland have an equivalent to th us oscar awards	0.047619047619	movie_other	movie_other
+click on the most popular movie in orange	0.768946395564	movie	movie_other
+brazil movie locations	0.025	actor	movie_other
+what is the history behind lionsgate	0.316977428852	rating	movie_other
+what does an r rating mean on a movie	0.91533180778	movie_other	movie_other
+can you give me more information about the text highlighted in orange	0.979492036515	movie	movie_other
+what are the recommended ages for a pg movie	0.921719574431	movie	movie_other
+send dredd movie	0.093023255814	other	movie_other
+jenn ann lover	0.0714285714286	other	movie_other
+did kristen stewart have an affair with the director of snow white and the huntsman	0.96961777197	director	movie_other
+show me movie highlights in orange	0.594272076372	movie	movie_other
+need to rate movie	0.114285714286	movie	movie_other
+how old do you have to be to see a rated r movie	0.803048971917	movie	movie_other
+what does a pg thirteen rating mean	0.971463266545	movie_other	movie_other
+twenty one point two is the first week gross	0.533333333333	other	movie_other
+r rating what does that include	0.535714285714	movie_other	movie_other
+in julie	0.025	actor	movie_other
+wb- what does it take to become a movie producer	0.549450549451	movie_other	movie_other
+show me hollywood influences	0.6225	movie	movie_other
+how does a movie receive an r rating	0.581020012912	movie_other	movie_other
+did you have fun on the set	0.365625	movie	movie_other
+what are the rating symbols for movies	0.95294822308	movie	movie_other
+sb news on life	0.0697674418605	movie	movie_other
+i have a thirteen year old	0.208333333333	movie	movie_other
+end of watch shoulde of made less money	0.242424242424	revenue	movie_other
+when the movie comes out do you think it will raise in the box office	0.612166815457	revenue	movie_other
+show me the movie list in orange	0.99646292153	movie	movie_other
+show me the story of the armstrong siddeley	0.966166070492	movie	other
+classic cars	0.111111111111	movie	other
+i want to learn about flowers	0.947711492135	movie	other
+out camping	0.025	actor	other
+happy	0.025	actor	other
+interesting	0.025	actor	other
+sort by spanish	0.0487804878049	movie	other
+where is punjabi	0.148148148148	theater	other
+what is robert wise's middle name	0.176470588235	movie	other
+ferret	0.025	actor	other
+forty three million what	0.0487804878049	movie	other
+twenty one point two million dollars was divided between who	0.595348837209	other	other
+do movie authors use real countries	0.0487804878049	release_date	other
+on lies	0.025	actor	other
+the movie a tanu is from hungary; where is the country hungary	0.474139113733	country	other
+how fun is it to produce a movie	0.333333333333	movie	other
+did you like working with who you did	0.106382978723	other	other
+can i see a map of canada	0.889328063241	movie	other
+was your journey worth it	0.047619047619	movie_other	other
+south american country flags	0.0487804878049	other	other
+need more info that relates to china	0.0487804878049	movie	other
+flags of planet earth	0.133333333333	other	other
+best writers in the field	0.18487394958	actor	other
+find the male actor from grand torino	0.820045558087	actor	actor
+who played the female lead in hitch	0.99624188589	actor	actor
+find the female actress from shallow hal	0.609137055838	actor	actor
+who is in picture three	0.875	actor	actor
+who are the lead actors	0.947775628627	actor	actor
+how old is jennifer aniston	0.160714285714	birth_date	birth_date
+when was will ferrell born	0.269230769231	release_date	birth_date
+where was black swan directed	0.428571428571	country	country
+where was muriel's wedding shot	0.204081632653	country	country
+show release date in the usa for the movie little women	0.621235462522	release_date	release_date
+show movie description	0.046511627907	movie	description
+i'd like to see popular film directors from the nineteen fifty 's through today	0.998644550245	movie	director
+best director	0.025	actor	director
+best directors of all time	0.237288135593	movie	director
+please show me famous film directors	0.945385514019	movie	director
+greatest directors	0.025	actor	director
+who produced some of the most popular movies	0.723507917174	producer	director
+show me successful movie directors	0.6	movie	director
+who produced hotel rwanda cover art	0.89010989011	producer	director
+who's the director	0.451612903226	director	director
+director's name	0.025	actor	director_name
+what is the name of a turkish director that produced a drama film	0.432484382508	person_name	director_name
+watch dredd movie	0.0487804878049	other	media
+see dredd movie	0.0487804878049	other	media
+what was the name of an academy award winning russian documentary	0.420726991493	actor_name	movie_name
+what movie titles starring meryl streep earned oscar nominations	0.494382022472	movie	movie_name
+in search for names of crew members please	0.875273522976	movie	movie actor_name
+get me reviews and info about the campaign movie	0.998054007944	movie	movie review
+show me reviews and info for the campaign	0.991193498195	movie	movie review
+what movies that clint eastwood direct that he won the best director oscar for	0.999996834937	movie	movie
+what's hitchcock's most famous movie	0.0487804878049	producer	movie
+tell me some of walter f parkes best movies	0.849420849421	movie	movie
+looking for movies directed by actor number one	0.999973069764	movie	movie
+list of movies directed by director three	0.999999207206	movie	movie
+show me the film that grossed seven point two million at the box office	0.998402438367	movie	movie
+show me movies that made over seven million dollars	0.99999718661	movie	movie
+show me movies that didn't gross much	0.999868329351	movie	movie
+i want to see movies from early two thousands	0.99999879809	movie	movie
+show last years films by 7 arts	0.535714285714	movie	movie
+show all movies that came out nine fourteen twenty twelve	0.999999964686	movie	movie
+were there any movies released nine fourteen twenty twelve	0.999992734941	movie	movie
+show me movies from the nineteen seventies	0.999992882324	movie	movie
+can you list all movies from twenty twelve with a rating of three stars and up	0.999999987871	movie	movie
+academy award lionsgate movies	0.315789473684	movie	movie
+show oscar winning movies by warner brothers	0.987863392605	movie	movie
+what movie performance did meryl streep win her best supporting oscar	0.92469352014	movie	movie
+have any us released movies been filmed on location in the czech republic	0.709359605911	movie	movie
+what us release movies have been filmed in the czech republic	0.977790352242	movie	movie
+list movies set in ireland	0.459459459459	movie	movie
+show me the movies released in england	0.999988918092	movie	movie
+what movies are coming out this week in great britain	0.999138422707	movie	movie
+show me the movies released in nepal	0.99997783643	movie	movie
+what are the top five french movies of all time	0.99985642464	movie	movie
+what top films have come out of russia	0.566371681416	movie	movie
+show me the top movies from spain	0.999969719114	movie	movie
+what is the highest rated zombie movie	0.363912054587	movie	movie
+what are highly rated zombie movies i can watch	0.88547008547	movie	movie
+look for popular movies	0.2625	movie	movie
+search for foreign language films	0.904977375566	movie	movie
+what is will ferrell famous for	0.719810576164	movie	movie
+is this a musical	0.24	movie	movie
+hope that the movie is in english	0.936966246442	movie	movie
+is this movie in english	0.991525423729	movie	movie
+do they speak german in the movie	0.327086882453	movie	movie
+is this movie filmed in india	0.963954685891	movie	movie
+show all dawn of the dead movies	0.942452545948	movie	movie
+all of kung fu panda movies	0.2	movie	movie
+list movies that have time travel in their title	0.999764990456	movie	movie
+i want to see nine twenty eight release date films from twenty twelve	0.999997724976	movie	movie
+find information about french movies	0.853448275862	movie	movie
+i need to know more about the life and movies of indian actor dilip kumar	0.999967222412	movie	person
+what does the miramax logo look like	0.588235294118	other	picture
+show me pictures of martin scorsese	0.625235404896	movie	picture
+photos of steven spielberg	0.424242424242	movie	picture
+i want to see images of will ferrell	0.999485675846	movie	picture
+show me pictures of woody allen	0.854621230694	movie	picture
+what are popular movie producers	0.381443298969	movie	producer
+can you give me the producer	0.989577890307	movie	producer
+i would like to know the rating of the movie avatar	0.998666796152	movie	rating
+what rating is the movie barfi	0.611388611389	rating	rating
+what is finding nemo rated	0.622340425532	movie	rating
+i need to know the rating of grease	0.609760303501	movie	rating
+can you find out what rating the movie grease is	0.661408022947	movie	rating
+what is kids by larry clark rated	0.153225806452	rating	rating
+what rating did marley and me receive	0.836820083682	rating	rating
+what is the rating for mr and mrs smith	0.996618104162	rating	rating
+what rating did resident evil receive	0.315789473684	release_date	rating
+rating for snow white and the huntsman	0.21768707483	budget	rating
+what rating is step up	0.359550561798	rating	rating
+look up the rating of the movie step up	0.850383510142	rating	rating
+what rating did the campaign movie get	0.251308900524	movie	rating
+show me the rating for the movie the expendables	0.81083413456	rating	rating
+what is the rating for toy story	0.997911157614	rating	rating
+what is the rating for the movie toy story	0.997005719344	rating	rating
+rating for twilight breaking dawn	0.371794871795	rating	rating
+what was gross revenue for batman begins	0.854497354497	revenue	revenue
+how much has black swan brought in	0.427397260274	revenue	revenue
+find the revenue for downton abbey	0.970556935083	revenue	revenue
+find the revenue of edward scissor hands	0.932038834951	revenue	revenue
+what is the most a movie made	0.949881264842	movie	revenue
+reviews for dirty dancing	0.616438356164	review	review
+find reviews for dirty dancing	0.762711864407	review	review
+what are reviews for finding nemo	0.83652173913	movie	review
+what are the ratings and review on finding nemo	0.992510508216	movie	review
+reviews for finding nemo	0.424242424242	review	review
+reviews for finding nemo	0.424242424242	review	review
+reviews for finding nemo	0.424242424242	review	review
+reviews for movie	0.588785046729	review	review
+reviews for in july	0.860068259386	review	review
+what are the reviewers saying about star wars episode four	0.999646348718	movie	review
+how long is life is beautiful	0.65325443787	movie	runtime
+synopsis for the movie house at the end of the street	0.999968690488	movie	synopsis
+synopsis for star wars four	0.929832113646	movie	synopsis
+summary of star wars four	0.799259944496	movie	synopsis
+finding nemo movie shortcut	0.869426751592	movie	trailer
+show me the trailer for house at the end of the street	0.999733515242	movie	trailer
+life is beatiful shortcut	0.432432432432	movie	trailer
+trailer for star wars a new hope	0.951841359773	movie	trailer
+show resident evil movies with trailers	0.48031496063	movie	trailer
+can i see previews for upcoming warner brothers movies	0.879765395894	movie	trailer
+how many woody allen movies are set in new york city	0.804034582133	movie_count	movie_count
+how many scorsese films were filmed in france	0.670476190476	movie	movie_count

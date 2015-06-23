@@ -1,0 +1,59 @@
+actor	182
+actor_name	20
+actor_name character	1
+award	4
+award_category_count	1
+award_ceremony award_category	2
+award_count	1
+birth_date	6
+budget	113
+character	6
+composer	3
+country	60
+director	165
+director movie date star_rating	1
+director movie star_rating	4
+director movie_name	1
+director producer	1
+director_name	13
+genre	61
+language	49
+media	8
+movie	1527
+movie budget	1
+movie date	2
+movie director	6
+movie language	1
+movie media	1
+movie producer	2
+movie rating	3
+movie revenue	3
+movie star_rating	16
+movie subjects	1
+movie trailer	4
+movie_count	30
+movie_name	24
+movie_other	146
+organization	2
+other	134
+person	127
+person_name	9
+picture	11
+producer	143
+producer picture	1
+producer producer	1
+producer_count	1
+rating	75
+rating star_rating	1
+release_date	163
+revenue	130
+review	31
+review movie	1
+review rating	1
+runtime	7
+star_rating	3
+subjects	6
+synopsis	2
+theater	11
+trailer	8
+writer	1

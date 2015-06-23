@@ -1,0 +1,15 @@
+
+
+cat ../InputData/NLSPARQL.train.feats.txt | cut -f 1,2 > no_lemma.train.feats.txt
+cat ../InputData/NLSPARQL.train.data | cut -f 2 > only_label.data
+paste no_lemma.train.feats.txt only_label.data with.pos.train.data
+
+cat ../TestD/NLSPARQL.test.feats.txt | cut -f 3,4 > test.with.pos.data
+cat ../Test/NLSPARQL.test.data | cut -f 2 > test.label.data
+paste test.with.pos.data test.label.data > with.pos.test.data
+
+crf_learn crf.template with.pos.train.data crf.lm
+
+crf_test -v 1 -m crf.lm with.pos.test.data > test.txt
+
+perl ../eval/conlleval.pl -d '\t' < test.txt

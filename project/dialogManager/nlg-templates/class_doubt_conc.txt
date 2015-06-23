@@ -1,0 +1,1 @@
+So, you want [%sure_class%]. Do you mean [%what%] the [%category%]? Just answer Yes or No

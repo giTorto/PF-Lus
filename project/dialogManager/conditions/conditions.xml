@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<conditions>
+
+<!-- operators:
+==
+!=
+>
+<
+>=
+<=
+<<
+<=<
+<<=
+<=<=
+!<<
+~*
+!~*
+
+attributes: field, operator, value, minValue, maxValue
+-->
+<if>
+    <condition>
+        <field>to_ask</field>
+        <operator>==</operator>
+        <value>3</value>
+    </condition>
+    <condition>
+        <field>type</field>
+        <operator>==</operator>
+        <value>concept_value</value>
+    </condition>
+    <action>prompt(askMapping.txt)</action>
+
+</if>
+
+    <if>
+        <condition>
+            <field>to_ask</field>
+            <operator>==</operator>
+            <value>2</value>
+        </condition>
+        <condition>
+            <field>expected_a</field>
+            <operator>==</operator>
+            <value>concept_key</value>
+        </condition>
+        <condition>
+            <field>class|conc</field>
+            <operator>==</operator>
+            <value>conc</value>
+        </condition>
+        <condition>
+            <field>type</field>
+            <operator>==</operator>
+            <value>multi</value>
+        </condition>
+
+        <action>prompt(class_half_concept.txt)</action>
+    </if>
+
+<if>
+    <condition>
+        <field>to_ask</field>
+        <operator>==</operator>
+        <value>2</value>
+    </condition>
+    <condition>
+        <field>miss|wrong</field>
+        <operator>==</operator>
+        <value>miss</value>
+    </condition>
+    <action>prompt(further_info.txt)</action>
+</if>
+    <if>
+        <condition>
+            <field>to_ask</field>
+            <operator>==</operator>
+            <value>2</value>
+        </condition>
+        <condition>
+            <field>miss|wrong</field>
+            <operator>==</operator>
+            <value>wrong</value>
+        </condition>
+        <action>prompt(wrong_info.txt)</action>
+    </if>
+<if>
+    <condition>
+        <field>to_ask</field>
+        <operator>==</operator>
+        <value>1</value>
+    </condition>
+    <condition>
+        <field>expected_a</field>
+        <operator>==</operator>
+        <value>sure_class</value>
+    </condition>
+    <condition>
+        <field>class|conc</field>
+        <operator>==</operator>
+        <value>class</value>
+    </condition>
+    <condition>
+        <field>type</field>
+        <operator>==</operator>
+        <value>multi</value>
+    </condition>
+    <condition>
+        <field>known_conc</field>
+        <operator>==</operator>
+        <value>0</value>
+    </condition>
+    <action>prompt(no_class_no_conc.txt)</action>
+</if>
+
+    <if>
+        <condition>
+            <field>to_ask</field>
+            <operator>==</operator>
+            <value>1</value>
+        </condition>
+        <condition>
+            <field>expected_a</field>
+            <operator>==</operator>
+            <value>sure_class</value>
+        </condition>
+        <condition>
+            <field>class|conc</field>
+            <operator>==</operator>
+            <value>class</value>
+        </condition>
+        <condition>
+            <field>type</field>
+            <operator>==</operator>
+            <value>multi</value>
+        </condition>
+        <condition>
+            <field>known_conc</field>
+            <operator>!=</operator>
+            <value>0</value>
+        </condition>
+        <action>prompt(no_class_yes_conc.txt)</action>
+    </if>
+
+<if>
+    <condition>
+        <field>to_ask</field>
+        <operator>==</operator>
+        <value>1</value>
+    </condition>
+    <condition>
+        <field>expected_a</field>
+        <operator>==</operator>
+        <value>concept_value</value>
+    </condition>
+    <condition>
+        <field>class|conc</field>
+        <operator>==</operator>
+        <value>conc</value>
+    </condition>
+    <condition>
+        <field>type</field>
+        <operator>==</operator>
+        <value>y/n</value>
+    </condition>
+
+    <action>prompt(class_doubt_conc.txt)</action>
+</if>
+<if>
+    <condition>
+        <field>to_ask</field>
+        <operator>==</operator>
+        <value>1</value>
+    </condition>
+    <condition>
+        <field>expected_a</field>
+        <operator>==</operator>
+        <value>concept_value</value>
+    </condition>
+    <condition>
+        <field>class|conc</field>
+        <operator>==</operator>
+        <value>conc</value>
+    </condition>
+    <condition>
+        <field>type</field>
+        <operator>==</operator>
+        <value>multi</value>
+    </condition>
+
+    <action>prompt(wait_conc.txt)</action>
+</if>
+
+<if>
+    <condition>
+        <field>to_ask</field>
+        <operator>==</operator>
+        <value>1</value>
+    </condition>
+    <condition>
+        <field>expected_a</field>
+        <operator>==</operator>
+        <value>concept_key</value>
+    </condition>
+    <condition>
+        <field>class|conc</field>
+        <operator>==</operator>
+        <value>conc</value>
+    </condition>
+    <condition>
+        <field>type</field>
+        <operator>==</operator>
+        <value>multi</value>
+    </condition>
+
+    <action>prompt(class_no_concept_clue.txt)</action>
+</if>
+<default>
+returnMessage(0)
+</default>
+</conditions>

@@ -1,0 +1,5 @@
+What do you want to know about [%based_on%]?
+There are some possibilities:
+[%what%]
+Or None of them.
+Just say what you are interested in.

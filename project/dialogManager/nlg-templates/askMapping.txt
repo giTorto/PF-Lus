@@ -1,0 +1,3 @@
+Ok, there are many [%key%]s with this name.
+Can you tell me a more specific name?
+[%what%] or none of them.

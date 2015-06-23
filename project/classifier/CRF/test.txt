@@ -1,0 +1,9285 @@
+# 0.593862
+star	O	O/0.808085
+of	O	O/0.809945
+thor	B-movie.name	B-movie.name/0.597512
+
+# 0.997578
+who	O	O/0.999398
+be	O	O/0.999962
+in	O	O/0.999922
+the	O	O/0.999457
+movie	O	O/0.999947
+the	B-movie.name	B-movie.name/0.999368
+campaign	I-movie.name	I-movie.name/0.998909
+
+# 0.998068
+list	O	O/0.999560
+the	O	O/0.999972
+cast	O	O/0.999888
+of	O	O/0.999957
+the	O	O/0.999849
+movie	O	O/0.999973
+the	B-movie.name	B-movie.name/0.999388
+campaign	I-movie.name	I-movie.name/0.998909
+
+# 0.852491
+who	O	O/0.997731
+be	O	O/0.999606
+in	O	O/0.994181
+twilight	B-movie.name	B-movie.name/0.855074
+
+# 0.275535
+who	O	O/0.997673
+be	O	O/0.999490
+in	O	O/0.970651
+vulguria	B-movie.name	B-movie.language/0.276601
+
+# 0.330105
+actor	O	O/0.990035
+from	O	O/0.981382
+lose	B-movie.name	B-movie.name/0.333231
+
+# 0.731469
+who	O	O/0.998540
+play	O	O/0.999836
+in	O	O/0.999201
+the	O	O/0.993426
+movie	O	O/0.997469
+rocky	B-movie.name	B-movie.name/0.736487
+
+# 0.931552
+who	O	O/0.998540
+play	O	O/0.999836
+in	O	O/0.999167
+the	O	O/0.984906
+movie	O	O/0.998572
+captain	B-movie.name	B-movie.name/0.986324
+america	I-movie.name	I-movie.name/0.950408
+
+# 0.598148
+cast	O	O/0.992520
+and	O	O/0.999175
+crew	O	O/0.996638
+for	O	O/0.995472
+in	B-movie.name	B-movie.name/0.615033
+July	I-movie.name	I-movie.name/0.615374
+
+# 0.988999
+who	O	O/0.999044
+be	O	O/0.999948
+in	O	O/0.998217
+movie	O	O/0.997570
+in	B-movie.name	B-movie.name/0.995140
+july	I-movie.name	I-movie.name/0.994526
+
+# 0.804952
+who	O	O/0.998508
+be	O	O/0.999645
+in	O	O/0.985689
+star	B-movie.name	B-movie.name/0.854671
+war	I-movie.name	I-movie.name/0.972748
+episode	I-movie.name	I-movie.name/0.975415
+four	I-movie.name	I-movie.name/0.955524
+
+# 0.984799
+who	O	O/0.998153
+be	O	O/0.999734
+in	O	O/0.998222
+apollo	B-movie.name	B-movie.name/0.991276
+thirteen	I-movie.name	I-movie.name/0.990243
+
+# 0.472660
+who	O	O/0.997725
+be	O	O/0.994097
+apollo	B-movie.name	B-movie.name/0.672418
+thirteen	I-movie.name	I-movie.name/0.728541
+be	O	O/0.865496
+cast	O	O/0.870113
+
+# 0.917650
+search	O	O/0.999492
+for	O	O/0.999934
+information	O	O/0.998496
+about	O	O/0.999272
+the	O	O/0.995189
+cast	O	O/0.995816
+and	O	O/0.996985
+crew	O	O/0.987874
+of	O	O/0.989765
+appolo	B-movie.name	B-movie.name/0.964337
+thirteen	I-movie.name	I-movie.name/0.947442
+
+# 0.971607
+i	O	O/0.998983
+would	O	O/0.999529
+like	O	O/0.998286
+to	O	O/0.994686
+know	O	O/0.998457
+more	O	O/0.998452
+about	O	O/0.998551
+the	O	O/0.996806
+cast	O	O/0.996513
+and	O	O/0.999296
+crew	O	O/0.999402
+of	O	O/0.999571
+the	O	O/0.998909
+movie	O	O/0.999912
+apollo	B-movie.name	B-movie.name/0.998981
+thirteen	I-movie.name	I-movie.name/0.992139
+
+# 0.935095
+who	O	O/0.998300
+star	O	O/0.997225
+in	O	O/0.993260
+the	B-movie.name	B-movie.name/0.939696
+avenger	I-movie.name	I-movie.name/0.945147
+
+# 0.949277
+cast	O	O/0.996860
+for	O	O/0.999669
+find	B-movie.name	B-movie.name/0.961023
+nemo	I-movie.name	I-movie.name/0.955721
+
+# 0.330105
+actor	O	O/0.990035
+from	O	O/0.981382
+lassie	B-movie.name	B-movie.name/0.333231
+
+# 0.729844
+list	O	O/0.997651
+actor	O	O/0.999566
+in	O	O/0.999800
+the	O	O/0.994883
+movie	O	O/0.998332
+midnight	B-movie.name	B-movie.name/0.913147
+cowboy	I-movie.name	I-movie.name/0.740474
+
+# 0.906296
+dirty	B-movie.name	B-movie.name/0.961944
+dancing	I-movie.name	I-movie.name/0.950226
+actor	O	O/0.955663
+
+# 0.958438
+who	O	O/0.998293
+be	O	O/0.999199
+cast	O	O/0.976843
+and	O	O/0.990101
+crew	O	O/0.993851
+of	O	O/0.997647
+dirty	B-movie.name	B-movie.name/0.998528
+dancing	I-movie.name	I-movie.name/0.996222
+
+# 0.944022
+who	O	O/0.998126
+be	O	O/0.999731
+in	O	O/0.996423
+hitch	B-movie.name	B-movie.name/0.946233
+
+# 0.980120
+who	O	O/0.999394
+be	O	O/0.999938
+in	O	O/0.999817
+the	O	O/0.997905
+cast	O	O/0.998188
+of	O	O/0.998529
+hitch	B-movie.name	B-movie.name/0.982930
+
+# 0.275981
+star	O	O/0.948176
+of	O	O/0.947980
+fact	B-movie.name	B-movie.name/0.295897
+of	I-movie.name	I-movie.name/0.461206
+life	I-movie.name	I-movie.name/0.451087
+
+# 0.667262
+show	O	O/0.999288
+me	O	O/0.997148
+movie	O	O/0.990448
+credit	O	O/0.674400
+
+# 0.993885
+who	O	O/0.998126
+do	O	O/0.999809
+the	O	O/0.999417
+voice	O	O/0.999385
+for	O	O/0.999822
+the	O	O/0.998472
+movie	O	O/0.997721
+
+# 0.961938
+find	O	O/0.994783
+movie	O	O/0.997603
+actor	O	O/0.968815
+
+# 0.103432
+show	O	O/0.904070
+credit	O	B-movie.name/0.185311
+-	O	I-movie.name/0.245548
+forager	B-movie.name	I-movie.name/0.296383
+
+# 0.824209
+star	O	O/0.926939
+of	O	O/0.932939
+modern	B-movie.name	B-movie.name/0.884270
+family	I-movie.name	I-movie.name/0.886238
+
+# 0.890817
+look	O	O/0.996919
+up	O	O/0.999630
+information	O	O/0.999243
+about	O	O/0.999058
+the	O	O/0.994246
+cast	O	O/0.992593
+crew	O	O/0.990830
+of	O	O/0.991562
+go	B-movie.name	B-movie.name/0.908344
+
+# 0.899491
+find	O	O/0.999595
+information	O	O/0.999490
+about	O	O/0.999581
+the	O	O/0.995251
+cast	O	O/0.995975
+and	O	O/0.997819
+crew	O	O/0.994981
+of	O	O/0.995412
+go	B-movie.name	B-movie.name/0.911659
+
+# 0.828559
+who	O	O/0.999394
+be	O	O/0.999938
+in	O	O/0.999810
+the	O	O/0.997201
+cast	O	O/0.997193
+of	O	O/0.996399
+go	B-movie.name	B-movie.name/0.830779
+
+# 0.923410
+can	O	O/0.998846
+you	O	O/0.999602
+find	O	O/0.999488
+the	O	O/0.997031
+lead	O	O/0.983458
+actor	O	O/0.984161
+in	O	O/0.991868
+pretty	B-movie.name	B-movie.name/0.969016
+woman	I-movie.name	I-movie.name/0.961597
+
+# 0.782902
+what	O	O/0.999592
+be	O	O/0.999889
+the	O	O/0.999132
+actor	O	O/0.985658
+name	O	O/0.941513
+and	O	O/0.921629
+part	O	O/0.910268
+in	O	O/0.994684
+find	B-movie.name	B-movie.name/0.948369
+nemo	I-movie.name	I-movie.name/0.946273
+
+# 0.544144
+search	O	O/0.999577
+for	O	O/0.999677
+name	O	O/0.950637
+of	O	O/0.926990
+crew	O	O/0.769852
+member	O	O/0.761257
+of	O	O/0.793683
+appollo	B-movie.name	B-movie.name/0.773657
+thirteen	I-movie.name	I-movie.name/0.856757
+
+# 0.859963
+budget	O	O/0.992300
+for	O	O/0.992662
+dark	B-movie.name	B-movie.name/0.874320
+knight	I-movie.name	I-movie.name/0.982408
+
+# 0.993725
+what	O	O/0.999503
+be	O	O/0.999903
+the	O	O/0.999872
+budget	O	O/0.999472
+for	O	O/0.999842
+the	B-movie.name	B-movie.name/0.995995
+godfather	I-movie.name	I-movie.name/0.995488
+
+# 0.979411
+budget	O	O/0.996158
+for	O	O/0.999725
+twilight	B-movie.name	B-movie.name/0.983199
+
+# 0.972468
+please	O	O/0.992322
+look	O	O/0.998480
+up	O	O/0.999217
+the	O	O/0.999671
+budget	O	O/0.998600
+of	O	O/0.999298
+step	B-movie.name	B-movie.name/0.994463
+up	I-movie.name	I-movie.name/0.984717
+
+# 0.718044
+budget	O	O/0.998345
+for	O	O/0.999781
+titanic	B-movie.name	B-movie.name/0.810805
+the	O	O/0.907999
+movie	O	O/0.986800
+
+# 0.983275
+what	O	O/0.999503
+be	O	O/0.999904
+the	O	O/0.999880
+budget	O	O/0.999762
+for	O	O/0.999904
+the	O	O/0.998593
+movie	O	O/0.999841
+titanic	B-movie.name	B-movie.name/0.985597
+
+# 0.875872
+budget	O	O/0.993232
+for	O	O/0.996546
+iron	B-movie.name	B-movie.name/0.953738
+man	I-movie.name	I-movie.name/0.997685
+2	I-movie.name	I-movie.name/0.926238
+
+# 0.962468
+please	O	O/0.985729
+tell	O	O/0.996430
+me	O	O/0.991870
+how	O	O/0.995983
+much	O	O/0.999211
+be	O	O/0.999757
+the	O	O/0.999252
+budget	O	O/0.998891
+for	O	O/0.999869
+avatar	B-movie.name	B-movie.name/0.992654
+
+# 0.790614
+how	O	O/0.996628
+much	O	O/0.995749
+money	O	O/0.958232
+do	O	O/0.911683
+they	O	O/0.939511
+spend	O	O/0.965517
+to	O	O/0.969257
+make	O	O/0.995985
+avatar	B-movie.name	B-movie.name/0.967548
+
+# 0.964451
+avatar	B-movie.name	B-movie.name/0.971015
+'s	O	O/0.998337
+budget	O	O/0.994122
+
+# 0.838445
+how	O	O/0.995508
+much	O	O/0.995744
+do	O	O/0.976718
+avatar	B-movie.name	B-movie.name/0.878102
+take	O	O/0.976742
+in	O	O/0.997467
+
+# 0.956749
+please	O	O/0.993025
+show	O	O/0.999716
+me	O	O/0.999193
+what	O	O/0.999106
+the	O	O/0.999115
+budget	O	O/0.997662
+be	O	O/0.999215
+for	O	O/0.998157
+avatar	B-movie.name	B-movie.name/0.968918
+
+# 0.807588
+what	O	O/0.999503
+be	O	O/0.999903
+the	O	O/0.999875
+budget	O	O/0.999562
+for	O	O/0.999812
+the	O	O/0.845799
+avatar	B-movie.name	B-movie.name/0.811173
+movie	O	O/0.997515
+
+# 0.986403
+can	O	O/0.996281
+you	O	O/0.999172
+tell	O	O/0.999394
+me	O	O/0.999886
+the	O	O/0.999967
+budget	O	O/0.999902
+of	O	O/0.999864
+the	O	O/0.999288
+movie	O	O/0.999959
+avatar	B-movie.name	B-movie.name/0.992338
+
+# 0.980370
+total	O	O/0.989496
+budget	O	O/0.999486
+for	O	O/0.999764
+the	O	O/0.999009
+movie	O	O/0.999895
+avatar	B-movie.name	B-movie.name/0.992289
+
+# 0.927367
+what	O	O/0.999503
+be	O	O/0.999900
+the	O	O/0.999527
+budget	O	O/0.994999
+for	O	O/0.997866
+batman	B-movie.name	B-movie.name/0.980933
+begin	I-movie.name	I-movie.name/0.937456
+
+# 0.966225
+what	O	O/0.999503
+be	O	O/0.999903
+the	O	O/0.999870
+budget	O	O/0.999407
+for	O	O/0.999629
+the	B-movie.name	B-movie.name/0.969934
+avenger	I-movie.name	I-movie.name/0.968895
+
+# 0.974413
+what	O	O/0.999503
+be	O	O/0.999901
+the	O	O/0.999642
+budget	O	O/0.998763
+for	O	O/0.999529
+go	B-movie.name	B-movie.name/0.988599
+with	I-movie.name	I-movie.name/0.996618
+the	I-movie.name	I-movie.name/0.993447
+wind	I-movie.name	I-movie.name/0.988349
+
+# 0.131871
+what	O	O/0.998714
+be	O	O/0.993521
+spend	O	O/0.827707
+on	O	O/0.585956
+my	B-movie.name	B-movie.name/0.330024
+big	I-movie.name	I-movie.name/0.493735
+fat	I-movie.name	I-movie.name/0.707639
+Greek	I-movie.name	I-movie.name/0.735425
+wedding	I-movie.name	I-movie.name/0.675125
+
+# 0.306781
+what	O	O/0.994400
+be	O	O/0.938583
+pretty	B-movie.name	B-movie.name/0.361005
+woman	I-movie.name	I-movie.name/0.697341
+'s	O	O/0.973612
+budget	O	O/0.980955
+
+# 0.662042
+what	O	O/0.999503
+be	O	O/0.999899
+the	O	O/0.999421
+budget	O	O/0.996684
+for	O	O/0.993179
+Spaceball	B-movie.name	B-movie.name/0.664581
+
+# 0.117103
+how	O	O/0.998141
+many	O	O/0.997891
+movie	O	O/0.989549
+have	O	O/0.843038
+kevin	B-actor.name	O/0.176922
+bacon	I-actor.name	O/0.374267
+be	O	O/0.900093
+the	O	O/0.976168
+lead	O	O/0.973618
+actor	O	O/0.993827
+in	O	O/0.997003
+
+# 0.341820
+how	O	O/0.996000
+many	O	O/0.991766
+star	B-movie.name	B-movie.name/0.530129
+war	I-movie.name	I-movie.name/0.453847
+movie	O	O/0.977621
+be	O	O/0.934370
+there	O	O/0.909219
+
+# 0.649794
+how	O	O/0.997621
+many	O	O/0.997178
+movie	O	O/0.997347
+be	O	O/0.945917
+rate	O	O/0.821344
+g	B-rating.name	B-rating.name/0.686855
+
+# 0.756963
+spain	B-country.name	O/0.796656
+have	O	O/0.909203
+how	O	O/0.993698
+many	O	O/0.998230
+movie	O	O/0.999087
+
+# 0.933417
+how	O	O/0.998197
+many	O	O/0.998364
+movie	O	O/0.996182
+have	O	O/0.963905
+kristen	B-actor.name	B-actor.name/0.980018
+stewart	I-actor.name	I-actor.name/0.992020
+star	O	O/0.995683
+in	O	O/0.997449
+
+# 0.968581
+how	O	O/0.998187
+many	O	O/0.998283
+movie	O	O/0.997677
+have	O	O/0.985524
+robert	B-director.name	B-director.name/0.993323
+wise	I-director.name	I-director.name/0.995350
+direct	O	O/0.996086
+
+# 0.923702
+how	O	O/0.997904
+many	O	O/0.997276
+movie	O	O/0.996914
+do	O	O/0.963099
+alfred	B-director.name	B-director.name/0.977378
+hitchcock	I-director.name	I-director.name/0.978205
+direct	O	O/0.991202
+
+# 0.358666
+how	O	O/0.998184
+many	O	O/0.998248
+movie	O	O/0.996527
+have	O	O/0.964957
+paramount	B-producer.name	B-producer.name/0.476795
+do	O	O/0.791694
+
+# 0.705165
+i	O	O/0.998986
+would	O	O/0.999552
+like	O	O/0.999504
+to	O	O/0.999122
+know	O	O/0.999850
+the	O	O/0.999960
+name	O	O/0.999282
+of	O	O/0.999375
+the	O	O/0.997582
+country	O	O/0.996520
+from	O	O/0.990654
+where	O	O/0.810736
+the	O	O/0.955498
+movie	O	O/0.991920
+kati	B-movie.name	B-movie.name/0.983480
+patang	I-movie.name	I-movie.name/0.984494
+come	O	O/0.913726
+
+# 0.470798
+what	O	O/0.998206
+country	O	O/0.996981
+be	O	O/0.956376
+bullhead	B-movie.name	B-movie.name/0.473963
+
+# 0.958784
+what	O	O/0.998648
+country	O	O/0.991705
+make	O	O/0.996545
+black	B-movie.name	B-movie.name/0.996553
+swan	I-movie.name	I-movie.name/0.971080
+
+# 0.891765
+what	O	O/0.998825
+country	O	O/0.998205
+be	O	O/0.983657
+black	B-movie.name	B-movie.name/0.955088
+swan	I-movie.name	I-movie.name/0.941603
+from	O	O/0.986807
+
+# 0.895629
+what	O	O/0.999572
+country	O	O/0.999807
+be	O	O/0.999355
+the	O	O/0.996625
+movie	O	O/0.996479
+make	O	O/0.901826
+
+# 0.004397
+what	O	O/0.995933
+country	O	O/0.961426
+do	O	O/0.556742
+deep	B-movie.name	B-movie.name/0.122952
+blue	I-movie.name	I-movie.name/0.059716
+sea	I-movie.name	I-movie.name/0.370522
+come	O	O/0.882368
+from	O	O/0.977169
+
+# 0.977325
+origin	O	O/0.993128
+of	O	O/0.998908
+titanic	B-movie.name	B-movie.name/0.983309
+
+# 0.551506
+origin	O	O/0.814316
+of	O	O/0.823047
+king	B-movie.name	B-movie.name/0.659902
+lear	I-movie.name	I-movie.name/0.682576
+
+# 0.424954
+when	O	O/0.969418
+will	O	O/0.938402
+top	B-movie.name	B-movie.name/0.883567
+gun	I-movie.name	I-movie.name/0.720711
+be	O	O/0.674152
+release	O	O/0.804783
+
+# 0.720143
+release	O	O/0.970528
+year	O	O/0.971839
+and	O	O/0.993142
+date	O	O/0.996139
+for	O	O/0.991362
+casino	B-movie.name	B-movie.name/0.762238
+
+# 0.122853
+when	O	O/0.990681
+do	O	O/0.958135
+will	B-actor.name	B-person.name/0.462559
+ferrell	I-actor.name	I-person.name/0.395283
+begin	O	O/0.475027
+act	O	O/0.529491
+
+# 0.244274
+show	O	O/0.998318
+me	O	O/0.993261
+when	O	O/0.885925
+@card@	B-movie.name	B-movie.name/0.410255
+will	O	O/0.649916
+be	O	O/0.704009
+release	O	O/0.906619
+
+# 0.950508
+can	O	O/0.990932
+i	O	O/0.995037
+have	O	O/0.993568
+release	O	O/0.999707
+date	O	O/0.999798
+of	O	O/0.993318
+movie	O	O/0.975618
+
+# 0.892007
+movie	O	O/0.949752
+'s	O	O/0.950924
+release	O	O/0.995515
+date	O	O/0.983626
+
+# 0.558875
+show	O	O/0.999641
+me	O	O/0.999774
+when	O	O/0.999111
+the	O	O/0.995774
+movie	O	O/0.998823
+be	O	O/0.585426
+make	O	O/0.915982
+
+# 0.517614
+when	O	O/0.999053
+the	O	O/0.999234
+movie	O	O/0.998963
+titanic	B-movie.name	B-movie.name/0.981578
+be	O	O/0.601076
+release	O	O/0.797046
+
+# 0.330995
+what	O	O/0.998778
+year	O	O/0.996246
+do	O	O/0.995276
+the	O	O/0.944235
+Italian	B-country.name	O/0.597153
+movie	O	O/0.833816
+roman	B-movie.name	B-movie.name/0.620119
+holiday	I-movie.name	I-movie.name/0.821614
+come	O	O/0.953185
+out	O	O/0.964540
+
+# 0.882935
+can	O	O/0.993648
+you	O	O/0.998293
+please	O	O/0.996650
+search	O	O/0.994183
+for	O	O/0.970020
+release	O	O/0.965450
+date	O	O/0.984383
+for	O	O/0.988786
+karate	B-movie.name	B-movie.name/0.986028
+kid	I-movie.name	I-movie.name/0.969622
+
+# 0.492934
+karate	B-movie.name	B-movie.name/0.683394
+kid	I-movie.name	I-movie.name/0.632529
+release	O	O/0.849811
+date	O	O/0.930461
+please	O	O/0.946305
+
+# 0.918767
+when	O	O/0.991070
+be	O	O/0.979679
+dirty	B-movie.name	B-movie.name/0.978618
+dancing	I-movie.name	I-movie.name/0.987513
+release	O	O/0.966682
+
+# 0.340555
+when	O	O/0.975566
+be	O	O/0.893575
+Spaceball	B-movie.name	B-movie.name/0.472039
+release	O	O/0.696804
+
+# 0.464129
+when	O	O/0.986233
+be	O	O/0.957673
+batman	B-movie.name	B-movie.name/0.762867
+release	O	O/0.614648
+
+# 0.623399
+when	O	O/0.976286
+be	O	O/0.916755
+pretty	B-movie.name	B-movie.name/0.794683
+woman	I-movie.name	I-movie.name/0.825292
+release	O	O/0.851931
+
+# 0.384461
+when	O	O/0.985964
+be	O	O/0.925736
+man	B-movie.name	O/0.520794
+in	I-movie.name	O/0.766500
+black	I-movie.name	B-movie.name/0.709719
+release	O	I-movie.name/0.729408
+
+# 0.001640
+when	O	O/0.915289
+do	O	O/0.642259
+Kristen	B-actor.name	B-movie.name/0.117754
+Stewart	I-actor.name	I-movie.name/0.065074
+start	O	O/0.180196
+acting	O	O/0.464986
+
+# 0.221830
+when	O	O/0.974117
+be	O	O/0.903572
+possess	B-movie.name	O/0.382380
+go	O	O/0.521792
+to	O	O/0.878120
+be	O	O/0.943759
+release	O	O/0.937741
+
+# 0.807633
+when	O	O/0.990923
+be	O	O/0.975162
+resident	B-movie.name	B-movie.name/0.951238
+evil	I-movie.name	I-movie.name/0.964171
+release	O	O/0.880744
+
+# 0.977774
+release	O	O/0.996367
+date	O	O/0.999510
+for	O	O/0.998571
+find	B-movie.name	B-movie.name/0.991720
+nemo	I-movie.name	I-movie.name/0.983970
+
+# 0.627312
+when	O	O/0.992111
+be	O	O/0.980225
+find	B-movie.name	B-movie.name/0.770133
+nemo	I-movie.name	I-movie.name/0.765293
+release	O	O/0.857676
+
+# 0.961707
+release	O	O/0.996615
+date	O	O/0.998976
+of	O	O/0.992446
+hum	B-movie.name	B-movie.name/0.987537
+tum	I-movie.name	I-movie.name/0.973215
+
+# 0.260479
+when	O	O/0.966448
+be	O	O/0.849895
+freedom	B-movie.name	B-movie.name/0.456011
+writer	I-movie.name	I-movie.name/0.469770
+release	O	O/0.701120
+
+# 0.950589
+when	O	O/0.992535
+be	O	O/0.996183
+avatar	B-movie.name	B-movie.name/0.988187
+release	O	O/0.968319
+
+# 0.950944
+when	O	O/0.987703
+do	O	O/0.994330
+avatar	B-movie.name	B-movie.name/0.990878
+release	O	O/0.973147
+
+# 0.983444
+i	O	O/0.998986
+would	O	O/0.999551
+like	O	O/0.999483
+to	O	O/0.998509
+know	O	O/0.998328
+the	O	O/0.997700
+release	O	O/0.999482
+date	O	O/0.999825
+of	O	O/0.999452
+the	O	O/0.998883
+movie	O	O/0.999946
+avatar	B-movie.name	B-movie.name/0.992326
+
+# 0.935791
+can	O	O/0.995882
+you	O	O/0.997066
+tell	O	O/0.992866
+me	O	O/0.996550
+when	O	O/0.998668
+be	O	O/0.997707
+the	O	O/0.997765
+movie	O	O/0.999747
+avatar	B-movie.name	B-movie.name/0.999187
+release	O	O/0.956945
+
+# 0.248830
+when	O	O/0.963477
+be	O	O/0.890040
+date	B-movie.name	B-movie.name/0.343479
+night	I-movie.name	I-movie.name/0.475796
+release	O	O/0.796502
+
+# 0.936280
+when	O	O/0.989886
+do	O	O/0.986933
+black	B-movie.name	B-movie.name/0.974235
+swan	I-movie.name	I-movie.name/0.990341
+come	O	O/0.997158
+out	O	O/0.986961
+
+# 0.261689
+when	O	O/0.930931
+do	O	O/0.578485
+avergers	B-movie.name	B-movie.name/0.329225
+come	O	O/0.939455
+out	O	O/0.960319
+
+# 0.228716
+what	O	O/0.999534
+date	O	O/0.998684
+do	O	O/0.984485
+the	B-movie.name	O/0.664184
+amazing	I-movie.name	O/0.445324
+spiderman	I-movie.name	O/0.585287
+show	O	O/0.978786
+for	O	O/0.992136
+the	O	O/0.879600
+1st	O	O/0.833816
+time	O	O/0.723248
+
+# 0.961119
+what	O	O/0.999454
+be	O	O/0.999729
+the	O	O/0.997698
+release	O	O/0.997383
+date	O	O/0.998276
+of	O	O/0.997254
+vulgaria	B-movie.name	B-movie.name/0.967790
+
+# 0.617484
+when	O	O/0.999721
+the	O	O/0.999780
+movie	O	O/0.999776
+the	B-movie.name	B-movie.name/0.996068
+godfather	I-movie.name	I-movie.name/0.993515
+be	O	O/0.704334
+release	O	O/0.820287
+
+# 0.885706
+when	O	O/0.979433
+do	O	O/0.964774
+looper	B-movie.name	B-movie.name/0.950344
+come	O	O/0.983295
+out	O	O/0.975319
+
+# 0.939194
+can	O	O/0.996280
+you	O	O/0.999169
+tell	O	O/0.999299
+me	O	O/0.999558
+the	O	O/0.998311
+release	O	O/0.999731
+date	O	O/0.999828
+of	O	O/0.999448
+the	O	O/0.998572
+movie	O	O/0.999694
+barfi	B-movie.name	B-movie.name/0.947896
+
+# 0.834220
+what	O	O/0.999562
+date	O	O/0.999509
+do	O	O/0.997492
+the	O	O/0.997169
+movie	O	O/0.997204
+heroine	B-movie.name	B-movie.name/0.898498
+come	O	O/0.954515
+out	O	O/0.964831
+
+# 0.286245
+when	O	O/0.995507
+do	O	O/0.997727
+the	O	O/0.980519
+house	B-movie.name	B-movie.name/0.941506
+at	I-movie.name	I-movie.name/0.970426
+the	I-movie.name	I-movie.name/0.976088
+end	I-movie.name	I-movie.name/0.985432
+of	I-movie.name	I-movie.name/0.992405
+the	I-movie.name	I-movie.name/0.978917
+street	I-movie.name	I-movie.name/0.950756
+hit	O	O/0.566236
+theater	O	O/0.496900
+
+# 0.035724
+what	O	O/0.991089
+day	O	O/0.930431
+be	O	O/0.642948
+fun	B-movie.name	I-movie.name/0.087281
+size	I-movie.name	I-movie.name/0.458586
+come	O	O/0.919204
+out	O	O/0.955131
+
+# 0.026181
+what	O	O/0.993306
+day	O	O/0.905213
+will	O	O/0.211876
+django	B-movie.name	B-movie.name/0.102108
+unchain	I-movie.name	I-movie.name/0.478999
+come	O	O/0.906891
+out	O	O/0.951571
+
+# 0.262066
+when	O	O/0.983106
+will	O	O/0.942903
+i	O	O/0.898040
+be	O	O/0.974777
+able	O	O/0.907434
+to	O	O/0.619070
+view	O	O/0.424967
+iron	B-movie.name	B-movie.name/0.613038
+man	I-movie.name	I-movie.name/0.979649
+3	I-movie.name	I-movie.name/0.952959
+
+# 0.396665
+on	O	O/0.966479
+what	O	O/0.996850
+date	O	O/0.945299
+will	O	O/0.719038
+iron	B-movie.name	B-movie.name/0.780250
+man	I-movie.name	I-movie.name/0.846241
+3	I-movie.name	I-movie.name/0.855169
+be	O	O/0.808711
+release	O	O/0.880967
+
+# 0.890590
+who	O	O/0.995393
+direct	O	O/0.998043
+go	B-movie.name	B-movie.name/0.913757
+with	I-movie.name	I-movie.name/0.951736
+the	I-movie.name	I-movie.name/0.955682
+wind	I-movie.name	I-movie.name/0.954970
+
+# 0.982232
+who	O	O/0.999026
+be	O	O/0.999894
+the	O	O/0.987565
+director	O	O/0.999313
+for	O	O/0.999854
+black	B-movie.name	B-movie.name/0.999618
+swan	I-movie.name	I-movie.name/0.996366
+
+# 0.984419
+tell	O	O/0.996377
+me	O	O/0.999867
+the	O	O/0.999733
+direct	O	O/0.998747
+of	O	O/0.998169
+black	B-movie.name	B-movie.name/0.995003
+swan	I-movie.name	I-movie.name/0.991716
+
+# 0.660699
+who	O	O/0.999034
+be	O	O/0.999935
+the	O	O/0.995341
+director	O	O/0.999134
+of	O	O/0.997339
+sleepless	B-movie.name	B-movie.name/0.875808
+in	I-movie.name	I-movie.name/0.727563
+Seattle	I-movie.name	I-movie.name/0.690046
+
+# 0.467313
+find	O	O/0.998497
+who	O	O/0.998622
+the	O	O/0.998747
+director	O	O/0.991776
+be	O	O/0.982883
+in	O	O/0.874539
+man	B-movie.name	B-movie.name/0.512505
+in	I-movie.name	I-movie.name/0.779135
+black	I-movie.name	I-movie.name/0.804684
+3	I-movie.name	I-movie.name/0.976177
+
+# 0.704416
+locate	O	O/0.975189
+the	O	O/0.988077
+director	O	O/0.993271
+who	O	O/0.996225
+create	O	O/0.988890
+the	O	O/0.995468
+movie	O	O/0.996276
+man	B-movie.name	B-movie.name/0.823164
+in	I-movie.name	I-movie.name/0.817207
+black	I-movie.name	I-movie.name/0.824675
+3	I-movie.name	I-movie.name/0.977434
+
+# 0.994951
+director	O	O/0.999506
+of	O	O/0.999947
+titanic	B-movie.name	B-movie.name/0.995443
+
+# 0.804927
+titanic	B-movie.name	B-movie.name/0.814854
+director	O	O/0.982687
+
+# 0.704211
+avenger	B-movie.name	O/0.737715
+movie	O	O/0.985716
+director	O	O/0.960152
+
+# 0.531510
+dirctor	O	O/0.980524
+of	O	O/0.984702
+movie	O	O/0.962990
+avenger	B-movie.name	O/0.550496
+
+# 0.848221
+who	O	O/0.999023
+be	O	O/0.999884
+the	O	O/0.980210
+director	O	O/0.996317
+for	O	O/0.995299
+nacho	B-movie.name	B-movie.name/0.947975
+libre	I-movie.name	I-movie.name/0.875021
+
+# 0.865092
+director	O	O/0.999011
+for	O	O/0.998861
+big	B-movie.name	B-movie.name/0.865951
+
+# 0.970976
+who	O	O/0.999035
+be	O	O/0.999935
+the	O	O/0.995553
+director	O	O/0.999428
+of	O	O/0.999424
+welcome	B-movie.name	B-movie.name/0.990222
+to	I-movie.name	I-movie.name/0.992153
+the	I-movie.name	I-movie.name/0.989195
+dollhouse	I-movie.name	I-movie.name/0.982050
+
+# 0.895333
+who	O	O/0.998099
+direct	O	O/0.999860
+the	O	O/0.998555
+movie	O	O/0.999786
+house	B-movie.name	B-movie.name/0.998530
+at	I-movie.name	I-movie.name/0.994664
+the	I-movie.name	I-movie.name/0.988006
+end	I-movie.name	I-movie.name/0.988457
+of	I-movie.name	I-movie.name/0.985919
+the	I-movie.name	I-movie.name/0.968034
+at	I-movie.name	I-movie.name/0.978621
+the	I-movie.name	I-movie.name/0.936305
+street	I-movie.name	I-movie.name/0.923288
+
+# 0.956326
+who	O	O/0.999036
+be	O	O/0.999943
+the	O	O/0.998895
+director	O	O/0.999920
+of	O	O/0.999829
+the	O	O/0.994984
+movie	O	O/0.999659
+toy	B-movie.name	B-movie.name/0.992393
+story	I-movie.name	I-movie.name/0.964019
+
+# 0.362245
+list	O	O/0.974926
+director	O	O/0.976830
+gilda	B-movie.name	O/0.376259
+
+# 0.591290
+who	O	O/0.993629
+direct	O	O/0.993692
+field	B-movie.name	B-movie.name/0.642092
+of	I-movie.name	I-movie.name/0.688026
+dream	I-movie.name	I-movie.name/0.669387
+
+# 0.746086
+who	O	O/0.998721
+be	O	O/0.999590
+the	O	O/0.929752
+second	O	O/0.814235
+director	O	O/0.984065
+on	O	O/0.994247
+find	B-movie.name	B-movie.name/0.964381
+nemo	I-movie.name	I-movie.name/0.938628
+
+# 0.972382
+find	O	O/0.995627
+director	O	O/0.999434
+of	O	O/0.999575
+find	B-movie.name	B-movie.name/0.990833
+nemo	I-movie.name	I-movie.name/0.977930
+
+# 0.760250
+who	O	O/0.992383
+direct	O	O/0.997862
+find	B-movie.name	B-movie.name/0.805965
+nemo	I-movie.name	I-movie.name/0.773938
+
+# 0.724807
+find	B-movie.name	O/0.969089
+nemo	I-movie.name	O/0.777950
+direct	O	O/0.986533
+by	O	O/0.996033
+who	O	O/0.950581
+
+# 0.976862
+director	O	O/0.999369
+of	O	O/0.999900
+find	B-movie.name	B-movie.name/0.990933
+nemo	I-movie.name	I-movie.name/0.977973
+
+# 0.957442
+who	O	O/0.994422
+direct	O	O/0.998664
+hitch	B-movie.name	B-movie.name/0.962943
+
+# 0.903007
+i	O	O/0.998209
+want	O	O/0.999774
+to	O	O/0.999070
+know	O	O/0.997931
+who	O	O/0.999246
+be	O	O/0.999675
+the	O	O/0.998882
+director	O	O/0.999921
+of	O	O/0.999856
+the	O	O/0.997658
+movie	O	O/0.999323
+batman	B-movie.name	B-movie.name/0.911197
+
+# 0.701461
+who	O	O/0.998626
+be	O	O/0.999777
+director	O	O/0.994198
+of	O	O/0.987131
+the	B-movie.name	B-movie.name/0.707906
+word	I-movie.name	I-movie.name/0.716015
+
+# 0.034475
+who	O	O/0.957081
+direct	O	O/0.893169
+million	B-movie.name	B-movie.name/0.150979
+dollar	I-movie.name	I-movie.name/0.126591
+baby	I-movie.name	I-movie.name/0.122532
+
+# 0.313274
+who	O	O/0.998756
+be	O	O/0.999745
+the	O	O/0.974968
+guy	O	O/0.784271
+that	O	O/0.818999
+direct	O	O/0.826286
+moneyball	B-movie.name	O/0.460467
+
+# 0.833013
+who	O	O/0.996337
+do	O	O/0.997209
+twilight	B-movie.name	B-movie.name/0.836120
+
+# 0.877093
+twilight	B-movie.name	B-movie.name/0.897387
+director	O	O/0.972480
+
+# 0.902867
+who	O	O/0.992477
+direct	O	O/0.997369
+twilight	B-movie.name	B-movie.name/0.909824
+
+# 0.902867
+who	O	O/0.992477
+direct	O	O/0.997369
+twilight	B-movie.name	B-movie.name/0.909824
+
+# 0.967777
+who	O	O/0.999034
+be	O	O/0.999935
+the	O	O/0.995429
+director	O	O/0.998657
+of	O	O/0.998520
+hum	B-movie.name	B-movie.name/0.992272
+tum	I-movie.name	I-movie.name/0.976144
+
+# 0.982273
+look	O	O/0.999070
+for	O	O/0.999975
+the	O	O/0.997320
+director	O	O/0.999182
+of	O	O/0.999660
+step	B-movie.name	B-movie.name/0.997076
+up	I-movie.name	I-movie.name/0.986780
+
+# 0.888687
+please	O	O/0.994133
+find	O	O/0.999573
+the	O	O/0.986239
+director	O	O/0.998607
+of	O	O/0.997113
+freedom	B-movie.name	B-movie.name/0.970388
+writer	I-movie.name	I-movie.name/0.910177
+
+# 0.898935
+find	O	O/0.999498
+the	O	O/0.991997
+director	O	O/0.998948
+of	O	O/0.997222
+freedom	B-movie.name	B-movie.name/0.970478
+writer	I-movie.name	I-movie.name/0.910196
+
+# 0.900538
+look	O	O/0.995565
+up	O	O/0.999397
+the	O	O/0.998203
+director	O	O/0.999135
+of	O	O/0.997315
+freedom	B-movie.name	B-movie.name/0.970564
+writer	I-movie.name	I-movie.name/0.910210
+
+# 0.898935
+find	O	O/0.999498
+the	O	O/0.991997
+director	O	O/0.998948
+of	O	O/0.997222
+freedom	B-movie.name	B-movie.name/0.970478
+writer	I-movie.name	I-movie.name/0.910196
+
+# 0.264228
+who	O	O/0.971699
+direct	O	O/0.965118
+baby	B-movie.name	B-movie.name/0.423068
+mama	I-movie.name	I-movie.name/0.288740
+
+# 0.544447
+godfather	B-movie.name	O/0.550471
+director	O	O/0.963587
+
+# 0.922325
+show	O	O/0.999420
+me	O	O/0.999278
+who	O	O/0.992767
+direct	O	O/0.996536
+the	B-movie.name	B-movie.name/0.943718
+sound	I-movie.name	I-movie.name/0.965161
+of	I-movie.name	I-movie.name/0.996497
+music	I-movie.name	I-movie.name/0.989019
+
+# 0.928154
+who	O	O/0.996028
+direct	O	O/0.998848
+the	B-movie.name	B-movie.name/0.943951
+sound	I-movie.name	I-movie.name/0.965126
+of	I-movie.name	I-movie.name/0.996493
+music	I-movie.name	I-movie.name/0.989016
+
+# 0.928154
+who	O	O/0.996028
+direct	O	O/0.998848
+the	B-movie.name	B-movie.name/0.943951
+sound	I-movie.name	I-movie.name/0.965126
+of	I-movie.name	I-movie.name/0.996493
+music	I-movie.name	I-movie.name/0.989016
+
+# 0.964420
+find	O	O/0.999837
+the	O	O/0.999829
+name	O	O/0.999581
+of	O	O/0.999558
+the	O	O/0.996524
+director	O	O/0.998601
+of	O	O/0.998514
+return	B-movie.name	B-movie.name/0.968461
+
+# 0.592296
+show	O	O/0.974058
+movie	O	O/0.979013
+avenger	B-movie.name	B-movie.name/0.724303
+director	O	O/0.923701
+name	O	O/0.891233
+
+# 0.717466
+name	O	O/0.993715
+the	O	O/0.993812
+director	O	O/0.997286
+in	O	O/0.997027
+sleepless	B-movie.name	B-movie.name/0.869908
+in	I-movie.name	I-movie.name/0.798440
+Seattle	I-movie.name	I-movie.name/0.751096
+
+# 0.991214
+what	O	O/0.999421
+be	O	O/0.999880
+the	O	O/0.999558
+genre	O	O/0.996927
+for	O	O/0.999366
+black	B-movie.name	B-movie.name/0.999136
+swan	I-movie.name	I-movie.name/0.996191
+
+# 0.802818
+what	O	O/0.998654
+be	O	O/0.991213
+black	B-movie.name	B-movie.name/0.841299
+swan	B-movie.name	I-movie.name/0.944391
+'s	O	O/0.991422
+genre	O	O/0.987601
+
+# 0.533570
+what	O	O/0.996410
+genre	O	O/0.989697
+be	O	O/0.909838
+parenthood	B-movie.name	B-movie.name/0.542016
+
+# 0.359343
+what	O	O/0.999216
+kind	O	O/0.998618
+of	O	O/0.991958
+movie	O	O/0.991471
+be	O	O/0.629611
+parenthood	B-movie.name	O/0.413698
+
+# 0.847826
+genre	O	O/0.989816
+for	O	O/0.994107
+pride	B-movie.name	B-movie.name/0.930980
+and	I-movie.name	I-movie.name/0.967513
+prejudice	I-movie.name	I-movie.name/0.910271
+
+# 0.885033
+can	O	O/0.996280
+you	O	O/0.999169
+tell	O	O/0.999298
+me	O	O/0.999862
+the	O	O/0.999951
+genre	O	O/0.999732
+of	O	O/0.999134
+the	O	O/0.996089
+movie	O	O/0.998498
+lawless	B-movie.name	B-movie.name/0.892913
+
+# 0.185086
+show	O	O/0.998976
+me	O	O/0.997038
+what	O	O/0.973102
+genre	O	O/0.919962
+do	O	O/0.659320
+movie	O	O/0.870881
+lawless	B-movie.name	B-movie.name/0.703842
+belong	O	O/0.558739
+to	O	O/0.703826
+
+# 0.887793
+genre	O	O/0.979035
+for	O	O/0.984254
+snow	B-movie.name	B-movie.name/0.953845
+white	I-movie.name	I-movie.name/0.973044
+and	I-movie.name	I-movie.name/0.991521
+the	I-movie.name	I-movie.name/0.989605
+huntsman	I-movie.name	I-movie.name/0.974609
+
+# 0.746177
+what	O	O/0.999742
+be	O	O/0.999924
+the	O	O/0.999610
+movie	O	O/0.998496
+type	O	O/0.747484
+
+# 0.725839
+what	O	O/0.999420
+be	O	O/0.999893
+the	O	O/0.998436
+genre	O	O/0.974670
+of	O	O/0.954307
+rushmore	B-movie.name	B-movie.name/0.729592
+
+# 0.964525
+get	O	O/0.998671
+the	O	O/0.999829
+genre	O	O/0.997770
+of	O	O/0.996760
+welcome	B-movie.name	B-movie.name/0.982786
+to	I-movie.name	I-movie.name/0.989226
+the	I-movie.name	I-movie.name/0.986339
+dollhouse	I-movie.name	I-movie.name/0.979390
+
+# 0.324305
+i	O	O/0.998322
+want	O	O/0.999920
+to	O	O/0.999677
+find	O	O/0.998139
+the	O	O/0.863508
+genre	O	O/0.671704
+freedom	B-movie.name	B-movie.name/0.523641
+writer	I-movie.name	I-movie.name/0.596667
+be	O	O/0.916453
+in	O	O/0.990508
+
+# 0.153031
+what	O	O/0.994495
+genre	O	O/0.957143
+be	O	O/0.637981
+freedom	B-movie.name	B-movie.name/0.295755
+writer	I-movie.name	I-movie.name/0.333403
+in	O	O/0.967899
+
+# 0.941581
+genre	O	O/0.994305
+for	O	O/0.998315
+batman	B-movie.name	B-movie.name/0.946812
+
+# 0.986773
+give	O	O/0.996441
+me	O	O/0.999793
+the	O	O/0.999925
+genre	O	O/0.999795
+of	O	O/0.999412
+the	O	O/0.998732
+movie	O	O/0.999947
+avatar	B-movie.name	B-movie.name/0.992327
+
+# 0.986619
+i	O	O/0.998986
+would	O	O/0.999551
+like	O	O/0.999486
+to	O	O/0.998616
+know	O	O/0.999530
+the	O	O/0.999939
+genre	O	O/0.999606
+of	O	O/0.999338
+the	O	O/0.998702
+movie	O	O/0.999946
+avatar	B-movie.name	B-movie.name/0.992326
+
+# 0.818861
+genre	O	O/0.984270
+for	O	O/0.990920
+bad	B-movie.name	B-movie.name/0.898159
+teacher	I-movie.name	I-movie.name/0.848302
+
+# 0.271964
+can	O	O/0.995809
+you	O	O/0.996661
+tell	O	O/0.981761
+me	O	O/0.958229
+pretty	B-movie.name	O/0.374890
+girl	I-movie.name	O/0.400267
+the	O	O/0.788390
+movie	O	O/0.860172
+'s	O	O/0.915729
+genre	O	O/0.939470
+
+# 0.932689
+what	O	O/0.999220
+genre	O	O/0.999358
+be	O	O/0.997984
+the	O	O/0.989391
+movie	O	O/0.996347
+pitch	B-movie.name	B-movie.name/0.987228
+perfect	I-movie.name	I-movie.name/0.949646
+
+# 0.936308
+in	O	O/0.986913
+what	O	O/0.982691
+language	O	O/0.977293
+be	O	O/0.996136
+this	O	O/0.979499
+movie	O	O/0.997110
+
+# 0.971491
+what	O	O/0.998319
+language	O	O/0.997222
+be	O	O/0.996898
+this	O	O/0.979733
+movie	O	O/0.997116
+
+# 0.697623
+what	O	O/0.999402
+language	O	O/0.999369
+be	O	O/0.999076
+the	O	O/0.998799
+movie	O	O/0.999466
+hero	B-movie.name	B-movie.name/0.773723
+in	O	O/0.925038
+
+# 0.712093
+language	O	O/0.930790
+of	O	O/0.942453
+king	B-movie.name	B-movie.name/0.841440
+lear	I-movie.name	I-movie.name/0.766613
+
+# 0.895707
+language	O	O/0.982657
+of	O	O/0.994913
+casa	B-movie.name	B-movie.name/0.962416
+blanca	I-movie.name	I-movie.name/0.914356
+
+# 0.827603
+what	O	O/0.996992
+language	O	O/0.987687
+be	O	O/0.962674
+head	B-movie.name	O/0.872416
+on	I-movie.name	O/0.951828
+in	O	O/0.988019
+
+# 0.869836
+language	O	O/0.988422
+of	O	O/0.992720
+spanglish	B-movie.name	B-movie.name/0.875127
+
+# 0.339512
+find	O	O/0.997665
+out	O	O/0.972318
+what	O	O/0.993243
+language	O	O/0.991829
+the	B-movie.name	O/0.992939
+father	I-movie.name	B-movie.name/0.580334
+of	I-movie.name	I-movie.name/0.541117
+my	I-movie.name	I-movie.name/0.529572
+child	I-movie.name	I-movie.name/0.772991
+be	O	O/0.901416
+in	O	O/0.986415
+
+# 0.003040
+i	O	O/0.997586
+be	O	O/0.996964
+intersted	O	O/0.894818
+in	O	O/0.757656
+view	O	B-movie.name/0.065221
+belle	B-movie.name	I-movie.name/0.060123
+what	O	O/0.303290
+foreign	O	O/0.609206
+language	O	O/0.893519
+be	O	O/0.992366
+the	O	O/0.998404
+movie	O	O/0.999284
+available	O	O/0.843265
+in	O	O/0.984380
+
+# 0.584366
+i	O	O/0.996824
+need	O	O/0.999505
+to	O	O/0.998785
+find	O	O/0.999799
+out	O	O/0.998129
+about	O	O/0.993176
+name	O	O/0.880643
+of	O	O/0.942569
+some	O	O/0.917796
+Japanese	B-movie.language	O/0.675517
+movie	O	O/0.993202
+
+# 0.666764
+can	O	O/0.996108
+you	O	O/0.998233
+tell	O	O/0.999232
+me	O	O/0.999472
+name	O	O/0.995191
+of	O	O/0.992880
+some	O	O/0.937871
+Japanese	B-movie.language	O/0.686429
+movie	O	O/0.993312
+
+# 0.214628
+ron	B-producer.name	O/0.355558
+howard	I-producer.name	O/0.495907
+name	O	O/0.963110
+some	O	O/0.999202
+of	O	O/0.999681
+the	O	O/0.999407
+movie	O	O/0.999691
+he	O	O/0.786235
+produce	O	O/0.873371
+
+# 0.386580
+tell	O	O/0.997297
+me	O	O/0.999953
+the	O	O/0.999972
+name	O	O/0.999847
+of	O	O/0.999776
+the	O	O/0.999414
+movie	O	O/0.999730
+produce	O	O/0.883938
+by	O	O/0.932798
+William	B-producer.name	B-director.name/0.480540
+packer	I-producer.name	I-director.name/0.457614
+
+# 0.800444
+about	O	O/0.946376
+life	B-movie.name	B-movie.name/0.853417
+be	I-movie.name	I-movie.name/0.902220
+beautiful	I-movie.name	I-movie.name/0.897138
+
+# 0.884315
+show	O	O/0.999299
+me	O	O/0.999002
+info	O	O/0.986556
+on	O	O/0.975931
+life	B-movie.name	B-movie.name/0.938060
+be	I-movie.name	I-movie.name/0.969836
+beautiful	I-movie.name	I-movie.name/0.954447
+
+# 0.891870
+find	O	O/0.996854
+old	O	O/0.895080
+movie	O	O/0.995975
+
+# 0.972480
+find	O	O/0.994131
+movie	O	O/0.997736
+rating	O	O/0.980114
+
+# 0.199869
+find	O	O/0.975464
+newly	O	O/0.739177
+release	O	O/0.779139
+movie	O	O/0.994107
+in	O	O/0.783498
+Spanish	B-movie.language	O/0.308038
+
+# 0.657178
+be	O	O/0.874222
+bill	B-actor.name	O/0.768732
+paxton	I-actor.name	O/0.812770
+in	O	O/0.995508
+the	O	O/0.997412
+movie	O	O/0.999875
+apollo	B-movie.name	B-movie.name/0.998980
+thirteen	I-movie.name	I-movie.name/0.992138
+
+# 0.374885
+be	O	O/0.871910
+kevin	B-actor.name	O/0.483180
+bacon	I-actor.name	O/0.532170
+in	O	O/0.994204
+the	O	O/0.997238
+movie	O	O/0.999872
+apollo	B-movie.name	B-movie.name/0.998979
+thirteen	I-movie.name	I-movie.name/0.992138
+
+# 0.614405
+find	O	O/0.997554
+movie	O	O/0.999485
+about	O	O/0.782642
+dancing	B-movie.subject	B-movie.subject/0.617143
+
+# 0.490264
+search	O	O/0.999503
+for	O	O/0.999670
+movie	O	O/0.998108
+about	O	O/0.623918
+dancing	B-movie.subject	B-movie.subject/0.492715
+
+# 0.839206
+show	O	O/0.985979
+will	B-actor.name	B-person.name/0.868026
+ferrell	I-actor.name	I-person.name/0.872228
+film	O	O/0.989562
+
+# 0.439278
+will	B-actor.name	O/0.510445
+Ferrell	I-actor.name	O/0.463177
+movie	O	O/0.995470
+
+# 0.977210
+what	O	O/0.998527
+movie	O	O/0.999905
+have	O	O/0.997106
+will	B-actor.name	B-actor.name/0.994206
+ferrell	I-actor.name	I-actor.name/0.994971
+appear	O	O/0.993519
+in	O	O/0.995988
+
+# 0.676406
+find	O	O/0.987430
+Russian	B-movie.language	O/0.682004
+movie	O	O/0.990745
+
+# 0.112453
+show	O	O/0.999829
+me	O	O/0.999935
+the	O	O/0.998304
+movie	O	O/0.995577
+pretty	B-movie.name	B-movie.name/0.851141
+woman	B-movie.name	I-movie.name/0.442380
+so	O	O/0.240698
+i	O	O/0.797804
+can	O	O/0.979173
+see	O	O/0.997935
+who	O	O/0.994325
+star	O	O/0.997334
+in	O	O/0.999461
+the	O	O/0.996368
+movie	O	O/0.997466
+
+# 0.879971
+feral	B-movie.name	O/0.879971
+
+# 0.167798
+the	O	O/0.993873
+movie	O	O/0.999003
+be	O	B-movie.name/0.332920
+call	O	I-movie.name/0.316725
+big	B-movie.name	I-movie.name/0.271077
+
+# 0.078263
+will	B-actor.name	B-person.name/0.342195
+smith	I-actor.name	I-person.name/0.262263
+act	O	O/0.471633
+carrer	O	O/0.493918
+
+# 0.073940
+how	O	O/0.997767
+many	O	O/0.996128
+movie	O	O/0.978789
+do	O	O/0.533163
+peter	B-director.name	O/0.280179
+jackson	I-director.name	O/0.275868
+do	O	O/0.603284
+
+# 0.693627
+movie	O	O/0.993722
+and	O	O/0.940032
+gross	O	O/0.824228
+payment	O	O/0.784200
+
+# 0.047113
+search	O	O/0.990941
+for	O	O/0.964229
+tim	B-director.name	B-movie.name/0.277962
+burton	I-director.name	I-movie.name/0.258518
+movie	O	O/0.972188
+in	O	O/0.755102
+French	B-movie.language	O/0.298545
+
+# 0.251832
+exhibit	O	O/0.982507
+all	O	O/0.992842
+detail	O	O/0.896321
+of	O	O/0.837361
+original	O	O/0.572019
+find	B-movie.name	B-movie.name/0.416704
+nemo	I-movie.name	I-movie.name/0.464491
+movie	O	O/0.990070
+
+# 0.515848
+find	B-movie.name	O/0.896665
+nemo	I-movie.name	O/0.520944
+movie	O	O/0.991326
+
+# 0.955324
+find	O	O/0.999574
+the	O	O/0.999029
+movie	O	O/0.999900
+find	B-movie.name	B-movie.name/0.974584
+nemo	I-movie.name	I-movie.name/0.957792
+
+# 0.950544
+i	O	O/0.997707
+be	O	O/0.999639
+look	O	O/0.999566
+for	O	O/0.999442
+information	O	O/0.998514
+on	O	O/0.999389
+the	O	O/0.999046
+movie	O	O/0.999877
+find	B-movie.name	B-movie.name/0.974579
+nemo	I-movie.name	I-movie.name/0.957790
+
+# 0.953184
+show	O	O/0.999409
+me	O	O/0.999624
+detail	O	O/0.998474
+for	O	O/0.999703
+the	O	O/0.999134
+movie	O	O/0.999830
+find	B-movie.name	B-movie.name/0.974565
+nemo	I-movie.name	I-movie.name/0.957783
+
+# 0.336018
+what	O	O/0.991492
+do	O	O/0.916680
+andrew	B-director.name	B-director.name/0.406893
+stanton	I-director.name	I-director.name/0.460764
+direct	O	O/0.858103
+
+# 0.602554
+show	O	O/0.998973
+me	O	O/0.998982
+some	O	O/0.990322
+other	O	O/0.950913
+movie	O	O/0.993238
+direct	O	O/0.962091
+by	O	O/0.970079
+andrew	B-director.name	B-director.name/0.703291
+stanton	I-director.name	I-director.name/0.679902
+
+# 0.246289
+display	O	O/0.846929
+albert	B-actor.name	O/0.605873
+brook	I-actor.name	O/0.311493
+movie	O	O/0.980006
+
+# 0.220580
+show	O	O/0.999394
+a	O	O/0.998955
+movie	O	O/0.983097
+with	O	O/0.962590
+albert	B-actor.name	O/0.342834
+brook	I-actor.name	O/0.499457
+in	O	O/0.945194
+the	O	O/0.720579
+cast	O	O/0.695218
+
+# 0.331352
+what	O	O/0.998500
+other	O	O/0.991719
+film	O	O/0.822537
+have	O	O/0.466745
+sergio	B-director.name	B-director.name/0.750427
+leone	I-director.name	I-director.name/0.814131
+direct	O	O/0.923414
+
+# 0.096438
+what	O	O/0.997032
+movie	O	O/0.998537
+have	O	O/0.910133
+george	B-producer.name	O/0.195786
+harrison	I-producer.name	O/0.249661
+produce	O	O/0.745378
+
+# 0.433209
+what	O	O/0.994055
+have	O	O/0.972301
+charlie	B-actor.name	B-actor.name/0.485688
+sheen	I-actor.name	I-actor.name/0.567174
+star	O	O/0.841127
+in	O	O/0.980212
+
+# 0.021125
+please	O	O/0.996942
+find	O	O/0.999931
+the	O	O/0.998760
+movie	O	O/0.999499
+in	O	O/0.960142
+which	O	O/0.539870
+clive	B-actor.name	O/0.220727
+owen	I-actor.name	O/0.136122
+have	O	O/0.497677
+appear	O	O/0.563100
+
+# 0.251087
+in	O	O/0.996768
+which	O	O/0.991472
+movie	O	O/0.984039
+have	O	O/0.792876
+clive	B-actor.name	B-actor.name/0.466618
+owen	I-actor.name	I-actor.name/0.381060
+appear	O	O/0.549071
+
+# 0.315485
+spike	B-director.name	B-director.name/0.361867
+lee	I-director.name	I-director.name/0.491884
+direct	O	O/0.912893
+what	O	O/0.983530
+movie	O	O/0.998181
+
+# 0.545211
+search	O	O/0.998835
+for	O	O/0.998296
+movie	O	O/0.991898
+direct	O	O/0.918380
+by	O	O/0.971922
+spike	B-director.name	B-director.name/0.622410
+lee	I-director.name	I-director.name/0.608310
+
+# 0.961133
+movie	O	O/0.988458
+release	O	O/0.984985
+date	O	O/0.983359
+
+# 0.985771
+director	O	O/0.998157
+information	O	O/0.999835
+for	O	O/0.994946
+movie	O	O/0.992515
+
+# 0.964429
+movie	O	O/0.999311
+by	O	O/0.978112
+director	O	O/0.986253
+
+# 0.199058
+please	O	O/0.993353
+list	O	O/0.997598
+all	O	O/0.949131
+movie	O	O/0.894885
+not	O	O/0.414690
+rate	O	O/0.449799
+pg	B-rating.name	B-rating.name/0.379797
+
+# 0.991141
+find	O	O/0.993449
+movie	O	O/0.997452
+
+# 0.306836
+i	O	O/0.998256
+want	O	O/0.999619
+a	O	O/0.999362
+list	O	O/0.992748
+of	O	O/0.965892
+English	B-movie.language	B-movie.name/0.368048
+speaking	O	I-movie.name/0.369959
+movie	O	O/0.983215
+
+# 0.238603
+a	O	O/0.997441
+list	O	O/0.999803
+of	O	O/0.998647
+movie	O	O/0.991831
+make	O	O/0.858344
+in	O	O/0.830664
+america	B-country.name	O/0.265792
+
+# 0.479353
+be	O	O/0.986731
+there	O	O/0.994185
+any	O	O/0.984431
+movie	O	O/0.998606
+produce	O	O/0.941372
+in	O	O/0.942882
+the	B-country.name	B-movie.name/0.773618
+unite	B-country.name	I-movie.name/0.863217
+state	I-country.name	I-movie.name/0.583821
+
+# 0.826769
+show	O	O/0.984422
+English	B-movie.language	O/0.839235
+movie	O	O/0.983561
+
+# 0.843904
+search	O	O/0.964002
+English	B-movie.language	O/0.859848
+movie	O	O/0.988444
+
+# 0.614346
+comedy	B-movie.genre	O/0.614346
+
+# 0.943923
+find	O	O/0.996523
+a	O	O/0.979915
+comedy	B-movie.genre	B-movie.genre/0.950715
+
+# 0.546711
+watch	O	O/0.912654
+comedy	B-movie.genre	B-movie.genre/0.566547
+movie	O	O/0.985696
+
+# 0.599196
+get	O	O/0.945692
+horror	B-movie.genre	O/0.652646
+film	O	O/0.920118
+
+# 0.805967
+show	O	O/0.999369
+me	O	O/0.998597
+horror	B-movie.genre	B-movie.genre/0.809736
+movie	O	O/0.995563
+
+# 0.549874
+i	O	O/0.998643
+want	O	O/0.999899
+to	O	O/0.999581
+see	O	O/0.998410
+a	O	O/0.992050
+listing	O	O/0.951762
+of	O	O/0.964042
+horror	B-movie.genre	B-movie.genre/0.575170
+movie	O	O/0.986916
+
+# 0.636258
+show	O	O/0.987512
+actor	O	O/0.949991
+bruce	B-actor.name	B-actor.name/0.743769
+willis	I-actor.name	I-actor.name/0.693403
+movie	O	O/0.984107
+
+# 0.602499
+which	O	O/0.980829
+movie	O	O/0.997474
+do	O	O/0.855373
+bruce	B-actor.name	B-actor.name/0.738336
+willis	I-actor.name	I-actor.name/0.790814
+star	O	O/0.916932
+in	O	O/0.989280
+
+# 0.971248
+list	O	O/0.994620
+movie	O	O/0.999260
+with	O	O/0.993479
+bruce	B-actor.name	B-actor.name/0.989114
+willis	I-actor.name	I-actor.name/0.982982
+
+# 0.481563
+show	O	O/0.999514
+me	O	O/0.999046
+movie	O	O/0.991943
+make	O	O/0.931165
+in	O	O/0.939804
+Canada	B-country.name	O/0.516695
+
+# 0.498959
+can	O	O/0.992950
+i	O	O/0.997872
+watch	O	O/0.990629
+a	O	O/0.968036
+Canadian	B-country.name	O/0.523807
+film	O	O/0.913935
+
+# 0.687836
+see	O	O/0.939818
+Canadian	B-country.name	O/0.707278
+movie	O	O/0.982827
+
+# 0.270282
+search	O	O/0.999466
+for	O	O/0.999705
+information	O	O/0.980871
+about	O	O/0.978108
+Canadian	B-country.name	O/0.279466
+movie	O	O/0.817745
+
+# 0.455396
+I	O	O/0.955524
+will	O	O/0.977531
+like	O	O/0.985149
+to	O	O/0.993864
+see	O	O/0.985281
+some	O	O/0.939100
+Italian	B-country.name	O/0.529119
+film	O	O/0.905799
+
+# 0.030730
+show	O	O/0.995932
+me	O	O/0.957782
+something	O	B-movie.genre/0.165263
+Italian	B-country.name	I-movie.name/0.229923
+-	O	I-movie.name/0.378927
+make	O	O/0.843803
+
+# 0.765667
+i	O	O/0.998643
+want	O	O/0.999902
+to	O	O/0.999826
+see	O	O/0.999672
+a	O	O/0.993163
+movie	O	O/0.997976
+from	O	O/0.987891
+spain	B-country.name	B-country.name/0.773942
+
+# 0.754081
+find	O	O/0.993267
+movie	O	O/0.999199
+from	O	O/0.970145
+spain	B-country.name	B-country.name/0.760397
+
+# 0.900851
+spain	B-country.name	O/0.931429
+country	O	O/0.938021
+movie	O	O/0.994537
+
+# 0.620276
+display	O	O/0.994320
+a	O	O/0.998757
+list	O	O/0.993218
+of	O	O/0.987308
+Spanish	B-country.name	O/0.659303
+film	O	O/0.853771
+
+# 0.559607
+Spanish	B-country.name	O/0.644505
+movie	O	O/0.986770
+listing	O	O/0.870247
+
+# 0.834085
+Spanish	B-country.name	O/0.835301
+movie	O	O/0.994333
+
+# 0.984636
+find	O	O/0.997812
+actor	O	O/0.997411
+in	O	O/0.998399
+movie	O	O/0.990579
+
+# 0.958664
+search	O	O/0.997606
+by	O	O/0.998559
+actor	O	O/0.961932
+
+# 0.880195
+find	O	O/0.997626
+some	O	O/0.990664
+romantic	B-movie.genre	B-movie.genre/0.889584
+movie	O	O/0.995610
+
+# 0.363652
+i	O	O/0.998643
+want	O	O/0.999902
+to	O	O/0.999829
+see	O	O/0.999855
+a	O	O/0.996456
+movie	O	O/0.997755
+in	O	O/0.951270
+French	B-movie.language	O/0.367738
+
+# 0.543109
+Gwyneth	B-actor.name	O/0.702209
+Paltrow	I-actor.name	O/0.605624
+movie	O	O/0.984904
+
+# 0.032353
+find	O	O/0.995654
+movie	O	O/0.992099
+with	O	O/0.802491
+quentin	B-director.name	B-actor.name/0.189663
+tarantino	I-director.name	I-actor.name/0.122366
+as	O	O/0.444695
+director	O	O/0.922777
+
+# 0.474948
+england	B-country.name	O/0.475704
+movie	O	O/0.994354
+
+# 0.428673
+england	B-country.name	O/0.446554
+movie	O	O/0.995345
+please	O	O/0.961318
+
+# 0.272806
+find	O	O/0.969375
+david	B-actor.name	O/0.489208
+tennant	I-actor.name	O/0.368400
+movie	O	O/0.980148
+
+# 0.626237
+show	O	O/0.998801
+me	O	O/0.993944
+what	O	O/0.857736
+richard	B-director.name	B-director.name/0.736039
+lester	I-director.name	I-director.name/0.776229
+direct	O	O/0.955902
+
+# 0.912170
+get	O	O/0.981231
+film	O	O/0.996175
+in	O	O/0.992977
+hindi	B-movie.language	B-movie.language/0.931945
+
+# 0.762163
+show	O	O/0.999549
+me	O	O/0.998057
+movie	O	O/0.998751
+from	O	O/0.957578
+india	B-country.name	B-country.name/0.765403
+
+# 0.198152
+what	O	O/0.998975
+be	O	O/0.996076
+a	O	O/0.925477
+British	B-country.name	B-director.name/0.252190
+horror	B-movie.genre	I-director.name/0.232087
+movie	O	O/0.985299
+
+# 0.267925
+i	O	O/0.998490
+want	O	O/0.999794
+to	O	O/0.997979
+watch	O	O/0.981438
+an	O	O/0.852199
+r	B-rating.name	B-rating.name/0.676294
+rate	O	O/0.545813
+comedy	B-movie.genre	B-movie.genre/0.462535
+
+# 0.095986
+list	O	O/0.995075
+of	O	O/0.965393
+French	B-movie.language	B-movie.language/0.305567
+language	I-movie.language	I-movie.language/0.375862
+comedy	B-movie.genre	B-movie.genre/0.394217
+
+# 0.888237
+look	O	O/0.997684
+for	O	O/0.998921
+dirty	B-movie.name	B-movie.name/0.954231
+dancing	I-movie.name	I-movie.name/0.936045
+movie	O	O/0.984445
+with	O	O/0.994110
+jennifer	B-actor.name	B-actor.name/0.994827
+grey	I-actor.name	I-actor.name/0.990808
+
+# 0.978598
+tell	O	O/0.992883
+me	O	O/0.998959
+in	O	O/0.999738
+detail	O	O/0.996807
+about	O	O/0.998265
+the	O	O/0.995147
+movie	O	O/0.999771
+dirty	B-movie.name	B-movie.name/0.999609
+dancing	I-movie.name	I-movie.name/0.995726
+
+# 0.959303
+tell	O	O/0.983130
+about	O	O/0.986142
+movie	O	O/0.990130
+dirty	B-movie.name	B-movie.name/0.997911
+dancing	I-movie.name	I-movie.name/0.994697
+
+# 0.261184
+can	O	O/0.994844
+i	O	O/0.999446
+see	O	O/0.999210
+a	O	O/0.998291
+list	O	O/0.974976
+of	O	O/0.943839
+bette	B-actor.name	B-movie.name/0.321043
+midler	I-actor.name	I-movie.name/0.329307
+movie	O	O/0.984170
+
+# 0.552703
+list	O	O/0.999601
+of	O	O/0.998443
+movie	O	O/0.985853
+star	O	B-movie.name/0.949587
+bette	B-actor.name	I-movie.name/0.925701
+midler	I-actor.name	I-movie.name/0.569000
+
+# 0.609634
+show	O	O/0.999805
+me	O	O/0.999918
+all	O	O/0.997762
+of	O	O/0.972223
+anne	B-actor.name	B-actor.name/0.708847
+hathaway	I-actor.name	I-actor.name/0.688263
+'s	O	O/0.965133
+movie	O	O/0.998527
+
+# 0.376666
+what	O	O/0.996605
+movie	O	O/0.997751
+have	O	O/0.895971
+sandra	B-producer.name	B-actor.name/0.549926
+bullock	I-producer.name	I-actor.name/0.478478
+produce	O	O/0.755839
+
+# 0.240910
+find	O	O/0.999427
+me	O	O/0.992935
+movie	O	O/0.999049
+from	O	O/0.864428
+portugal	B-country.name	B-country.name/0.243336
+
+# 0.212709
+what	O	O/0.997108
+movie	O	O/0.999256
+have	O	O/0.944313
+robert	B-actor.name	O/0.266906
+redford	I-actor.name	O/0.368680
+be	O	O/0.969275
+in	O	O/0.994591
+
+# 0.965155
+dirty	B-movie.name	B-movie.name/0.988515
+dancing	I-movie.name	I-movie.name/0.987823
+info	O	O/0.979281
+
+# 0.964964
+dirty	B-movie.name	B-movie.name/0.972455
+dancing	I-movie.name	I-movie.name/0.966412
+
+# 0.503033
+give	O	O/0.918215
+a	O	O/0.909767
+short	O	O/0.567378
+bio	O	O/0.921963
+for	O	O/0.976008
+dirty	B-movie.name	B-movie.name/0.995034
+dancing	I-movie.name	I-movie.name/0.995842
+
+# 0.875084
+about	O	O/0.988578
+dirty	B-movie.name	B-movie.name/0.890781
+dancing	I-movie.name	I-movie.name/0.888929
+
+# 0.935603
+movie	O	O/0.999479
+from	O	O/0.995896
+japan	B-country.name	B-country.name/0.936215
+
+# 0.913252
+show	O	O/0.992145
+movie	O	O/0.999727
+from	O	O/0.979511
+japan	B-country.name	B-country.name/0.921601
+
+# 0.812795
+list	O	O/0.981814
+Japanese	B-movie.language	O/0.824268
+movie	O	O/0.988988
+
+# 0.592643
+show	O	O/0.999067
+me	O	O/0.996535
+Japanese	B-movie.language	O/0.596197
+movie	O	O/0.992011
+
+# 0.674416
+give	O	O/0.996275
+me	O	O/0.999336
+a	O	O/0.998711
+list	O	O/0.998157
+of	O	O/0.996326
+some	O	O/0.943484
+Japanese	B-movie.language	O/0.690162
+movie	O	O/0.993314
+
+# 0.650765
+give	O	O/0.996272
+me	O	O/0.999325
+a	O	O/0.998341
+list	O	O/0.997190
+of	O	O/0.992880
+Japanese	B-movie.language	O/0.659079
+movie	O	O/0.983459
+
+# 0.834085
+Japanese	B-movie.language	O/0.835301
+movie	O	O/0.994333
+
+# 0.406436
+show	O	O/0.996707
+me	O	O/0.973211
+Japanese	B-movie.language	B-movie.language/0.455105
+language	I-movie.language	I-movie.language/0.483390
+movie	O	O/0.987278
+
+# 0.175857
+which	O	O/0.986333
+film	O	O/0.992580
+be	O	O/0.900364
+speak	O	O/0.744501
+in	O	O/0.882983
+Japanese	B-movie.language	O/0.250079
+
+# 0.641002
+miramax	B-producer.name	O/0.762224
+film	I-producer.name	O/0.903557
+only	O	O/0.855565
+
+# 0.628190
+show	O	O/0.995811
+movie	O	O/0.999794
+by	O	O/0.971477
+miramax	B-producer.name	B-producer.name/0.631554
+
+# 0.192123
+search	O	O/0.897109
+sandra	B-actor.name	O/0.527855
+bullock	I-actor.name	O/0.238130
+movie	O	O/0.978600
+
+# 0.363309
+watch	O	O/0.866968
+sandra	B-actor.name	B-actor.name/0.446276
+bullock	I-actor.name	I-actor.name/0.450061
+movie	O	O/0.983691
+
+# 0.545037
+find	O	O/0.996682
+movie	O	O/0.999209
+about	O	O/0.935365
+vampire	B-movie.subject	B-movie.subject/0.547854
+
+# 0.646873
+find	O	O/0.989906
+movie	O	O/0.993267
+have	O	O/0.824420
+vampire	B-movie.subject	O/0.702312
+
+# 0.621027
+will	B-actor.name	B-actor.name/0.630906
+smith	I-actor.name	I-actor.name/0.629295
+movie	O	O/0.997205
+
+# 0.806539
+car	B-movie.name	O/0.808095
+movie	O	O/0.992271
+
+# 0.695590
+what	O	O/0.995657
+movie	O	O/0.998652
+do	O	O/0.907207
+darla	B-producer.name	B-producer.name/0.800010
+anderson	I-producer.name	I-producer.name/0.843118
+produce	O	O/0.929565
+
+# 0.811975
+what	O	O/0.997467
+film	O	O/0.998121
+be	O	O/0.973649
+make	O	O/0.972645
+by	O	O/0.991122
+paramount	B-producer.name	B-producer.name/0.857023
+
+# 0.855896
+show	O	O/0.999783
+me	O	O/0.999657
+movie	O	O/0.999759
+by	O	O/0.995344
+paramount	B-producer.name	B-producer.name/0.856703
+
+# 0.436434
+what	O	O/0.997085
+movie	O	O/0.999164
+have	O	O/0.918521
+paramount	B-producer.name	B-producer.name/0.549075
+release	O	O/0.812832
+
+# 0.642434
+show	O	O/0.999018
+all	O	O/0.996906
+movie	O	O/0.996843
+from	O	O/0.932582
+turkey	B-country.name	B-country.name/0.647610
+
+# 0.429841
+show	O	O/0.999463
+me	O	O/0.998382
+movie	O	O/0.998013
+produce	O	O/0.965509
+by	O	O/0.979268
+bruce	B-producer.name	B-director.name/0.468787
+lee	I-producer.name	I-director.name/0.455696
+
+# 0.619063
+be	O	O/0.908518
+parenthood	B-movie.name	O/0.848262
+a	O	O/0.905008
+drama	B-movie.genre	B-movie.genre/0.742738
+
+# 0.011649
+i	O	O/0.998638
+want	O	O/0.999860
+to	O	O/0.998436
+see	O	O/0.967253
+an	O	O/0.565854
+kevin	B-actor.name	B-actor.name/0.092210
+james	I-actor.name	I-actor.name/0.146215
+film	O	O/0.532506
+tonight	O	O/0.679780
+
+# 0.711245
+find	O	O/0.994411
+film	O	O/0.986697
+from	O	O/0.971012
+china	B-country.name	B-country.name/0.724369
+
+# 0.701372
+get	O	O/0.979094
+film	O	O/0.994014
+from	O	O/0.965832
+china	B-country.name	B-country.name/0.720776
+
+# 0.363180
+i	O	O/0.997795
+will	O	O/0.999255
+like	O	O/0.998269
+to	O	O/0.998261
+watch	O	O/0.998076
+a	O	O/0.994743
+movie	O	O/0.987192
+make	O	O/0.983887
+in	O	O/0.962839
+china	B-country.name	O/0.379273
+
+# 0.553633
+list	O	O/0.997818
+some	O	O/0.992871
+movie	O	O/0.997239
+from	O	O/0.954591
+china	B-country.name	B-country.name/0.560175
+
+# 0.848937
+Chinese	B-movie.language	O/0.863752
+film	O	O/0.950572
+
+# 0.696648
+show	O	O/0.998439
+me	O	O/0.994723
+other	O	O/0.905507
+Chinese	B-movie.language	O/0.725175
+movie	O	O/0.990996
+
+# 0.592643
+show	O	O/0.999067
+me	O	O/0.996535
+Chinese	B-movie.language	O/0.596197
+movie	O	O/0.992011
+
+# 0.950132
+what	O	O/0.997909
+movie	O	O/0.999751
+have	O	O/0.992850
+a	O	O/0.991532
+pg-13	B-rating.name	B-rating.name/0.971281
+rating	O	O/0.992357
+
+# 0.232319
+please	O	O/0.994706
+list	O	O/0.997047
+movie	O	O/0.994297
+that	O	O/0.936620
+be	O	O/0.900655
+rate	O	O/0.407664
+pg-13	B-rating.name	B-rating.name/0.293239
+
+# 0.400578
+i	O	O/0.997066
+need	O	O/0.998850
+a	O	O/0.997508
+g	B-rating.name	B-rating.name/0.979009
+rating	O	O/0.876778
+so	O	O/0.614131
+i	O	O/0.895023
+can	O	O/0.976344
+take	O	O/0.991313
+the	O	O/0.905074
+kid	O	O/0.743446
+
+# 0.693133
+find	O	O/0.997264
+a	O	O/0.985030
+g	B-rating.name	B-rating.name/0.854945
+rate	O	O/0.759627
+movie	O	O/0.988822
+
+# 0.617055
+find	O	O/0.990966
+g	B-rating.name	B-rating.name/0.620687
+movie	O	O/0.994039
+
+# 0.617055
+find	O	O/0.990966
+g	B-rating.name	B-rating.name/0.620687
+movie	O	O/0.994039
+
+# 0.863966
+i	O	O/0.994633
+want	O	O/0.994387
+rate	O	O/0.972569
+g	B-rating.name	B-rating.name/0.886476
+movie	O	O/0.994083
+
+# 0.438602
+look	O	O/0.976846
+up	O	O/0.961658
+g	B-rating.name	B-rating.name/0.631596
+rate	O	O/0.585567
+movie	O	O/0.984551
+
+# 0.216766
+i	O	O/0.997974
+be	O	O/0.999411
+search	O	O/0.994918
+for	O	O/0.971203
+any	O	O/0.748658
+g	B-rating.name	B-rating.name/0.583632
+rate	O	O/0.651615
+movie	O	O/0.989475
+for	O	O/0.978302
+my	O	O/0.710060
+child	O	O/0.727812
+to	O	O/0.779536
+view	O	O/0.737555
+
+# 0.408020
+rate	O	O/0.916478
+g	B-rating.name	B-rating.name/0.874624
+movie	O	O/0.984396
+for	O	O/0.881175
+family	O	B-movie.name/0.550988
+watching	O	I-movie.name/0.580020
+
+# 0.325244
+find	O	O/0.977065
+g	B-rating.name	B-rating.name/0.440139
+rate	O	O/0.566572
+movie	O	O/0.987114
+
+# 0.607575
+be	O	O/0.985834
+there	O	O/0.990794
+any	O	O/0.946828
+movie	O	O/0.976319
+rate	O	O/0.763371
+g	B-rating.name	B-rating.name/0.741737
+playing	O	O/0.903526
+
+# 0.454917
+i	O	O/0.998646
+want	O	O/0.999925
+to	O	O/0.999639
+see	O	O/0.993386
+movie	O	O/0.992875
+rate	O	O/0.549142
+g	B-rating.name	B-rating.name/0.469579
+
+# 0.583165
+find	O	O/0.988979
+movie	O	O/0.995610
+rate	O	O/0.705126
+g	B-rating.name	B-rating.name/0.596997
+
+# 0.978340
+show	O	O/0.999803
+me	O	O/0.999711
+movie	O	O/0.998927
+with	O	O/0.998024
+g	B-rating.name	B-rating.name/0.986312
+rating	O	O/0.988651
+
+# 0.499541
+do	O	O/0.940105
+robert	B-director.name	B-director.name/0.919016
+wise	I-director.name	I-director.name/0.925001
+direct	O	O/0.965238
+any	O	O/0.952584
+other	O	O/0.942918
+musical	O	O/0.637772
+
+# 0.037464
+bruce	B-producer.name	O/0.412694
+lee	I-producer.name	O/0.216774
+produce	O	B-country.name/0.179676
+movie	O	O/0.928617
+listing	O	O/0.813588
+
+# 0.890012
+what	O	O/0.999405
+be	O	O/0.999836
+the	O	O/0.997564
+last	O	O/0.923343
+movie	O	O/0.992365
+make	O	O/0.976826
+by	O	O/0.995746
+robert	B-director.name	B-director.name/0.994966
+wise	I-director.name	I-director.name/0.993102
+
+# 0.351957
+find	O	O/0.994720
+movie	O	O/0.998160
+produce	O	O/0.960891
+by	O	O/0.955018
+mgm	B-producer.name	O/0.378015
+
+# 0.325206
+show	O	O/0.998385
+me	O	O/0.991569
+british	B-country.name	O/0.415674
+make	O	O/0.714566
+movie	O	O/0.984345
+
+# 0.698331
+movie	O	O/0.999315
+from	O	O/0.995907
+the	B-country.name	B-country.name/0.724537
+uk	I-country.name	I-country.name/0.705574
+
+# 0.690823
+find	O	O/0.999589
+me	O	O/0.998110
+movie	O	O/0.999828
+from	O	O/0.987028
+the	B-country.name	B-country.name/0.718960
+uk	I-country.name	I-country.name/0.700251
+
+# 0.474474
+can	O	O/0.990510
+you	O	O/0.987448
+list	O	O/0.933213
+ron	B-producer.name	B-director.name/0.712555
+howard	I-producer.name	I-director.name/0.622739
+movie	O	O/0.973953
+production	O	O/0.916956
+
+# 0.828841
+i	O	O/0.996690
+need	O	O/0.999780
+to	O	O/0.999798
+know	O	O/0.999740
+the	O	O/0.999789
+movie	O	O/0.999541
+produce	O	O/0.911447
+by	O	O/0.987498
+ron	B-producer.name	B-director.name/0.924404
+howard	I-producer.name	I-director.name/0.920124
+
+# 0.005007
+do	O	O/0.845848
+clint	B-director.name	B-director.name/0.654166
+eastwood	I-director.name	I-director.name/0.708305
+direct	O	O/0.886123
+any	O	O/0.882098
+other	O	O/0.757123
+movie	O	O/0.756371
+besides	O	B-movie.name/0.179911
+million	B-movie.name	I-movie.name/0.132375
+dollar	I-movie.name	I-movie.name/0.117899
+baby	I-movie.name	I-movie.name/0.121244
+
+# 0.792234
+find	O	O/0.994558
+movie	O	O/0.997552
+direct	O	O/0.970306
+by	O	O/0.991060
+clint	B-director.name	B-director.name/0.836451
+eastwood	I-director.name	I-director.name/0.827346
+
+# 0.775216
+what	O	O/0.997241
+movie	O	O/0.999480
+have	O	O/0.990428
+be	O	O/0.981754
+direct	O	O/0.974808
+by	O	O/0.981685
+clint	B-director.name	B-director.name/0.834222
+eastwood	I-director.name	I-director.name/0.825252
+
+# 0.721064
+list	O	O/0.999035
+all	O	O/0.998262
+movie	O	O/0.994674
+that	O	O/0.988817
+be	O	O/0.989069
+direct	O	O/0.904693
+by	O	O/0.971141
+clint	B-director.name	B-director.name/0.831689
+eastwood	I-director.name	I-director.name/0.822878
+
+# 0.923221
+what	O	O/0.996820
+movie	O	O/0.999009
+have	O	O/0.980256
+clint	B-director.name	B-director.name/0.958332
+eastwood	I-director.name	I-director.name/0.968723
+direct	O	O/0.987485
+
+# 0.766300
+show	O	O/0.992866
+movie	O	O/0.998291
+direct	O	O/0.939421
+by	O	O/0.989185
+clint	B-director.name	B-director.name/0.836000
+eastwood	I-director.name	I-director.name/0.826923
+
+# 0.481121
+find	O	O/0.999394
+all	O	O/0.998207
+film	O	O/0.972184
+by	O	O/0.936419
+stanley	B-director.name	B-director.name/0.545888
+kubrick	I-director.name	I-director.name/0.520212
+
+# 0.857387
+i	O	O/0.997789
+want	O	O/0.999826
+to	O	O/0.999345
+select	O	O/0.998799
+the	O	O/0.997065
+option	O	O/0.987794
+to	O	O/0.996183
+search	O	O/0.999279
+for	O	O/0.997534
+movie	O	O/0.995522
+produce	O	O/0.963442
+by	O	O/0.993370
+stephen	B-producer.name	B-director.name/0.920554
+spielberg	I-producer.name	I-director.name/0.918212
+
+# 0.646240
+i	O	O/0.998980
+would	O	O/0.999494
+like	O	O/0.999211
+to	O	O/0.998518
+search	O	O/0.999600
+for	O	O/0.997563
+movie	O	O/0.994285
+produce	O	O/0.925007
+by	O	O/0.966093
+stephen	B-producer.name	B-director.name/0.732564
+speilberg	I-producer.name	I-director.name/0.721042
+
+# 0.431436
+show	O	O/0.997568
+me	O	O/0.985071
+Japanese	B-movie.language	O/0.665083
+horror	B-movie.genre	B-movie.genre/0.569035
+movie	O	O/0.988373
+
+# 0.853221
+i	O	O/0.998997
+would	O	O/0.999658
+like	O	O/0.999586
+to	O	O/0.997430
+see	O	O/0.979319
+movie	O	O/0.968022
+ron	B-director.name	B-director.name/0.912108
+howard	I-director.name	I-director.name/0.934437
+direct	O	O/0.978184
+
+# 0.965462
+movie	O	O/0.999524
+by	O	O/0.999801
+stephen	B-producer.name	B-director.name/0.969474
+spielberg	I-director.name	I-director.name/0.966507
+
+# 0.965462
+movie	O	O/0.999524
+by	O	O/0.999801
+stephen	B-producer.name	B-director.name/0.969474
+spielberg	I-director.name	I-director.name/0.966507
+
+# 0.921014
+what	O	O/0.995864
+movie	O	O/0.999417
+do	O	O/0.975112
+stephen	B-producer.name	B-director.name/0.964136
+spielberg	I-director.name	I-director.name/0.963074
+direct	O	O/0.990523
+
+# 0.941396
+list	O	O/0.993649
+steven	B-director.name	B-director.name/0.965453
+spielberg	I-director.name	I-director.name/0.951649
+movie	O	O/0.998370
+
+# 0.707703
+steven	B-director.name	B-director.name/0.712286
+spielberg	I-director.name	I-director.name/0.715513
+movie	O	O/0.998381
+
+# 0.490905
+steven	B-director.name	B-director.name/0.528792
+spielberg	I-director.name	I-director.name/0.556786
+movie	O	O/0.997516
+please	O	O/0.985287
+
+# 0.938568
+direct	O	O/0.996150
+by	O	O/0.999544
+steven	B-director.name	B-director.name/0.944662
+spielberg	I-director.name	I-director.name/0.943038
+
+# 0.851790
+find	O	O/0.999380
+the	O	O/0.987176
+steven	B-director.name	B-director.name/0.869720
+spielberg	I-director.name	I-director.name/0.874155
+movie	O	O/0.997984
+
+# 0.692326
+find	O	O/0.994851
+movie	O	O/0.999533
+from	O	O/0.995967
+steven	B-director.name	B-director.name/0.709777
+spielberg	I-director.name	I-director.name/0.704225
+
+# 0.586882
+i	O	O/0.998993
+would	O	O/0.999618
+like	O	O/0.999240
+to	O	O/0.997926
+watch	O	O/0.997829
+a	O	O/0.991684
+movie	O	O/0.990892
+direct	O	O/0.975674
+by	O	O/0.964632
+eddie	B-director.name	B-director.name/0.652172
+murphy	I-director.name	I-director.name/0.634582
+
+# 0.749495
+the	B-movie.name	B-movie.name/0.755065
+camp	I-movie.name	I-movie.name/0.751797
+
+# 0.072681
+watch	O	O/0.812914
+sandra	B-actor.name	B-movie.name/0.239474
+bullock	I-actor.name	I-movie.name/0.199071
+the	B-movie.name	I-movie.name/0.476174
+blind	I-movie.name	I-movie.name/0.880835
+side	I-movie.name	I-movie.name/0.841798
+
+# 0.821855
+i	O	O/0.998646
+want	O	O/0.999929
+to	O	O/0.999893
+see	O	O/0.999103
+movie	O	O/0.994492
+with	O	O/0.927365
+hugh	B-actor.name	B-actor.name/0.871395
+jackman	I-actor.name	I-actor.name/0.853174
+
+# 0.650362
+list	O	O/0.993051
+movie	O	O/0.997303
+with	O	O/0.905302
+Kevin	B-actor.name	B-actor.name/0.705390
+spacey	I-actor.name	I-actor.name/0.677470
+
+# 0.841127
+look	O	O/0.998930
+for	O	O/0.999500
+movie	O	O/0.998307
+from	O	O/0.962800
+france	B-country.name	B-country.name/0.844495
+
+# 0.331735
+can	O	O/0.997338
+you	O	O/0.999570
+show	O	O/0.999840
+me	O	O/0.998947
+movie	O	O/0.996799
+that	O	O/0.993129
+be	O	O/0.983672
+make	O	O/0.936043
+in	O	O/0.949775
+france	B-country.name	B-country.name/0.359912
+
+# 0.331875
+find	O	O/0.999385
+me	O	O/0.999329
+any	O	O/0.995800
+movie	O	O/0.999040
+that	O	O/0.992538
+be	O	O/0.983482
+make	O	O/0.935974
+in	O	O/0.949765
+france	B-country.name	B-country.name/0.359908
+
+# 0.764355
+French	B-movie.language	O/0.800254
+movie	O	O/0.994911
+please	O	O/0.956398
+
+# 0.834085
+French	B-movie.language	O/0.835301
+movie	O	O/0.994333
+
+# 0.955690
+find	O	O/0.994849
+movie	O	O/0.999516
+produce	O	O/0.972404
+by	O	O/0.980492
+
+# 0.980596
+movie	O	O/0.999652
+by	O	O/0.998383
+producer	O	O/0.982239
+
+# 0.922959
+display	O	O/0.970549
+movie	O	O/0.999615
+produce	O	O/0.962389
+by	O	O/0.977558
+
+# 0.477113
+find	O	O/0.994726
+movie	O	O/0.998219
+produce	O	O/0.964931
+by	O	O/0.965572
+mosfilm	B-producer.name	B-producer.name/0.495587
+
+# 0.036815
+what	O	O/0.992114
+be	O	O/0.912645
+Kristen	B-actor.name	B-actor.name/0.098247
+Stewart	I-actor.name	I-actor.name/0.150421
+'s	O	O/0.871336
+first	O	O/0.899922
+movie	O	O/0.994770
+
+# 0.625292
+get	O	O/0.997914
+me	O	O/0.996955
+movie	O	O/0.997640
+direct	O	O/0.962427
+by	O	O/0.980505
+miranda	B-director.name	B-movie.name/0.677702
+july	I-director.name	I-movie.name/0.669112
+
+# 0.341850
+tom	B-actor.name	B-actor.name/0.352509
+hank	I-actor.name	I-actor.name/0.353450
+movie	O	O/0.993672
+
+# 0.950966
+show	O	O/0.999799
+me	O	O/0.999604
+movie	O	O/0.998023
+with	O	O/0.993325
+tom	B-actor.name	B-actor.name/0.967564
+hank	I-actor.name	I-actor.name/0.957519
+
+# 0.914917
+i	O	O/0.997201
+be	O	O/0.999032
+try	O	O/0.986087
+to	O	O/0.979463
+find	O	O/0.998011
+a	O	O/0.998793
+list	O	O/0.999712
+of	O	O/0.999429
+movie	O	O/0.997862
+with	O	O/0.991816
+tom	B-actor.name	B-actor.name/0.966443
+hank	I-actor.name	I-actor.name/0.956429
+
+# 0.363420
+provide	O	O/0.890160
+movie	O	O/0.991269
+direct	O	O/0.861051
+by	O	O/0.848719
+olive	B-director.name	B-director.name/0.579767
+stone	I-director.name	I-director.name/0.555259
+please	O	O/0.895577
+
+# 0.741543
+i	O	O/0.998190
+want	O	O/0.999845
+to	O	O/0.999714
+look	O	O/0.999889
+for	O	O/0.999271
+movie	O	O/0.996066
+produce	O	O/0.926112
+by	O	O/0.971194
+albert	B-producer.name	B-producer.name/0.827599
+ruddy	I-producer.name	I-producer.name/0.823251
+
+# 0.741596
+what	O	O/0.999718
+be	O	O/0.999975
+all	O	O/0.999976
+of	O	O/0.999684
+the	O	O/0.999491
+movie	O	O/0.999782
+produce	O	O/0.922426
+by	O	O/0.973901
+albert	B-producer.name	B-producer.name/0.828063
+ruddy	I-producer.name	I-producer.name/0.823617
+
+# 0.873818
+movie	O	O/0.997670
+produce	O	O/0.979775
+by	O	O/0.972974
+yash	B-producer.name	B-director.name/0.923208
+chopra	I-producer.name	I-director.name/0.916106
+
+# 0.410885
+what	O	O/0.994461
+do	O	O/0.951859
+brad	B-producer.name	B-actor.name/0.591724
+pitt	I-producer.name	I-actor.name/0.525608
+porduce	O	O/0.707478
+
+# 0.082106
+bring	O	O/0.964482
+up	O	O/0.958965
+all	O	O/0.863539
+brad	B-producer.name	B-actor.name/0.300581
+pitt	I-producer.name	I-actor.name/0.203484
+produce	O	O/0.666271
+movie	O	O/0.988396
+
+# 0.241732
+show	O	O/0.999244
+all	O	O/0.997704
+movie	O	O/0.961906
+that	O	O/0.725602
+penny	B-director.name	B-director.name/0.358646
+marshall	I-director.name	I-director.name/0.381049
+direct	O	O/0.814092
+
+# 0.875192
+i	O	O/0.996712
+need	O	O/0.999143
+a	O	O/0.999383
+list	O	O/0.999482
+of	O	O/0.999915
+all	O	O/0.999738
+the	O	O/0.999556
+movie	O	O/0.999477
+direct	O	O/0.948484
+by	O	O/0.996263
+james	B-director.name	B-director.name/0.934164
+cameron	I-director.name	I-director.name/0.931549
+
+# 0.874560
+give	O	O/0.996275
+me	O	O/0.999336
+a	O	O/0.998707
+list	O	O/0.999633
+of	O	O/0.999918
+all	O	O/0.999739
+the	O	O/0.999556
+movie	O	O/0.999477
+direct	O	O/0.948484
+by	O	O/0.996263
+james	B-director.name	B-director.name/0.934164
+cameron	I-director.name	I-director.name/0.931549
+
+# 0.239706
+james	B-producer.name	B-director.name/0.333940
+cameron	I-producer.name	I-director.name/0.363971
+movie	O	O/0.961029
+produce	O	O/0.841975
+
+# 0.917141
+movie	O	O/0.998127
+produce	O	O/0.989313
+by	O	O/0.996201
+james	B-producer.name	B-director.name/0.934896
+cameron	I-producer.name	I-director.name/0.932255
+
+# 0.867080
+what	O	O/0.997599
+film	O	O/0.991479
+have	O	O/0.975359
+be	O	O/0.960870
+produce	O	O/0.951417
+by	O	O/0.981695
+warner	B-producer.name	B-producer.name/0.978515
+bros.	I-producer.name	I-producer.name/0.972599
+
+# 0.913751
+find	O	O/0.994695
+movie	O	O/0.997927
+produce	O	O/0.951279
+by	O	O/0.991487
+warner	B-producer.name	B-producer.name/0.979473
+bros.	I-producer.name	I-producer.name/0.973377
+
+# 0.902747
+what	O	O/0.997239
+movie	O	O/0.999447
+have	O	O/0.989861
+be	O	O/0.985538
+produce	O	O/0.960347
+by	O	O/0.982675
+warner	B-producer.name	B-producer.name/0.978614
+bros.	I-producer.name	I-producer.name/0.972679
+
+# 0.442054
+show	O	O/0.999781
+me	O	O/0.999609
+movie	O	O/0.999584
+by	B-producer.name	O/0.982735
+wb	O	B-producer.name/0.442658
+
+# 0.543092
+give	O	O/0.997759
+me	O	O/0.999566
+information	O	O/0.996914
+about	O	O/0.997549
+find	B-movie.name	B-person.name/0.601418
+nemo	I-movie.name	I-person.name/0.548764
+
+# 0.544817
+i	O	O/0.998950
+want	O	O/0.999760
+information	O	O/0.999100
+about	O	O/0.997405
+find	B-movie.name	B-person.name/0.601384
+nemo	I-movie.name	I-person.name/0.548734
+
+# 0.411296
+show	O	O/0.999297
+me	O	O/0.998617
+find	B-movie.name	B-movie.name/0.439650
+nemo	I-movie.name	I-movie.name/0.420463
+
+# 0.175731
+find	B-movie.name	O/0.885383
+nemo	I-movie.name	O/0.266252
+bing	O	O/0.502129
+
+# 0.978278
+search	O	O/0.996143
+finding	B-movie.name	B-movie.name/0.988350
+nemo	I-movie.name	I-movie.name/0.983277
+
+# 0.917090
+show	O	O/0.996396
+information	O	O/0.995562
+page	O	O/0.991008
+for	O	O/0.992655
+find	B-movie.name	B-movie.name/0.943561
+nemo	I-movie.name	I-movie.name/0.941398
+
+# 0.938403
+the	B-movie.name	B-movie.name/0.979710
+campaign	I-movie.name	I-movie.name/0.980682
+information	O	O/0.958680
+
+# 0.620108
+more	O	O/0.967288
+information	O	O/0.993199
+on	O	O/0.982161
+apallo	B-movie.name	B-person.name/0.720768
+thirteen	I-movie.name	I-person.name/0.650218
+
+# 0.726755
+research	O	O/0.841423
+apollo	B-movie.name	B-movie.name/0.792687
+thirteen	I-movie.name	I-movie.name/0.843811
+
+# 0.311333
+have	O	O/0.923344
+kristen	B-actor.name	B-actor.name/0.934733
+stewart	I-actor.name	I-actor.name/0.971378
+star	O	O/0.984109
+in	O	O/0.978145
+movie	O	O/0.915186
+other	O	O/0.749232
+than	O	O/0.617258
+twilight	B-movie.name	B-movie.name/0.465972
+
+# 0.841702
+show	O	O/0.998600
+me	O	O/0.992284
+kristen	B-actor.name	B-actor.name/0.875948
+stewart	I-actor.name	I-actor.name/0.869262
+movie	O	O/0.996725
+
+# 0.716216
+what	O	O/0.997285
+movie	O	O/0.998870
+have	O	O/0.945927
+kristen	B-actor.name	B-actor.name/0.781478
+stewarted	I-actor.name	I-actor.name/0.832121
+star	O	O/0.955193
+in	O	O/0.991464
+
+# 0.541404
+lionsgate	B-producer.name	B-producer.name/0.543507
+movie	O	O/0.994049
+
+# 0.811853
+show	O	O/0.992125
+lionsgate	B-producer.name	B-producer.name/0.819394
+movie	O	O/0.990736
+
+# 0.885017
+show	O	O/0.994591
+movie	O	O/0.998696
+make	O	O/0.968595
+by	O	O/0.988653
+production	O	O/0.965223
+lionsgate	B-producer.name	B-producer.name/0.930812
+
+# 0.900118
+give	O	O/0.993288
+me	O	O/0.996472
+something	O	O/0.943085
+by	O	O/0.985091
+charles	B-director.name	B-director.name/0.974567
+vidor	I-director.name	I-director.name/0.970990
+
+# 0.657333
+show	O	O/0.971697
+charles	B-director.name	B-director.name/0.718978
+vidor	I-director.name	I-director.name/0.691812
+movie	O	O/0.991029
+
+# 0.528324
+what	O	O/0.994362
+film	O	O/0.970118
+do	O	O/0.668764
+charles	B-director.name	B-director.name/0.803337
+vidor	I-director.name	I-director.name/0.860505
+direct	O	O/0.961386
+
+# 0.034743
+which	O	O/0.986007
+movie	O	O/0.998645
+have	O	O/0.946879
+be	O	O/0.763796
+make	O	O/0.665248
+outside	O	B-movie.name/0.114205
+the	B-country.name	I-movie.name/0.482561
+unite	I-country.name	I-movie.name/0.681310
+state	I-country.name	I-movie.name/0.491264
+
+# 0.817647
+find	O	O/0.998914
+me	O	O/0.990259
+nigeria	B-country.name	O/0.825215
+movie	O	O/0.994200
+
+# 0.311944
+display	O	O/0.891154
+7	B-producer.name	O/0.782410
+art	I-producer.name	O/0.358362
+movie	O	O/0.975480
+
+# 0.834085
+Korean	B-movie.language	O/0.835301
+movie	O	O/0.994333
+
+# 0.455821
+what	O	O/0.998942
+other	O	O/0.993390
+movie	O	O/0.981269
+do	O	O/0.639891
+roberto	B-actor.name	B-actor.name/0.666821
+benigni	I-actor.name	I-actor.name/0.777865
+star	O	O/0.938544
+in	O	O/0.991690
+
+# 0.183771
+i	O	O/0.998646
+want	O	O/0.999927
+to	O	O/0.999759
+see	O	O/0.995725
+movie	O	O/0.972240
+star	O	B-movie.name/0.629509
+denzel	B-actor.name	I-movie.name/0.556551
+washington	I-actor.name	I-movie.name/0.271575
+please	O	O/0.885403
+
+# 0.262679
+list	O	O/0.976918
+the	O	O/0.849508
+kareena	B-actor.name	B-actor.name/0.278029
+'s	O	O/0.953779
+movie	O	O/0.997834
+
+# 0.259458
+i	O	O/0.998497
+want	O	O/0.999846
+to	O	O/0.999046
+watch	O	O/0.992988
+a	O	O/0.952751
+drama	B-movie.genre	B-movie.genre/0.722242
+make	O	O/0.917800
+in	O	O/0.917234
+turkey	B-country.name	O/0.393421
+
+# 0.342316
+Jennifer	B-actor.name	B-actor.name/0.403408
+Lopez	I-actor.name	I-actor.name/0.439393
+play	O	O/0.826518
+in	O	O/0.986389
+what	O	O/0.974426
+movie	O	O/0.998012
+
+# 0.940457
+show	O	O/0.999808
+me	O	O/0.999979
+all	O	O/0.999969
+of	O	O/0.999888
+the	O	O/0.999512
+movie	O	O/0.999720
+direct	O	O/0.955816
+by	O	O/0.994181
+woody	B-director.name	B-director.name/0.995969
+allen	I-director.name	I-director.name/0.989328
+
+# 0.971007
+show	O	O/0.994496
+robert	B-director.name	B-director.name/0.985485
+wise	I-director.name	I-director.name/0.979880
+movie	O	O/0.998630
+
+# 0.915188
+want	O	O/0.993118
+to	O	O/0.998690
+see	O	O/0.989824
+robert	B-director.name	B-director.name/0.940225
+wise	I-director.name	I-director.name/0.947715
+movie	O	O/0.998416
+
+# 0.977583
+what	O	O/0.997131
+movie	O	O/0.999561
+have	O	O/0.992759
+robert	B-director.name	B-director.name/0.993665
+wise	I-director.name	I-director.name/0.995447
+direct	O	O/0.996094
+
+# 0.977583
+what	O	O/0.997131
+movie	O	O/0.999561
+have	O	O/0.992759
+robert	B-director.name	B-director.name/0.993665
+wise	I-director.name	I-director.name/0.995447
+direct	O	O/0.996094
+
+# 0.415539
+where	O	O/0.987698
+can	O	O/0.991858
+i	O	O/0.991031
+find	O	O/0.999222
+a	O	O/0.999380
+list	O	O/0.999231
+of	O	O/0.997691
+movie	O	O/0.996391
+produce	O	O/0.913184
+by	O	O/0.941786
+chris	B-producer.name	B-director.name/0.510670
+nolan	I-producer.name	I-director.name/0.488984
+
+# 0.948682
+what	O	O/0.997157
+movie	O	O/0.999344
+have	O	O/0.984441
+brad	B-actor.name	B-actor.name/0.978671
+pitt	I-actor.name	I-actor.name/0.981161
+be	O	O/0.997021
+in	O	O/0.998256
+
+# 0.113846
+what	O	O/0.999743
+be	O	O/0.999932
+the	O	O/0.999306
+movie	O	O/0.982235
+brad	B-actor.name	B-actor.name/0.259080
+pitt	I-actor.name	I-actor.name/0.236682
+have	O	O/0.937844
+be	O	O/0.997386
+in	O	O/0.999122
+
+# 0.984573
+what	O	O/0.999333
+be	O	O/0.999762
+some	O	O/0.997922
+movie	O	O/0.994213
+with	O	O/0.997499
+brad	B-actor.name	B-actor.name/0.998483
+pitt	I-actor.name	I-actor.name/0.995370
+
+# 0.692723
+find	O	O/0.994611
+an	O	O/0.943864
+r	B-rating.name	B-rating.name/0.857885
+rate	O	O/0.782698
+movie	O	O/0.991971
+
+# 0.580027
+show	O	O/0.998907
+me	O	O/0.993941
+r	B-rating.name	B-rating.name/0.658510
+rate	O	O/0.811989
+movie	O	O/0.993339
+
+# 0.470429
+give	O	O/0.996276
+me	O	O/0.999338
+a	O	O/0.998796
+list	O	O/0.998036
+of	O	O/0.989294
+r	B-rating.name	B-rating.name/0.575659
+rate	O	O/0.658712
+movie	O	O/0.992126
+
+# 0.507580
+look	O	O/0.981805
+up	O	O/0.971684
+r	B-rating.name	B-rating.name/0.619887
+rate	O	O/0.736659
+movie	O	O/0.991252
+
+# 0.725543
+i	O	O/0.992602
+want	O	O/0.992681
+only	O	O/0.964542
+r	B-rating.name	B-rating.name/0.842739
+rate	O	O/0.841918
+movie	O	O/0.993441
+
+# 0.586822
+i	O	O/0.998643
+want	O	O/0.999901
+to	O	O/0.999735
+see	O	O/0.999485
+a	O	O/0.997659
+list	O	O/0.989918
+of	O	O/0.985656
+rate	O	O/0.742526
+r	B-rating.name	B-rating.name/0.673288
+movie	O	O/0.994159
+
+# 0.759464
+show	O	O/0.999141
+me	O	O/0.999288
+only	O	O/0.982869
+movie	O	O/0.998566
+with	O	O/0.997023
+a	O	O/0.997518
+rating	O	O/0.999096
+of	O	O/0.999062
+r	B-rating.name	B-rating.name/0.779195
+
+# 0.959899
+please	O	O/0.995962
+look	O	O/0.999899
+for	O	O/0.999672
+movie	O	O/0.998143
+with	O	O/0.985884
+an	O	O/0.987208
+r	B-rating.name	B-rating.name/0.994545
+rating	O	O/0.994055
+
+# 0.462751
+show	O	O/0.999275
+me	O	O/0.995177
+movie	O	O/0.994277
+rate	O	O/0.632599
+r	B-rating.name	B-rating.name/0.472279
+
+# 0.963548
+look	O	O/0.999446
+for	O	O/0.999871
+movie	O	O/0.998152
+with	O	O/0.985886
+an	O	O/0.987208
+r	B-rating.name	B-rating.name/0.994545
+rating	O	O/0.994055
+
+# 0.535221
+give	O	O/0.996275
+me	O	O/0.999336
+a	O	O/0.998700
+list	O	O/0.999394
+of	O	O/0.999741
+all	O	O/0.995759
+movie	O	O/0.997135
+that	O	O/0.968556
+be	O	O/0.971497
+rate	O	O/0.769089
+r	B-rating.name	B-rating.name/0.584309
+
+# 0.577949
+i	O	O/0.998502
+want	O	O/0.999891
+to	O	O/0.999433
+watch	O	O/0.993299
+movie	O	O/0.998050
+from	O	O/0.902325
+norway	B-country.name	B-country.name/0.584830
+
+# 0.306191
+can	O	O/0.993783
+i	O	O/0.998906
+have	O	O/0.999655
+a	O	O/0.999716
+list	O	O/0.995787
+of	O	O/0.967658
+Spanish	B-movie.language	B-movie.name/0.368424
+speaking	O	I-movie.name/0.369907
+movie	O	O/0.983219
+
+# 0.366860
+show	O	O/0.999514
+me	O	O/0.999049
+movie	O	O/0.992128
+make	O	O/0.933589
+in	O	O/0.936348
+mexico	B-country.name	O/0.392466
+
+# 0.662094
+show	O	O/0.999829
+me	O	O/0.999928
+the	O	O/0.998124
+movie	O	O/0.999163
+pot	B-movie.name	B-movie.name/0.796657
+zombie	I-movie.name	I-movie.name/0.668891
+
+# 0.536806
+what	O	O/0.997106
+movie	O	O/0.999775
+have	O	O/0.986029
+zombie	B-movie.subject	B-movie.subject/0.581937
+in	O	O/0.984451
+them	O	O/0.941724
+
+# 0.952881
+show	O	O/0.999778
+me	O	O/0.999607
+movie	O	O/0.999577
+about	O	O/0.994582
+zombie	B-movie.subject	B-movie.subject/0.954019
+
+# 0.952881
+show	O	O/0.999778
+me	O	O/0.999607
+movie	O	O/0.999577
+about	O	O/0.994582
+zombie	B-movie.subject	B-movie.subject/0.954019
+
+# 0.447549
+show	O	O/0.999621
+me	O	O/0.999361
+one	O	O/0.942186
+by	O	O/0.970435
+david	B-director.name	B-director.name/0.510643
+fincher	I-director.name	I-director.name/0.487605
+
+# 0.058373
+show	O	O/0.914733
+Ridley	B-director.name	B-movie.name/0.179563
+Scott	I-director.name	I-movie.name/0.228054
+'s	O	O/0.688625
+filmography	O	O/0.736771
+
+# 0.272806
+find	O	O/0.969375
+Ridley	B-director.name	O/0.489208
+Scott	I-director.name	O/0.368400
+movie	O	O/0.980148
+
+# 0.455934
+can	O	O/0.997338
+you	O	O/0.999567
+show	O	O/0.999729
+me	O	O/0.997848
+movie	O	O/0.996139
+direct	O	O/0.938471
+by	O	O/0.947825
+Ridley	B-director.name	B-director.name/0.534078
+Scott	I-director.name	I-director.name/0.509350
+
+# 0.868385
+list	O	O/0.990131
+german	B-movie.language	B-country.name/0.876124
+movie	O	O/0.993171
+
+# 0.660417
+german	B-movie.language	B-country.name/0.661130
+movie	O	O/0.994718
+
+# 0.430153
+find	O	O/0.990479
+action	B-movie.genre	B-movie.genre/0.443039
+film	O	O/0.924862
+
+# 0.887127
+find	O	O/0.998197
+some	O	O/0.993913
+action	B-movie.genre	B-movie.genre/0.894426
+movie	O	O/0.996662
+
+# 0.458340
+list	O	O/0.978961
+dredd	B-movie.name	O/0.465304
+movie	O	O/0.989680
+
+# 0.207115
+show	O	O/0.997967
+me	O	O/0.985001
+george	B-director.name	B-director.name/0.260781
+lucas	I-director.name	I-director.name/0.235065
+movie	O	O/0.986176
+
+# 0.742297
+find	O	O/0.994575
+movie	O	O/0.997717
+direct	O	O/0.970752
+by	O	O/0.983149
+george	B-director.name	B-director.name/0.796974
+lucas	I-director.name	I-director.name/0.780866
+
+# 0.982736
+produce	O	O/0.986711
+by	O	O/0.992992
+
+# 0.499659
+please	O	O/0.990397
+find	O	O/0.992915
+movie	O	O/0.994176
+produce	O	O/0.941383
+by	O	O/0.951148
+morgan	B-producer.name	B-producer.name/0.569471
+freeman	I-producer.name	I-producer.name/0.570054
+
+# 0.479129
+please	O	O/0.986595
+look	O	O/0.993562
+up	O	O/0.975052
+movie	O	O/0.994568
+produce	O	O/0.924822
+by	O	O/0.947289
+morgan	B-producer.name	B-producer.name/0.568817
+freeman	I-producer.name	I-producer.name/0.569578
+
+# 0.482505
+search	O	O/0.998769
+for	O	O/0.998244
+movie	O	O/0.993114
+produce	O	O/0.897520
+by	O	O/0.943152
+morgan	B-producer.name	B-producer.name/0.568064
+freeman	I-producer.name	I-producer.name/0.569016
+
+# 0.506503
+find	O	O/0.994686
+movie	O	O/0.997845
+produce	O	O/0.942526
+by	O	O/0.951451
+morgan	B-producer.name	B-producer.name/0.569522
+freeman	I-producer.name	I-producer.name/0.570090
+
+# 0.491584
+look	O	O/0.991504
+up	O	O/0.990354
+movie	O	O/0.995515
+produce	O	O/0.925178
+by	O	O/0.947383
+morgan	B-producer.name	B-producer.name/0.568833
+freeman	I-producer.name	I-producer.name/0.569589
+
+# 0.775910
+what	O	O/0.996367
+movie	O	O/0.997736
+have	O	O/0.938998
+meryl	B-actor.name	B-actor.name/0.842423
+streep	I-actor.name	I-actor.name/0.897544
+star	O	O/0.977377
+in	O	O/0.995483
+
+# 0.926750
+show	O	O/0.999830
+me	O	O/0.999945
+the	O	O/0.999557
+movie	O	O/0.999919
+direct	O	O/0.984167
+by	O	O/0.999240
+the	O	O/0.998475
+director	O	O/0.999778
+of	O	O/0.999522
+this	O	O/0.945307
+movie	O	O/0.996880
+
+# 0.320307
+i	O	O/0.998646
+want	O	O/0.999927
+to	O	O/0.999754
+see	O	O/0.998227
+movie	O	O/0.991900
+make	O	O/0.926009
+in	O	O/0.960703
+russia	B-country.name	B-country.name/0.343902
+
+# 0.217284
+look	O	O/0.973000
+up	O	O/0.928188
+star	B-movie.name	B-movie.name/0.272123
+war	I-movie.name	I-movie.name/0.702058
+four	I-movie.name	I-movie.name/0.769794
+movie	O	O/0.993444
+
+# 0.117027
+display	O	O/0.993590
+all	O	O/0.996689
+detail	O	O/0.906000
+about	O	O/0.779394
+star	B-movie.name	B-movie.name/0.245145
+war	I-movie.name	I-movie.name/0.396862
+-	I-movie.name	I-movie.name/0.592910
+a	I-movie.name	I-movie.name/0.761562
+new	I-movie.name	I-movie.name/0.920674
+hope	I-movie.name	I-movie.name/0.929585
+movie	O	O/0.994428
+
+# 0.118333
+get	O	O/0.995320
+all	O	O/0.997447
+detail	O	O/0.914618
+about	O	O/0.783304
+star	B-movie.name	B-movie.name/0.245583
+war	I-movie.name	I-movie.name/0.396972
+-	I-movie.name	I-movie.name/0.592957
+a	I-movie.name	I-movie.name/0.761578
+new	I-movie.name	I-movie.name/0.920678
+hope	I-movie.name	I-movie.name/0.929587
+movie	O	O/0.994428
+
+# 0.785150
+star	B-movie.name	B-movie.name/0.827989
+war	I-movie.name	I-movie.name/0.935888
+episode	I-movie.name	I-movie.name/0.960201
+four	I-movie.name	I-movie.name/0.947385
+
+# 0.030777
+i	O	O/0.992052
+want	O	O/0.961758
+star	B-movie.name	B-movie.name/0.197210
+war	I-movie.name	I-movie.name/0.147925
+four	I-movie.name	I-movie.name/0.361233
+main	O	O/0.648615
+page	O	O/0.863556
+
+# 0.618157
+search	O	O/0.917417
+star	B-movie.name	B-movie.name/0.711305
+war	I-movie.name	I-movie.name/0.817463
+four	I-movie.name	I-movie.name/0.803395
+
+# 0.279163
+find	O	O/0.999449
+me	O	O/0.996827
+ton	O	O/0.960335
+of	O	O/0.947370
+info	O	O/0.807384
+relate	O	O/0.766418
+to	O	O/0.551740
+star	B-movie.name	B-movie.name/0.491716
+war	I-movie.name	I-movie.name/0.918469
+four	I-movie.name	I-movie.name/0.879438
+
+# 0.982396
+get	O	O/0.996793
+detail	O	O/0.998750
+of	O	O/0.995682
+in	B-movie.name	B-movie.name/0.994974
+july	I-movie.name	I-movie.name/0.995654
+movie	O	O/0.995981
+
+# 0.983820
+find	O	O/0.999142
+detail	O	O/0.997387
+of	O	O/0.996076
+in	B-movie.name	B-movie.name/0.994949
+july	I-movie.name	I-movie.name/0.995655
+movie	O	O/0.995981
+
+# 0.982389
+show	O	O/0.998893
+detail	O	O/0.998271
+of	O	O/0.993927
+in	B-movie.name	B-movie.name/0.994774
+july	I-movie.name	I-movie.name/0.995649
+movie	O	O/0.995981
+
+# 0.974002
+tell	O	O/0.999157
+me	O	O/0.999799
+about	O	O/0.997333
+in	B-movie.name	B-movie.name/0.984559
+july	I-movie.name	I-movie.name/0.984213
+movie	O	O/0.995803
+
+# 0.994768
+look	O	O/0.997775
+up	O	O/0.999895
+the	O	O/0.999817
+movie	O	O/0.999948
+in	B-movie.name	B-movie.name/0.998503
+july	I-movie.name	I-movie.name/0.997420
+
+# 0.959898
+display	O	O/0.996826
+information	O	O/0.999932
+for	O	O/0.999917
+the	O	O/0.999590
+movie	O	O/0.999551
+title	O	O/0.974754
+in	B-movie.name	B-movie.name/0.972269
+july	I-movie.name	I-movie.name/0.989446
+
+# 0.621799
+movie	O	O/0.997522
+in	B-movie.name	B-movie.name/0.975612
+july	I-movie.name	I-movie.name/0.975855
+datum	O	O/0.631248
+
+# 0.300931
+where	O	O/0.988493
+can	O	O/0.996498
+i	O	O/0.998019
+find	O	O/0.999863
+the	O	O/0.999253
+movie	O	O/0.999145
+aankhen	B-movie.name	B-movie.name/0.799751
+in	O	I-movie.name/0.352354
+Hindi	B-movie.language	I-movie.name/0.323397
+
+# 0.209383
+display	O	O/0.778366
+julia	B-actor.name	O/0.520721
+roberts	I-actor.name	O/0.333032
+film	O	O/0.802944
+
+# 0.548057
+list	O	O/0.999532
+the	O	O/0.999922
+movie	O	O/0.999820
+that	O	O/0.980927
+have	O	O/0.996270
+the	O	O/0.962758
+actress	O	O/0.907887
+angelina	B-actor.name	B-actor.name/0.628383
+jolie	I-actor.name	I-actor.name/0.610343
+
+# 0.543109
+dustin	B-actor.name	O/0.702209
+hoffman	I-actor.name	O/0.605624
+movie	O	O/0.984904
+
+# 0.207682
+what	O	O/0.995023
+movie	O	O/0.996508
+do	O	O/0.710331
+david	B-director.name	B-director.name/0.309941
+ayer	I-director.name	I-director.name/0.334239
+direct	O	O/0.809810
+
+# 0.747506
+i	O	O/0.998988
+would	O	O/0.999565
+like	O	O/0.999178
+to	O	O/0.994245
+view	O	O/0.976148
+movie	O	O/0.996243
+produce	O	O/0.936180
+by	O	O/0.986445
+clint	B-producer.name	B-director.name/0.837336
+eastwood	I-producer.name	I-director.name/0.828223
+
+# 0.529785
+list	O	O/0.999277
+all	O	O/0.998968
+movie	O	O/0.998130
+about	O	O/0.908402
+horse	B-movie.subject	B-movie.subject/0.532361
+
+# 0.167164
+find	O	O/0.991687
+all	O	O/0.909332
+johnny	B-actor.name	O/0.445779
+depp	I-actor.name	O/0.262810
+movie	O	O/0.973352
+
+# 0.973620
+search	O	O/0.995697
+by	O	O/0.994112
+director	O	O/0.982826
+
+# 0.973620
+search	O	O/0.995697
+by	O	O/0.994112
+director	O	O/0.982826
+
+# 0.147774
+be	O	O/0.961515
+there	O	O/0.955905
+any	O	O/0.838896
+upcoming	O	O/0.460446
+movie	O	O/0.947104
+from	O	O/0.923803
+warner	B-producer.name	B-producer.name/0.407244
+brother	I-producer.name	I-producer.name/0.369561
+
+# 0.447501
+bring	O	O/0.989635
+up	O	O/0.986134
+movie	O	O/0.982999
+with	O	O/0.882226
+ice	B-movie.subject	B-actor.name/0.666615
+skate	I-movie.subject	I-actor.name/0.637961
+in	O	O/0.964580
+it	O	O/0.833526
+
+# 0.017884
+find	O	O/0.924459
+newly	O	B-movie.name/0.172771
+release	O	O/0.235654
+comedy	B-movie.genre	O/0.263839
+from	O	O/0.878273
+england	B-country.name	B-country.name/0.804188
+
+# 0.952477
+i	O	O/0.993912
+need	O	O/0.996356
+info	O	O/0.995932
+on	O	O/0.993618
+house	B-movie.name	B-movie.name/0.989146
+at	I-movie.name	I-movie.name/0.991199
+the	I-movie.name	I-movie.name/0.992685
+end	I-movie.name	I-movie.name/0.996362
+of	I-movie.name	I-movie.name/0.999422
+the	I-movie.name	I-movie.name/0.998308
+street	I-movie.name	I-movie.name/0.993345
+
+# 0.859497
+what	O	O/0.999531
+be	O	O/0.999894
+the	O	O/0.997718
+house	B-movie.name	B-movie.name/0.937982
+at	I-movie.name	I-movie.name/0.947058
+the	I-movie.name	I-movie.name/0.947341
+end	I-movie.name	I-movie.name/0.952411
+of	I-movie.name	I-movie.name/0.948615
+the	I-movie.name	I-movie.name/0.935529
+street	I-movie.name	I-movie.name/0.931374
+about	O	O/0.972185
+
+# 0.678396
+give	O	O/0.985100
+me	O	O/0.990723
+more	O	O/0.979222
+fact	O	O/0.990064
+about	O	O/0.996987
+the	O	O/0.996432
+movie	O	O/0.999783
+house	B-movie.name	B-movie.name/0.999063
+at	I-movie.name	I-movie.name/0.997193
+the	I-movie.name	I-movie.name/0.993208
+end	I-movie.name	I-movie.name/0.995688
+of	I-movie.name	I-movie.name/0.997000
+the	I-movie.name	I-movie.name/0.994354
+street	I-movie.name	I-movie.name/0.982722
+in	O	O/0.966245
+detail	O	O/0.744593
+
+# 0.966206
+i	O	O/0.998986
+would	O	O/0.999552
+like	O	O/0.999492
+to	O	O/0.997781
+know	O	O/0.997206
+in	O	O/0.999737
+detail	O	O/0.993764
+about	O	O/0.997810
+the	O	O/0.996611
+movie	O	O/0.999787
+house	B-movie.name	B-movie.name/0.999159
+at	I-movie.name	I-movie.name/0.997644
+the	I-movie.name	I-movie.name/0.994114
+end	I-movie.name	I-movie.name/0.996811
+of	I-movie.name	I-movie.name/0.999510
+the	I-movie.name	I-movie.name/0.998395
+street	I-movie.name	I-movie.name/0.993417
+
+# 0.953244
+display	O	O/0.985951
+movie	O	O/0.999887
+information	O	O/0.999635
+for	O	O/0.999867
+the	O	O/0.998124
+film	O	O/0.996369
+house	B-movie.name	B-movie.name/0.994513
+at	I-movie.name	I-movie.name/0.989507
+the	I-movie.name	I-movie.name/0.992355
+end	I-movie.name	I-movie.name/0.996273
+of	I-movie.name	I-movie.name/0.999405
+the	I-movie.name	I-movie.name/0.998291
+street	I-movie.name	I-movie.name/0.993331
+
+# 0.440270
+film	O	O/0.968420
+with	O	O/0.935352
+Chinese	B-movie.language	O/0.463718
+
+# 0.363038
+i	O	O/0.998498
+want	O	O/0.999856
+to	O	O/0.999621
+watch	O	O/0.999589
+a	O	O/0.995466
+movie	O	O/0.997573
+in	O	O/0.951244
+Chinese	B-movie.language	O/0.367732
+
+# 0.637096
+find	O	O/0.992282
+movie	O	O/0.995733
+produce	O	O/0.918279
+and	O	O/0.913208
+direct	O	O/0.908074
+by	O	O/0.957831
+tyler	B-producer.name	B-director.name/0.825913
+perry	I-producer.name	I-director.name/0.813390
+
+# 0.645412
+tom	B-actor.name	B-actor.name/0.687568
+cruise	I-actor.name	I-actor.name/0.717032
+movie	O	O/0.996591
+please	O	O/0.977813
+
+# 0.147644
+i	O	O/0.992738
+want	O	O/0.971964
+tom	B-actor.name	B-actor.name/0.211908
+cruise	I-actor.name	I-actor.name/0.334206
+movie	O	O/0.993352
+please	O	O/0.977469
+
+# 0.425800
+which	O	O/0.988365
+movie	O	O/0.998772
+star	O	O/0.566888
+tom	B-actor.name	B-actor.name/0.475694
+cruise	I-actor.name	I-actor.name/0.464620
+
+# 0.884267
+which	O	O/0.981256
+movie	O	O/0.998654
+do	O	O/0.940719
+tom	B-actor.name	B-actor.name/0.963491
+cruise	I-actor.name	I-actor.name/0.981043
+play	O	O/0.996153
+in	O	O/0.996525
+
+# 0.724799
+find	O	O/0.975465
+end	B-movie.name	B-movie.name/0.749541
+of	I-movie.name	I-movie.name/0.816358
+watch	I-movie.name	I-movie.name/0.808273
+
+# 0.903512
+search	O	O/0.997285
+by	O	O/0.997762
+genre	O	O/0.907007
+
+# 0.524801
+look	O	O/0.999621
+for	O	O/0.999862
+movie	O	O/0.993754
+of	O	O/0.908871
+yash	B-director.name	B-director.name/0.566237
+chopra	I-director.name	I-director.name/0.545266
+
+# 0.980118
+find	O	O/0.999772
+me	O	O/0.999820
+information	O	O/0.999605
+about	O	O/0.998692
+the	B-movie.name	B-movie.name/0.985244
+campaign	I-movie.name	I-movie.name/0.990698
+movie	O	O/0.997324
+
+# 0.997098
+information	O	O/0.999578
+for	O	O/0.999837
+movie	O	O/0.999346
+the	B-movie.name	B-movie.name/0.998679
+campaign	I-movie.name	I-movie.name/0.998499
+
+# 0.953620
+show	O	O/0.999339
+me	O	O/0.999618
+info	O	O/0.998607
+on	O	O/0.999809
+the	O	O/0.999701
+movie	O	O/0.999853
+the	B-movie.name	B-movie.name/0.998577
+campaign	I-movie.name	I-movie.name/0.998909
+please	O	O/0.958382
+
+# 0.991683
+i	O	O/0.997455
+need	O	O/0.999705
+to	O	O/0.999700
+see	O	O/0.999733
+all	O	O/0.999478
+the	O	O/0.999476
+detail	O	O/0.998617
+about	O	O/0.999519
+the	O	O/0.998912
+movie	O	O/0.999966
+the	B-movie.name	B-movie.name/0.999393
+campaign	I-movie.name	I-movie.name/0.998909
+
+# 0.847346
+sort	O	O/0.985225
+all	O	O/0.996313
+pg	B-rating.name	B-rating.name/0.865205
+movie	O	O/0.994040
+
+# 0.265890
+pg	B-rating.name	O/0.335579
+rate	O	O/0.624602
+movie	O	O/0.990164
+
+# 0.753534
+access	O	O/0.973302
+a	O	O/0.997694
+list	O	O/0.998267
+of	O	O/0.995736
+pg	B-rating.name	B-rating.name/0.808015
+movie	O	O/0.981988
+please	O	O/0.975907
+
+# 0.825646
+give	O	O/0.996279
+me	O	O/0.999348
+a	O	O/0.999119
+list	O	O/0.999512
+of	O	O/0.998365
+pg	B-rating.name	B-rating.name/0.837274
+movie	O	O/0.989274
+
+# 0.361492
+can	O	O/0.996993
+you	O	O/0.998748
+find	O	O/0.999503
+me	O	O/0.998816
+a	O	O/0.999383
+list	O	O/0.998506
+of	O	O/0.987124
+pg	B-rating.name	B-rating.name/0.696140
+rate	O	O/0.517074
+movie	O	O/0.995291
+to	O	O/0.932277
+watch	O	O/0.919005
+
+# 0.299599
+show	O	O/0.999608
+me	O	O/0.999745
+a	O	O/0.998852
+list	O	O/0.998467
+of	O	O/0.987308
+pg	B-rating.name	B-rating.name/0.634250
+rate	O	O/0.380450
+movie	O	O/0.985535
+
+# 0.977597
+find	O	O/0.997550
+movie	O	O/0.999610
+with	O	O/0.997601
+a	O	O/0.997726
+pg	B-rating.name	B-rating.name/0.994581
+rating	O	O/0.989519
+
+# 0.830586
+what	O	O/0.997848
+movie	O	O/0.999951
+be	O	O/0.972630
+pg	B-rating.name	B-rating.name/0.832914
+
+# 0.984317
+movie	O	O/0.999541
+by	O	O/0.999848
+alfred	B-director.name	B-director.name/0.989949
+hitchcock	I-director.name	I-director.name/0.985299
+
+# 0.559021
+what	O	O/0.995932
+movie	O	O/0.999194
+do	O	O/0.936419
+alfred	B-director.name	B-director.name/0.659020
+hitchcock	I-director.name	I-director.name/0.636123
+make	O	O/0.953893
+
+# 0.689293
+watch	O	O/0.918559
+hitchcook	B-director.name	O/0.713713
+movie	O	O/0.981512
+
+# 0.374327
+i	O	O/0.998637
+want	O	O/0.999852
+to	O	O/0.998622
+see	O	O/0.996082
+any	O	O/0.964869
+current	O	O/0.865372
+movie	O	O/0.950825
+star	O	B-movie.name/0.777257
+tom	B-actor.name	I-movie.name/0.777974
+hank	I-actor.name	I-movie.name/0.475899
+
+# 0.388422
+i	O	O/0.998257
+want	O	O/0.999624
+a	O	O/0.999464
+list	O	O/0.998187
+of	O	O/0.995445
+recent	O	O/0.874308
+movie	O	O/0.988112
+rate	O	O/0.567982
+pg	B-rating.name	B-rating.name/0.453978
+
+# 0.387217
+give	O	O/0.996273
+me	O	O/0.999328
+a	O	O/0.998439
+list	O	O/0.998170
+of	O	O/0.995450
+recent	O	O/0.874310
+movie	O	O/0.988112
+rate	O	O/0.567982
+pg	B-rating.name	B-rating.name/0.453978
+
+# 0.059918
+ray	B-producer.name	B-director.name/0.140014
+stark	I-producer.name	I-director.name/0.144785
+produce	O	O/0.564395
+what	O	O/0.964540
+other	O	O/0.973452
+movie	O	O/0.998818
+
+# 0.066390
+what	O	O/0.991836
+be	O	O/0.883521
+Spielberg	B-producer.name	B-movie.name/0.119368
+'s	O	O/0.674955
+late	O	O/0.695762
+movie	O	O/0.989906
+
+# 0.696802
+please	O	O/0.990945
+find	O	O/0.993103
+movie	O	O/0.994291
+direct	O	O/0.980139
+by	O	O/0.987751
+tom	B-director.name	B-director.name/0.747955
+hank	I-director.name	I-director.name/0.734045
+
+# 0.089469
+be	O	O/0.970310
+there	O	O/0.983363
+any	O	O/0.984682
+recent	O	O/0.973908
+movie	O	O/0.991628
+that	O	O/0.938478
+be	O	O/0.905602
+polish	B-movie.language	O/0.201565
+speaking	O	O/0.367908
+
+# 0.246577
+what	O	O/0.997375
+movie	O	O/0.999498
+have	O	O/0.983504
+tom	B-actor.name	B-actor.name/0.933052
+cruise	I-actor.name	I-actor.name/0.936039
+be	O	O/0.983604
+in	O	O/0.982206
+recently	O	O/0.279454
+
+# 0.882899
+search	O	O/0.998321
+for	O	O/0.998690
+new	O	O/0.887332
+movie	O	O/0.990195
+
+# 0.316231
+search	O	O/0.998163
+for	O	O/0.999149
+in	B-movie.name	B-movie.name/0.321745
+July	I-movie.name	I-movie.name/0.326859
+
+# 0.560502
+watch	O	O/0.973243
+in	B-movie.name	B-movie.name/0.859889
+july	I-movie.name	I-movie.name/0.866409
+online	O	O/0.619293
+
+# 0.873701
+search	O	O/0.999482
+for	O	O/0.999849
+information	O	O/0.995742
+about	O	O/0.997330
+lionsgate	B-producer.name	B-producer.name/0.878434
+
+# 0.618846
+lionsgate	B-producer.name	B-producer.name/0.631094
+info	O	O/0.961166
+
+# 0.396950
+find	O	O/0.998515
+information	O	O/0.994128
+about	O	O/0.991001
+paramount	B-producer.name	B-producer.name/0.546410
+studio	I-producer.name	I-producer.name/0.409385
+
+# 0.725907
+who	O	O/0.996303
+be	O	O/0.996396
+ray	B-person.name	B-person.name/0.765707
+stark	I-person.name	I-person.name/0.738511
+
+# 0.962440
+find	O	O/0.995866
+information	O	O/0.983811
+on	O	O/0.996673
+charles	B-person.name	B-person.name/0.996926
+vidor	I-person.name	I-person.name/0.984267
+
+# 0.973494
+i	O	O/0.998170
+want	O	O/0.999676
+to	O	O/0.997904
+look	O	O/0.998813
+up	O	O/0.998288
+information	O	O/0.994379
+about	O	O/0.998752
+tom	B-person.name	B-person.name/0.995488
+cruise	I-person.name	I-person.name/0.986623
+
+# 0.944888
+can	O	O/0.993208
+you	O	O/0.996230
+please	O	O/0.989115
+search	O	O/0.992020
+detail	O	O/0.985619
+about	O	O/0.989434
+will	B-person.name	B-person.name/0.992388
+ferrell	I-person.name	I-person.name/0.991217
+
+# 0.421864
+will	B-person.name	B-person.name/0.472128
+Ferrell	I-person.name	I-person.name/0.462464
+biography	O	O/0.835585
+
+# 0.925741
+show	O	O/0.988194
+will	B-person.name	B-person.name/0.962214
+ferrell	I-person.name	I-person.name/0.963783
+biography	O	O/0.975046
+
+# 0.703570
+show	O	O/0.999332
+me	O	O/0.997872
+a	O	O/0.950426
+complete	O	O/0.901312
+biography	O	O/0.983016
+of	O	O/0.990265
+will	B-person.name	B-person.name/0.817510
+ferrell	I-person.name	I-person.name/0.814572
+
+# 0.993783
+show	O	O/0.999707
+me	O	O/0.999712
+information	O	O/0.997917
+on	O	O/0.999624
+will	B-person.name	B-person.name/0.998637
+ferrell	I-person.name	I-person.name/0.996773
+
+# 0.761802
+show	O	O/0.999668
+me	O	O/0.999216
+will	B-person.name	B-actor.name/0.824888
+ferrell	I-person.name	I-actor.name/0.788119
+'s	O	O/0.993668
+bio	O	O/0.986686
+
+# 0.724693
+get	O	O/0.975307
+info	O	O/0.982591
+on	O	O/0.955667
+Kristen	B-person.name	B-person.name/0.796248
+stewart	I-person.name	I-person.name/0.775743
+
+# 0.087107
+do	O	O/0.735435
+Kristen	B-person.name	O/0.560172
+Stewart	I-person.name	O/0.215286
+have	O	O/0.513058
+a	O	O/0.737316
+personal	O	O/0.716206
+page	O	O/0.897436
+
+# 0.914108
+where	O	O/0.987713
+can	O	O/0.991980
+i	O	O/0.994487
+find	O	O/0.999184
+information	O	O/0.993438
+about	O	O/0.996034
+Kristen	B-person.name	B-person.name/0.970540
+stewart	I-person.name	I-person.name/0.946324
+
+# 0.210938
+jennifer	B-person.name	B-actor.name/0.283262
+aniston	I-person.name	I-actor.name/0.270205
+bio	O	O/0.669400
+
+# 0.163004
+i	O	O/0.998625
+want	O	O/0.999761
+to	O	O/0.994225
+see	O	O/0.900730
+Spielberg	B-person.name	B-movie.name/0.301796
+'s	O	O/0.685180
+main	O	O/0.792107
+page	O	O/0.913131
+
+# 0.724968
+steven	B-person.name	B-person.name/0.758690
+spielberg	I-person.name	I-person.name/0.758011
+summary	O	O/0.946479
+
+# 0.962297
+about	O	O/0.993873
+steven	B-person.name	B-person.name/0.971362
+spielberg	I-person.name	I-person.name/0.968410
+
+# 0.537912
+find	O	O/0.996814
+me	O	O/0.980728
+bio	O	O/0.928981
+detail	O	O/0.977543
+for	O	O/0.984258
+steven	B-person.name	B-person.name/0.605679
+spielberg	I-person.name	I-person.name/0.601729
+
+# 0.668927
+bio	O	O/0.995050
+for	O	O/0.998453
+steven	B-person.name	B-person.name/0.678692
+spielberg	I-person.name	I-person.name/0.673782
+
+# 0.542106
+show	O	O/0.999192
+me	O	O/0.997973
+alfred	B-person.name	B-person.name/0.561324
+hitchcock	I-person.name	I-person.name/0.551984
+
+# 0.158958
+i	O	O/0.996254
+want	O	O/0.998847
+more	O	O/0.996018
+information	O	O/0.978275
+about	O	O/0.900993
+Alfred	B-person.name	B-person.name/0.563080
+hitchock	I-person.name	I-person.name/0.247487
+'s	O	O/0.746792
+biography	O	O/0.814056
+
+# 0.392952
+all	O	O/0.988026
+info	O	O/0.933230
+hitchcock	B-person.name	O/0.408406
+
+# 0.993457
+find	O	O/0.999837
+the	O	O/0.999852
+name	O	O/0.999686
+of	O	O/0.999842
+the	O	O/0.999756
+producer	O	O/0.999696
+of	O	O/0.999800
+avatar	B-movie.name	B-movie.name/0.994617
+
+# 0.677057
+producer	O	O/0.896437
+hitch	B-movie.name	B-movie.name/0.680118
+
+# 0.966439
+who	O	O/0.996271
+produce	O	O/0.998752
+hitch	B-movie.name	B-movie.name/0.970207
+
+# 0.598886
+production	O	O/0.989948
+company	O	O/0.998567
+for	O	O/0.979508
+transformer	B-movie.name	B-movie.name/0.606073
+
+# 0.812839
+what	O	O/0.994080
+company	O	O/0.958474
+make	O	O/0.967282
+et	B-movie.name	B-movie.name/0.850680
+
+# 0.917561
+what	O	O/0.999429
+be	O	O/0.999792
+the	O	O/0.997871
+production	O	O/0.979443
+company	O	O/0.996259
+for	O	O/0.995799
+et	B-movie.name	B-movie.name/0.941483
+
+# 0.417798
+who	O	O/0.992786
+produce	O	O/0.977680
+car	B-movie.name	O/0.425713
+
+# 0.387640
+can	O	O/0.997246
+you	O	O/0.998328
+find	O	O/0.988206
+who	O	O/0.960517
+produce	O	O/0.933498
+car	B-movie.name	O/0.421202
+
+# 0.593431
+production	O	O/0.992612
+company	O	O/0.998975
+for	O	O/0.972656
+devil	B-movie.name	B-movie.name/0.599025
+
+# 0.851767
+who	O	O/0.998715
+produce	O	O/0.999731
+the	O	O/0.989401
+movie	O	O/0.996604
+steel	B-movie.name	B-movie.name/0.963274
+magnolia	I-movie.name	I-movie.name/0.866461
+
+# 0.966504
+who	O	O/0.997278
+produce	O	O/0.999334
+avatar	B-movie.name	B-movie.name/0.969237
+
+# 0.991973
+i	O	O/0.998225
+want	O	O/0.999902
+to	O	O/0.999762
+know	O	O/0.999850
+the	O	O/0.999930
+producer	O	O/0.999656
+of	O	O/0.999803
+avatar	B-movie.name	B-movie.name/0.994620
+
+# 0.966504
+who	O	O/0.997278
+produce	O	O/0.999334
+avatar	B-movie.name	B-movie.name/0.969237
+
+# 0.966504
+who	O	O/0.997278
+produce	O	O/0.999334
+avatar	B-movie.name	B-movie.name/0.969237
+
+# 0.733760
+avatar	B-movie.name	B-movie.name/0.750911
+producer	O	O/0.972306
+
+# 0.977596
+i	O	O/0.998984
+would	O	O/0.999538
+like	O	O/0.998781
+to	O	O/0.995247
+know	O	O/0.995045
+who	O	O/0.998762
+produce	O	O/0.999093
+the	O	O/0.998441
+movie	O	O/0.999896
+avatar	B-movie.name	B-movie.name/0.992309
+
+# 0.989378
+who	O	O/0.998734
+produce	O	O/0.999825
+the	O	O/0.998469
+movie	O	O/0.999896
+avatar	B-movie.name	B-movie.name/0.992309
+
+# 0.988483
+who	O	O/0.999071
+be	O	O/0.999953
+the	O	O/0.999715
+producer	O	O/0.999852
+for	O	O/0.999797
+the	O	O/0.997698
+movie	O	O/0.999817
+avatar	B-movie.name	B-movie.name/0.992217
+
+# 0.726022
+what	O	O/0.995785
+be	O	O/0.955071
+grease	B-movie.name	B-movie.name/0.753385
+'s	O	O/0.979879
+producer	O	O/0.989086
+
+# 0.837047
+who	O	O/0.995237
+produce	O	O/0.995469
+grease	B-movie.name	B-movie.name/0.840979
+
+# 0.616736
+who	O	O/0.998735
+produce	O	O/0.999834
+the	O	O/0.996033
+movie	O	O/0.996417
+my	B-movie.name	B-movie.name/0.952280
+big	I-movie.name	I-movie.name/0.893532
+fat	I-movie.name	I-movie.name/0.842081
+Greek	I-movie.name	I-movie.name/0.825251
+wedding	I-movie.name	I-movie.name/0.740187
+
+# 0.799296
+who	O	O/0.987175
+produce	O	O/0.989764
+pretty	B-movie.name	B-movie.name/0.882369
+woman	I-movie.name	I-movie.name/0.820658
+
+# 0.993223
+tell	O	O/0.996531
+me	O	O/0.999829
+the	O	O/0.999947
+producer	O	O/0.999873
+for	O	O/0.999793
+the	B-movie.name	B-movie.name/0.998034
+godfather	I-movie.name	I-movie.name/0.997409
+
+# 0.694843
+the	B-movie.name	B-movie.name/0.778197
+godfather	I-movie.name	I-movie.name/0.759379
+be	O	O/0.965042
+produce	O	O/0.973400
+by	O	O/0.971641
+
+# 0.509253
+who	O	O/0.998721
+produce	O	O/0.999763
+the	O	O/0.995065
+movie	O	O/0.996162
+clue	B-movie.name	O/0.513371
+
+# 0.886085
+who	O	O/0.989746
+produce	O	O/0.994439
+hotel	B-movie.name	B-movie.name/0.945718
+rwanda	I-movie.name	I-movie.name/0.902121
+
+# 0.881984
+who	O	O/0.993919
+produce	O	O/0.994800
+marley	B-movie.name	B-movie.name/0.935902
+and	I-movie.name	I-movie.name/0.934604
+me	I-movie.name	I-movie.name/0.916698
+
+# 0.654026
+who	O	O/0.989271
+produce	O	O/0.993027
+despicable	B-movie.name	B-movie.name/0.754027
+me	I-movie.name	I-movie.name/0.670546
+
+# 0.817111
+who	O	O/0.999162
+be	O	O/0.999922
+the	O	O/0.997978
+company	O	O/0.990554
+that	O	O/0.996622
+produce	O	O/0.996653
+the	O	O/0.994780
+movie	O	O/0.998315
+inception	B-movie.name	B-movie.name/0.834936
+
+# 0.821757
+what	O	O/0.999158
+company	O	O/0.998224
+develop	O	O/0.991481
+the	O	O/0.993130
+movie	O	O/0.998762
+inception	B-movie.name	B-movie.name/0.835264
+
+# 0.827879
+find	O	O/0.999574
+producer	O	O/0.997050
+of	O	O/0.992946
+the	B-movie.name	B-movie.name/0.967974
+great	I-movie.name	I-movie.name/0.982714
+debater	I-movie.name	I-movie.name/0.847402
+
+# 0.644020
+who	O	O/0.994124
+produce	O	O/0.991290
+inception	B-movie.name	B-movie.name/0.647480
+
+# 0.404109
+provide	O	O/0.996407
+the	O	O/0.999917
+name	O	O/0.999353
+of	O	O/0.999499
+the	O	O/0.997564
+company	O	O/0.984176
+that	O	O/0.949846
+produce	O	O/0.846210
+sparkle	B-movie.name	B-movie.name/0.425577
+
+# 0.399248
+i	O	O/0.996689
+need	O	O/0.999776
+to	O	O/0.999677
+know	O	O/0.999478
+the	O	O/0.999311
+company	O	O/0.971812
+that	O	O/0.945498
+produce	O	O/0.844001
+sparkle	B-movie.name	B-movie.name/0.424593
+
+# 0.416716
+find	O	O/0.999749
+the	O	O/0.999650
+producer	O	O/0.999073
+of	O	O/0.991338
+look	B-movie.name	O/0.572450
+who	I-movie.name	O/0.946981
+be	I-movie.name	O/0.975049
+talk	I-movie.name	O/0.737117
+
+# 0.584078
+who	O	O/0.977793
+produce	O	O/0.965831
+harlem	B-movie.name	B-movie.name/0.689237
+night	I-movie.name	I-movie.name/0.626300
+
+# 0.983502
+find	O	O/0.999750
+the	O	O/0.999675
+producer	O	O/0.999421
+of	O	O/0.999165
+step	B-movie.name	B-movie.name/0.995674
+up	I-movie.name	I-movie.name/0.985824
+
+# 0.883371
+please	O	O/0.994409
+find	O	O/0.999827
+the	O	O/0.998979
+producer	O	O/0.998250
+of	O	O/0.991862
+freedom	B-movie.name	B-movie.name/0.953617
+writer	I-movie.name	I-movie.name/0.898358
+
+# 0.887058
+look	O	O/0.999107
+for	O	O/0.999988
+the	O	O/0.999362
+producer	O	O/0.997068
+of	O	O/0.991383
+freedom	B-movie.name	B-movie.name/0.953237
+writer	I-movie.name	I-movie.name/0.898269
+
+# 0.968654
+show	O	O/0.999536
+me	O	O/0.998547
+movie	O	O/0.996563
+rating	O	O/0.973542
+
+# 0.447677
+how	O	O/0.994037
+much	O	O/0.990930
+revenue	O	O/0.936669
+do	O	O/0.703772
+pretty	B-movie.name	B-movie.name/0.629671
+woman	I-movie.name	I-movie.name/0.822532
+make	O	O/0.945998
+
+# 0.915120
+earning	O	O/0.965187
+for	O	O/0.990942
+pretty	B-movie.name	B-movie.name/0.963577
+woman	I-movie.name	I-movie.name/0.957932
+
+# 0.960478
+what	O	O/0.999368
+be	O	O/0.999912
+the	O	O/0.999747
+revenue	O	O/0.997243
+of	O	O/0.997417
+pretty	B-movie.name	B-movie.name/0.986624
+woman	I-movie.name	I-movie.name/0.967548
+
+# 0.555101
+how	O	O/0.993396
+much	O	O/0.985228
+do	O	O/0.862834
+pretty	B-movie.name	B-movie.name/0.665083
+woman	I-movie.name	I-movie.name/0.766630
+make	O	O/0.938479
+
+# 0.958913
+what	O	O/0.999378
+be	O	O/0.999513
+the	O	O/0.995068
+gross	O	O/0.989644
+revenue	O	O/0.999342
+for	O	O/0.999416
+the	B-movie.name	B-movie.name/0.976395
+avenger	I-movie.name	I-movie.name/0.976028
+
+# 0.420315
+how	O	O/0.998552
+much	O	O/0.999203
+do	O	O/0.991434
+the	B-movie.name	B-movie.name/0.448171
+avenger	I-movie.name	I-movie.name/0.475527
+make	O	O/0.930699
+
+# 0.972604
+revenue	O	O/0.998342
+for	O	O/0.999802
+the	B-movie.name	B-movie.name/0.976562
+avenger	I-movie.name	I-movie.name/0.976035
+
+# 0.481901
+how	O	O/0.998583
+much	O	O/0.999469
+do	O	O/0.995057
+the	B-movie.name	B-movie.name/0.754896
+dark	I-movie.name	I-movie.name/0.838240
+night	I-movie.name	I-movie.name/0.897775
+generate	O	O/0.818327
+in	O	O/0.951006
+revenue	O	O/0.815383
+
+# 0.729109
+find	O	O/0.992092
+revenue	O	O/0.957504
+total	O	O/0.907205
+for	O	O/0.878307
+Jurassic	B-movie.name	B-movie.name/0.866840
+park	I-movie.name	I-movie.name/0.887241
+
+# 0.876195
+revenue	O	O/0.994613
+for	O	O/0.998714
+independence	B-movie.name	B-movie.name/0.948607
+day	I-movie.name	I-movie.name/0.892924
+
+# 0.486019
+what	O	O/0.999473
+be	O	O/0.999815
+the	O	O/0.997377
+new	O	O/0.909734
+will	B-actor.name	B-actor.name/0.633974
+ferrell	I-actor.name	I-actor.name/0.607083
+movie	O	O/0.998660
+about	O	O/0.987766
+
+# 0.615663
+who	O	O/0.997261
+play	O	O/0.999600
+the	O	O/0.990709
+voice	O	O/0.970334
+of	O	O/0.931636
+nemo	B-character.name	O/0.704334
+in	O	O/0.975334
+find	B-movie.name	B-movie.name/0.899261
+nemo	I-movie.name	I-movie.name/0.907047
+
+# 0.252470
+who	O	O/0.975428
+play	O	O/0.942869
+richie	B-character.name	B-character.name/0.620233
+cunningham	I-character.name	I-character.name/0.408786
+in	O	O/0.866889
+happy	B-movie.name	B-movie.name/0.787266
+day	I-movie.name	I-movie.name/0.790189
+
+# 0.975262
+who	O	O/0.995475
+star	O	O/0.998317
+in	O	O/0.998202
+house	B-movie.name	B-movie.name/0.997755
+at	I-movie.name	I-movie.name/0.998068
+the	I-movie.name	I-movie.name/0.994533
+end	I-movie.name	I-movie.name/0.997041
+of	I-movie.name	I-movie.name/0.999560
+the	I-movie.name	I-movie.name/0.998445
+street	I-movie.name	I-movie.name/0.993457
+
+# 0.921168
+show	O	O/0.999719
+me	O	O/0.999943
+the	O	O/0.999842
+cast	O	O/0.999813
+for	O	O/0.999865
+the	O	O/0.968205
+house	B-movie.name	B-movie.name/0.943967
+at	I-movie.name	I-movie.name/0.982936
+the	I-movie.name	I-movie.name/0.986250
+end	I-movie.name	I-movie.name/0.992898
+of	I-movie.name	I-movie.name/0.998672
+the	I-movie.name	I-movie.name/0.997565
+street	I-movie.name	I-movie.name/0.992734
+
+# 0.971643
+cast	O	O/0.995165
+and	O	O/0.999059
+crew	O	O/0.996350
+of	O	O/0.998067
+house	B-movie.name	B-movie.name/0.998284
+at	I-movie.name	I-movie.name/0.996776
+the	I-movie.name	I-movie.name/0.994241
+end	I-movie.name	I-movie.name/0.996945
+of	I-movie.name	I-movie.name/0.999541
+the	I-movie.name	I-movie.name/0.998426
+street	I-movie.name	I-movie.name/0.993442
+
+# 0.651326
+ethel	B-character.name	O/0.782595
+actress	O	O/0.897672
+from	O	O/0.936197
+i	B-movie.name	B-movie.name/0.957004
+love	I-movie.name	I-movie.name/0.977962
+lucy	I-movie.name	I-movie.name/0.932482
+
+# 0.280135
+actress	O	O/0.887806
+who	O	O/0.937625
+play	O	O/0.872410
+ethel	B-character.name	B-character.name/0.638815
+on	O	O/0.614740
+i	B-movie.name	B-movie.name/0.780206
+love	I-movie.name	I-movie.name/0.896191
+lucy	I-movie.name	I-movie.name/0.860315
+
+# 0.415112
+who	O	O/0.999142
+be	O	O/0.999881
+the	O	O/0.990209
+cast	O	O/0.956220
+member	O	O/0.957094
+in	O	O/0.982106
+lord	B-movie.name	B-movie.name/0.745102
+of	I-movie.name	I-movie.name/0.863589
+the	I-movie.name	I-movie.name/0.854207
+ring	I-movie.name	I-movie.name/0.918138
+the	I-movie.name	I-movie.name/0.855561
+two	I-movie.name	I-movie.name/0.857516
+tower	I-movie.name	I-movie.name/0.602881
+
+# 0.106067
+who	O	O/0.991996
+play	O	O/0.980046
+hawkeye	B-character.name	O/0.456753
+in	O	O/0.753674
+mash	B-movie.name	O/0.234274
+
+# 0.298040
+who	O	O/0.992982
+play	O	O/0.982353
+mother	B-character.name	B-character.name/0.667142
+in	O	O/0.694457
+tarkovsky	B-director.name	B-movie.name/0.625938
+'s	O	I-movie.name/0.647913
+mirror	B-movie.name	I-movie.name/0.583730
+
+# 0.734117
+show	O	O/0.999740
+me	O	O/0.999965
+the	O	O/0.999927
+actor	O	O/0.999951
+of	O	O/0.999858
+the	O	O/0.998205
+movie	O	O/0.998844
+muthyala	B-movie.name	B-movie.name/0.913411
+muggu	I-movie.name	I-movie.name/0.740584
+
+# 0.711267
+who	O	O/0.998763
+be	O	O/0.999848
+the	O	O/0.939320
+droids	B-character.name	O/0.876301
+in	O	O/0.976892
+star	B-movie.name	B-movie.name/0.861202
+war	I-movie.name	I-movie.name/0.973718
+episode	I-movie.name	I-movie.name/0.975740
+four	I-movie.name	I-movie.name/0.955732
+
+# 0.253028
+who	O	O/0.997863
+be	O	O/0.992353
+that	O	O/0.645778
+guy	O	O/0.504429
+again	O	O/0.521267
+who	O	O/0.959979
+be	O	O/0.995836
+in	O	O/0.994428
+the	B-movie.name	B-movie.name/0.886582
+avenger	I-movie.name	I-movie.name/0.891790
+
+# 0.395959
+which	O	O/0.965092
+actor	O	O/0.954153
+play	O	O/0.690914
+frodo	B-character.name	O/0.606916
+in	O	O/0.860439
+lord	B-movie.name	B-movie.name/0.780534
+of	I-movie.name	I-movie.name/0.981102
+the	I-movie.name	I-movie.name/0.979160
+ring	I-movie.name	I-movie.name/0.976576
+
+# 0.186641
+find	O	O/0.999835
+the	O	O/0.999668
+name	O	O/0.998923
+of	O	O/0.997924
+the	O	O/0.971355
+actress	O	O/0.891010
+who	O	O/0.932550
+play	O	O/0.883481
+mother	B-character.name	B-character.name/0.672594
+in	O	O/0.865524
+mirror	B-movie.name	B-movie.name/0.516019
+by	O	O/0.818434
+andrey	B-director.name	B-director.name/0.768049
+tarkovsky	I-director.name	I-director.name/0.731201
+
+# 0.228413
+what	O	O/0.999622
+be	O	O/0.999976
+the	O	O/0.999933
+name	O	O/0.998146
+of	O	O/0.997459
+the	O	O/0.970330
+actress	O	O/0.886371
+who	O	O/0.918309
+play	O	O/0.846572
+mother	B-character.name	B-character.name/0.601041
+in	O	O/0.686043
+tarkovsky	B-director.name	B-movie.name/0.621702
+'s	O	I-movie.name/0.645742
+mirror	B-movie.name	I-movie.name/0.581855
+
+# 0.389252
+what	O	O/0.999622
+be	O	O/0.999976
+the	O	O/0.999961
+name	O	O/0.999383
+of	O	O/0.999464
+the	O	O/0.993197
+actor	O	O/0.978497
+who	O	O/0.980580
+play	O	O/0.962602
+todd	B-character.name	O/0.492713
+in	O	O/0.976071
+the	O	O/0.961032
+tv	O	O/0.953179
+show	O	O/0.976862
+one	B-movie.name	B-movie.name/0.939763
+life	I-movie.name	I-movie.name/0.946630
+to	I-movie.name	I-movie.name/0.977951
+live	I-movie.name	I-movie.name/0.963039
+
+# 0.488453
+give	O	O/0.997695
+me	O	O/0.999939
+the	O	O/0.999875
+name	O	O/0.997443
+of	O	O/0.994409
+the	O	O/0.957812
+main	O	O/0.917863
+actress	O	O/0.926272
+in	O	O/0.973302
+platoon	B-movie.name	B-movie.name/0.560934
+
+# 0.593427
+what	O	O/0.999622
+be	O	O/0.999975
+the	O	O/0.999844
+name	O	O/0.994468
+of	O	O/0.989281
+the	O	B-character.name/0.769827
+mom	B-character.name	I-character.name/0.786003
+on	O	O/0.940983
+seinfeld	B-movie.name	B-movie.name/0.787445
+
+# 0.885554
+name	O	O/0.994750
+the	O	O/0.996872
+co-star	O	O/0.955979
+in	O	O/0.990047
+shoot	B-movie.name	B-movie.name/0.965120
+to	I-movie.name	I-movie.name/0.979478
+kill	I-movie.name	I-movie.name/0.957085
+
+# 0.205561
+what	O	O/0.999622
+be	O	O/0.999976
+the	O	O/0.999960
+name	O	O/0.999355
+of	O	O/0.999410
+the	O	O/0.991023
+actor	O	O/0.964349
+who	O	O/0.876164
+play	O	O/0.742109
+atticus	B-character.name	B-character.name/0.524287
+finch	I-character.name	I-character.name/0.493902
+in	O	O/0.823228
+to	B-movie.name	B-movie.name/0.683718
+kill	I-movie.name	I-movie.name/0.929196
+a	I-movie.name	I-movie.name/0.918475
+mockingbird	I-movie.name	I-movie.name/0.888908
+
+# 0.455776
+show	O	O/0.999759
+me	O	O/0.999980
+the	O	O/0.999920
+name	O	O/0.999357
+of	O	O/0.998730
+the	O	O/0.987158
+guy	O	O/0.968964
+who	O	O/0.995610
+be	O	O/0.997236
+the	O	O/0.960237
+father	B-character.name	O/0.754756
+and	I-character.name	O/0.904515
+a	I-character.name	O/0.919529
+lawyer	I-character.name	O/0.902239
+in	O	O/0.967783
+to	B-movie.name	B-movie.name/0.743134
+kill	I-movie.name	I-movie.name/0.923244
+a	I-movie.name	I-movie.name/0.912600
+mockingbird	I-movie.name	I-movie.name/0.884326
+
+# 0.802128
+please	O	O/0.988207
+provide	O	O/0.997543
+the	O	O/0.997901
+cost	O	O/0.995902
+for	O	O/0.994747
+produce	O	O/0.909236
+the	O	B-movie.name/0.911793
+deer	B-movie.name	I-movie.name/0.974697
+hunter	I-movie.name	I-movie.name/0.929390
+
+# 0.905676
+what	O	O/0.999503
+be	O	O/0.999899
+the	O	O/0.999458
+budget	O	O/0.997353
+for	O	O/0.997583
+epic	B-movie.name	B-movie.name/0.908925
+
+# 0.834008
+search	O	O/0.997811
+budget	O	O/0.999817
+for	O	O/0.999754
+the	O	O/0.995288
+movie	O	O/0.996824
+epic	B-movie.name	B-movie.name/0.838134
+
+# 0.824514
+what	O	O/0.999503
+be	O	O/0.999898
+the	O	O/0.999367
+budget	O	O/0.990723
+for	O	O/0.991057
+fire	B-movie.name	B-movie.name/0.909154
+proof	I-movie.name	I-movie.name/0.849472
+
+# 0.824514
+what	O	O/0.999503
+be	O	O/0.999898
+the	O	O/0.999367
+budget	O	O/0.990723
+for	O	O/0.991057
+fly	B-movie.name	B-movie.name/0.909154
+whele	I-movie.name	I-movie.name/0.849472
+
+# 0.090200
+what	O	O/0.999502
+be	O	O/0.999897
+the	O	O/0.999284
+budget	O	O/0.985524
+for	O	O/0.962282
+1st	O	B-movie.name/0.368610
+harry	B-movie.name	I-movie.name/0.199137
+potter	I-movie.name	I-movie.name/0.542854
+movie	O	O/0.981854
+
+# 0.015877
+how	O	O/0.995427
+much	O	O/0.997742
+be	O	O/0.981408
+spend	O	O/0.757967
+on	O	O/0.635129
+shoot	O	O/0.398836
+the	O	O/0.411038
+last	O	O/0.144046
+harry	B-movie.name	B-movie.name/0.184270
+potter	I-movie.name	I-movie.name/0.243887
+film	O	O/0.821381
+
+# 0.869624
+how	O	O/0.996161
+much	O	O/0.996273
+do	O	O/0.991746
+it	O	O/0.989685
+cost	O	O/0.983458
+to	O	O/0.991224
+produce	O	O/0.995120
+looper	B-movie.name	B-movie.name/0.909055
+
+# 0.869624
+how	O	O/0.996161
+much	O	O/0.996273
+do	O	O/0.991746
+it	O	O/0.989685
+cost	O	O/0.983458
+to	O	O/0.991224
+produce	O	O/0.995120
+looper	B-movie.name	B-movie.name/0.909055
+
+# 0.730126
+how	O	O/0.996498
+much	O	O/0.997219
+money	O	O/0.986862
+be	O	O/0.953929
+spend	O	O/0.862464
+to	O	O/0.930427
+produce	O	O/0.975523
+looper	B-movie.name	B-movie.name/0.894169
+
+# 0.385349
+how	O	O/0.994177
+much	O	O/0.994418
+do	O	O/0.960247
+man	B-movie.name	O/0.732210
+in	I-movie.name	O/0.663114
+black	I-movie.name	B-movie.name/0.493709
+3	I-movie.name	I-movie.name/0.966604
+cost	O	O/0.951992
+
+# 0.755532
+how	O	O/0.997019
+much	O	O/0.999323
+be	O	O/0.998517
+it	O	O/0.990240
+to	O	O/0.956291
+make	O	O/0.976591
+paranorman	B-movie.name	B-movie.name/0.792456
+
+# 0.898668
+show	O	O/0.999677
+me	O	O/0.999912
+the	O	O/0.999210
+budget	O	O/0.997350
+to	O	O/0.989054
+rebel	B-movie.name	O/0.905859
+movie	O	O/0.995440
+
+# 0.846935
+show	O	O/0.999674
+me	O	O/0.999910
+the	O	O/0.999533
+budget	O	O/0.999171
+for	O	O/0.997711
+star	B-movie.name	B-movie.name/0.978714
+war	I-movie.name	I-movie.name/0.994399
+2	I-movie.name	I-movie.name/0.867940
+
+# 0.228627
+how	O	O/0.996160
+much	O	O/0.996263
+do	O	O/0.991516
+it	O	O/0.988459
+cost	O	O/0.984752
+to	O	O/0.970489
+create	O	O/0.929852
+the	B-movie.name	O/0.652638
+boardwalk	I-movie.name	O/0.382394
+empire	I-movie.name	O/0.445207
+
+# 0.861015
+show	O	O/0.999674
+me	O	O/0.999909
+the	O	O/0.999157
+budget	O	O/0.996486
+for	O	O/0.992515
+expendable	B-movie.name	B-movie.name/0.925417
+1	I-movie.name	I-movie.name/0.883494
+
+# 0.737366
+what	O	O/0.999503
+be	O	O/0.999901
+the	O	O/0.999620
+budget	O	O/0.997779
+for	O	O/0.998776
+find	B-movie.name	B-movie.name/0.953457
+nemo	I-movie.name	I-movie.name/0.949730
+in	O	I-movie.name/0.798453
+3d	O	I-movie.name/0.790635
+
+# 0.859712
+liongate	B-producer.name	O/0.859712
+
+# 0.583555
+which	O	O/0.987403
+country	O	O/0.964587
+make	O	O/0.878497
+inchochine	B-movie.name	B-movie.name/0.610682
+
+# 0.850358
+what	O	O/0.997126
+country	O	O/0.987493
+file	O	O/0.951980
+les	B-movie.name	B-movie.name/0.945779
+mes	I-movie.name	I-movie.name/0.893188
+
+# 0.681178
+what	O	O/0.998500
+country	O	O/0.996775
+be	O	O/0.959383
+les	B-movie.name	B-movie.name/0.841585
+mes	I-movie.name	I-movie.name/0.771888
+from	O	O/0.967227
+
+# 0.335313
+where	O	O/0.992455
+be	O	O/0.997151
+the	O	O/0.958182
+milk	B-movie.name	O/0.811118
+of	I-movie.name	O/0.769685
+sorrow	I-movie.name	B-movie.name/0.472159
+make	O	O/0.806887
+
+# 0.246974
+what	O	O/0.997737
+country	O	O/0.988249
+be	O	O/0.864544
+shawshank	B-movie.name	B-movie.name/0.422352
+redemption	I-movie.name	I-movie.name/0.292640
+
+# 0.775190
+what	O	O/0.999491
+country	O	O/0.999608
+do	O	O/0.998442
+the	O	O/0.996145
+movie	O	O/0.998333
+thoda	B-movie.name	B-movie.name/0.980806
+pyaar	I-movie.name	I-movie.name/0.943782
+thoda	I-movie.name	I-movie.name/0.874616
+magic	I-movie.name	I-movie.name/0.940027
+come	O	O/0.971596
+from	O	O/0.990866
+
+# 0.218439
+tell	O	O/0.995257
+me	O	O/0.998371
+where	O	O/0.985098
+the	O	B-movie.name/0.292644
+white	B-movie.name	I-movie.name/0.333907
+ribbon	I-movie.name	I-movie.name/0.633372
+come	O	O/0.925260
+from	O	O/0.983196
+
+# 0.836447
+when	O	O/0.998527
+be	O	O/0.999237
+the	O	O/0.997158
+movie	O	O/0.997429
+barfi	B-movie.name	B-movie.name/0.992018
+!	I-movie.name	I-movie.name/0.964136
+release	O	O/0.871719
+
+# 0.885412
+what	O	O/0.999429
+be	O	O/0.999850
+the	O	O/0.999925
+date	O	O/0.999821
+for	O	O/0.999687
+the	O	O/0.996782
+movie	O	O/0.999355
+barfi	B-movie.name	B-movie.name/0.995111
+!	I-movie.name	I-movie.name/0.890371
+
+# 0.077320
+release	O	O/0.998935
+date	O	O/0.998358
+of	O	O/0.980626
+the	O	O/0.492903
+new	O	O/0.349114
+bug	B-movie.name	O/0.281958
+bunny	I-movie.name	O/0.331012
+film	O	O/0.806055
+
+# 0.795908
+what	O	O/0.999454
+be	O	O/0.999730
+the	O	O/0.997739
+release	O	O/0.997826
+date	O	O/0.997222
+of	O	O/0.967741
+evil	B-movie.name	B-movie.name/0.951912
+go	I-movie.name	I-movie.name/0.949712
+global	I-movie.name	I-movie.name/0.850313
+
+# 0.293630
+what	O	O/0.999451
+be	O	O/0.999689
+the	O	O/0.995749
+release	O	O/0.991949
+date	O	O/0.990329
+for	O	O/0.903050
+jaw	B-movie.name	B-movie.name/0.642065
+@card@	I-movie.name	I-movie.name/0.514994
+in	O	I-movie.name/0.425793
+the	O	I-movie.name/0.438234
+theater	O	I-movie.name/0.823579
+
+# 0.471864
+what	O	O/0.999451
+be	O	O/0.999690
+the	O	O/0.995789
+release	O	O/0.992512
+date	O	O/0.993514
+for	O	O/0.946435
+Jurassic	B-movie.name	B-movie.name/0.892982
+park	I-movie.name	I-movie.name/0.868243
+4	I-movie.name	O/0.573060
+
+# 0.677164
+list	O	O/0.970259
+release	O	O/0.998483
+date	O	O/0.999014
+for	O	O/0.994840
+the	O	B-movie.name/0.817185
+Jurassic	B-movie.name	I-movie.name/0.836804
+park	I-movie.name	I-movie.name/0.814257
+movie	O	O/0.991689
+
+# 0.259574
+when	O	O/0.997268
+will	O	O/0.998105
+the	O	O/0.995083
+movie	O	O/0.999291
+omg	B-movie.name	B-movie.name/0.996660
+oh	I-movie.name	I-movie.name/0.911383
+my	I-movie.name	I-movie.name/0.820738
+god	I-movie.name	I-movie.name/0.802543
+be	O	I-movie.name/0.461897
+release	O	O/0.761690
+
+# 0.307502
+when	O	O/0.995786
+be	O	O/0.995449
+the	O	O/0.783532
+lord	B-movie.name	O/0.587000
+of	I-movie.name	O/0.577643
+the	I-movie.name	O/0.425996
+ring	I-movie.name	O/0.384146
+movie	O	O/0.967106
+release	O	O/0.838060
+
+# 0.058217
+whats	O	O/0.449129
+paranormal	B-movie.name	B-movie.name/0.136734
+activity	I-movie.name	I-movie.name/0.409525
+release	O	O/0.900821
+date	O	O/0.958509
+
+# 0.473982
+when	O	O/0.956176
+will	O	O/0.731921
+robocop	B-movie.name	B-movie.name/0.557162
+come	O	O/0.959120
+out	O	O/0.965888
+
+# 0.170651
+when	O	O/0.969626
+be	O	O/0.845232
+suckerpunch	B-movie.name	O/0.292819
+be	O	O/0.464679
+release	O	O/0.734637
+
+# 0.396639
+when	O	O/0.996412
+be	O	O/0.996345
+the	B-movie.name	B-movie.name/0.841965
+sound	I-movie.name	I-movie.name/0.857950
+of	I-movie.name	I-movie.name/0.982758
+music	I-movie.name	I-movie.name/0.976253
+release	O	O/0.492879
+
+# 0.000359
+when	O	O/0.960712
+will	O	O/0.870067
+twilight	B-movie.name	B-movie.name/0.777329
+break	I-movie.name	I-movie.name/0.084262
+dawn	I-movie.name	I-movie.name/0.046556
+part	I-movie.name	I-movie.name/0.113485
+2	I-movie.name	I-movie.name/0.379562
+be	O	O/0.609618
+release	O	O/0.796340
+
+# 0.542483
+who	O	O/0.990360
+direct	O	O/0.986597
+ai	B-movie.name	O/0.551927
+
+# 0.955969
+find	O	O/0.999485
+the	O	O/0.990572
+director	O	O/0.998552
+of	O	O/0.999007
+downton	B-movie.name	B-movie.name/0.993343
+abbey	I-movie.name	I-movie.name/0.967580
+
+# 0.361795
+who	O	O/0.933145
+direct	O	O/0.866161
+good	B-movie.name	B-movie.name/0.496798
+bad	I-movie.name	I-movie.name/0.764400
+and	I-movie.name	I-movie.name/0.855319
+ugly	I-movie.name	I-movie.name/0.828185
+
+# 0.415539
+i	O	O/0.990212
+can	O	O/0.984370
+'t	O	O/0.901178
+remember	O	O/0.587401
+who	O	O/0.706223
+direct	O	O/0.938101
+star	B-movie.name	B-movie.name/0.912309
+war	I-movie.name	I-movie.name/0.874548
+
+# 0.863099
+find	O	O/0.999544
+the	O	O/0.997098
+director	O	O/0.999727
+of	O	O/0.996786
+to	B-movie.name	B-movie.name/0.943333
+kill	I-movie.name	I-movie.name/0.968860
+a	I-movie.name	I-movie.name/0.952403
+mockingbird	I-movie.name	I-movie.name/0.914824
+
+# 0.194186
+be	O	O/0.910165
+amelie	B-movie.name	O/0.823734
+in	O	O/0.910233
+a	O	O/0.347828
+different	O	O/0.333502
+language	O	O/0.541553
+
+# 0.433529
+what	O	O/0.997089
+language	O	O/0.984889
+be	O	O/0.888867
+amelie	B-movie.name	O/0.465575
+film	O	O/0.921902
+in	O	O/0.988505
+
+# 0.398865
+what	O	O/0.999282
+language	O	O/0.997130
+be	O	O/0.970659
+the	O	O/0.678287
+full	B-movie.name	O/0.501288
+monty	I-movie.name	O/0.610392
+in	O	O/0.976911
+
+# 0.061317
+what	O	O/0.997927
+be	O	O/0.980315
+ju	B-movie.name	B-movie.name/0.191808
+on	I-movie.name	I-movie.name/0.228517
+'s	O	O/0.656440
+original	O	O/0.687711
+language	O	O/0.692440
+
+# 0.316311
+what	O	O/0.996402
+language	O	O/0.978960
+be	O	O/0.865923
+secret	B-movie.name	O/0.397482
+and	I-movie.name	O/0.540614
+lie	I-movie.name	O/0.721908
+in	O	O/0.985122
+
+# 0.512915
+give	O	O/0.998209
+me	O	O/0.999480
+name	O	O/0.993655
+of	O	O/0.995774
+some	O	O/0.979882
+action	B-movie.genre	B-movie.genre/0.562611
+movie	O	O/0.996434
+with	O	O/0.995081
+a	O	O/0.991553
+pg	B-rating.name	B-rating.name/0.994231
+thirteen	I-rating.name	I-rating.name/0.982827
+rating	O	O/0.973863
+
+# 0.538712
+show	O	O/0.989414
+all	O	O/0.954986
+comedy	B-movie.genre	B-movie.genre/0.734485
+musical	B-movie.genre	O/0.785436
+for	O	O/0.899582
+twenty	B-movie.release_date	B-movie.release_date/0.949133
+twelve	I-movie.release_date	I-movie.release_date/0.981152
+
+# 0.423035
+be	O	O/0.959516
+there	O	O/0.951244
+any	O	O/0.838841
+documentary	B-movie.genre	O/0.576325
+on	O	O/0.769127
+classic	B-movie.subject	B-movie.subject/0.906659
+car	I-movie.subject	I-movie.subject/0.901390
+
+# 0.094362
+show	O	O/0.994237
+all	O	O/0.966171
+dramas	B-movie.genre	O/0.478159
+produce	O	O/0.862329
+in	O	O/0.887965
+@card@	B-movie.release_date	B-movie.name/0.212674
+
+# 0.477355
+find	O	O/0.996918
+some	O	O/0.955053
+mystery	B-movie.genre	O/0.494100
+
+# 0.186453
+search	O	O/0.916208
+romantic	B-movie.genre	B-movie.genre/0.286711
+commedies	I-movie.genre	O/0.441664
+
+# 0.879971
+sci-fi	B-movie.genre	O/0.879971
+
+# 0.636947
+show	O	O/0.999026
+me	O	O/0.992318
+western	B-movie.genre	O/0.639635
+
+# 0.251356
+show	O	O/0.962254
+car	B-movie.subject	O/0.524416
+documentary	B-movie.genre	B-movie.genre/0.305285
+
+# 0.027774
+show	O	O/0.999210
+me	O	O/0.995243
+a	O	O/0.770489
+Katie	B-actor.name	O/0.153558
+Holmes	I-actor.name	O/0.199891
+flick	B-movie.type	O/0.375430
+
+# 0.710037
+i	O	O/0.998635
+want	O	O/0.999836
+to	O	O/0.999472
+see	O	O/0.998431
+video	B-movie.type	O/0.989400
+of	O	O/0.988528
+steven	B-director.name	B-person.name/0.731508
+spielberg	I-director.name	I-person.name/0.723842
+
+# 0.691118
+video	B-movie.type	O/0.900489
+relate	O	O/0.970508
+to	O	O/0.959777
+steven	B-director.name	B-person.name/0.806161
+spielberg	I-director.name	I-person.name/0.794192
+
+# 0.667444
+new	O	O/0.831016
+release	O	O/0.887882
+video	B-movie.type	O/0.832359
+
+# 0.661745
+i	O	O/0.998633
+want	O	O/0.999826
+to	O	O/0.998785
+see	O	O/0.991626
+Brazilian	B-country.name	O/0.670901
+movie	O	O/0.980621
+
+# 0.172426
+show	O	O/0.997522
+all	O	O/0.990725
+canandian	B-country.name	O/0.477667
+movie	O	O/0.989798
+for	O	O/0.964961
+nineteen	B-movie.release_date	B-movie.name/0.400495
+eighty	I-movie.release_date	I-movie.name/0.403437
+
+# 0.375369
+what	O	O/0.996684
+movie	O	O/0.999853
+be	O	O/0.929389
+make	O	O/0.905139
+in	O	O/0.919098
+ireland	B-country.name	O/0.595068
+this	B-movie.release_date	B-movie.release_date/0.626326
+year	I-movie.release_date	I-movie.release_date/0.802939
+
+# 0.235290
+find	O	O/0.983076
+philipino	B-country.name	O/0.808978
+movie	O	O/0.993601
+in	O	O/0.758722
+English	B-movie.language	O/0.299409
+
+# 0.208148
+show	O	O/0.999587
+me	O	O/0.999802
+the	O	O/0.978517
+highest-grossing	O	O/0.912293
+movie	O	O/0.994855
+from	O	O/0.814910
+portugal	B-country.name	B-country.name/0.229967
+
+# 0.316450
+find	O	O/0.992383
+movie	O	O/0.998751
+in	O	O/0.982354
+america	B-country.name	O/0.623142
+about	O	O/0.778880
+obama	B-movie.subject	B-movie.subject/0.429247
+
+# 0.044967
+i	O	O/0.995890
+will	O	O/0.996925
+love	O	O/0.977862
+to	O	O/0.937797
+watch	O	O/0.812478
+an	O	O/0.469673
+albert	B-director.name	B-director.name/0.112659
+ruddy	I-director.name	I-director.name/0.108694
+movie	O	O/0.979232
+
+# 0.031738
+what	O	O/0.998463
+other	O	O/0.991123
+film	O	O/0.803424
+have	O	O/0.356175
+arthur	B-director.name	O/0.134353
+ruddy	I-director.name	O/0.264594
+do	O	O/0.639721
+
+# 0.377600
+bring	O	O/0.986011
+up	O	O/0.991373
+all	O	O/0.962458
+movie	O	O/0.943038
+brad	B-director.name	B-actor.name/0.509780
+pitt	I-director.name	I-actor.name/0.458871
+direct	O	O/0.936406
+
+# 0.701428
+what	O	O/0.997155
+movie	O	O/0.999308
+have	O	O/0.980530
+brad	B-director.name	B-actor.name/0.789345
+pitt	I-director.name	I-actor.name/0.745967
+direct	O	O/0.963359
+
+# 0.658101
+movie	O	O/0.998703
+by	O	O/0.996319
+david	B-director.name	B-director.name/0.705099
+selsnic	I-director.name	I-director.name/0.665825
+
+# 0.038317
+do	O	O/0.638186
+holly	B-director.name	O/0.349915
+hunter	I-director.name	I-director.name/0.167343
+direct	O	O/0.867844
+any	O	O/0.940187
+movie	O	O/0.997583
+
+# 0.094402
+what	O	O/0.994999
+movie	O	O/0.996295
+do	O	O/0.677315
+joe	B-director.name	O/0.313432
+coen	I-director.name	O/0.284385
+do	O	O/0.604600
+
+# 0.527808
+movie	O	O/0.999175
+by	O	O/0.998098
+john	B-director.name	B-director.name/0.858354
+paul	I-director.name	I-director.name/0.718955
+as	O	O/0.777503
+a	O	O/0.904867
+director	O	O/0.962430
+
+# 0.910087
+show	O	O/0.999493
+me	O	O/0.998315
+movie	O	O/0.996827
+direct	O	O/0.968489
+by	O	O/0.990330
+john	B-director.name	B-director.name/0.959977
+paul	I-director.name	I-director.name/0.952385
+
+# 0.273564
+tom	B-director.name	B-person.name/0.374413
+cruise	I-director.name	I-person.name/0.382539
+have	O	O/0.827527
+direct	O	O/0.982447
+what	O	O/0.995962
+movie	O	O/0.998466
+
+# 0.767516
+please	O	O/0.993598
+list	O	O/0.998936
+all	O	O/0.990023
+movie	O	O/0.994551
+direct	O	O/0.979222
+by	O	O/0.993571
+tom	B-director.name	B-director.name/0.811332
+cruise	I-director.name	I-director.name/0.806586
+
+# 0.166029
+wesley	B-director.name	O/0.408725
+snipe	I-director.name	O/0.298898
+direct	O	O/0.810338
+what	O	O/0.964473
+movie	O	O/0.997765
+
+# 0.526654
+find	O	O/0.992517
+action	B-movie.genre	B-movie.genre/0.573884
+movie	O	O/0.983454
+with	O	O/0.978841
+john	B-actor.name	B-actor.name/0.960516
+travolta	I-actor.name	I-actor.name/0.949324
+
+# 0.540405
+show	O	O/0.995995
+all	O	O/0.983420
+animation	B-movie.genre	O/0.584492
+film	O	O/0.962147
+for	O	O/0.962242
+twenty	B-movie.release_date	B-movie.release_date/0.967940
+twelve	I-movie.release_date	I-movie.release_date/0.982680
+
+# 0.746220
+animated	B-movie.genre	O/0.783653
+pg	B-rating.name	B-rating.name/0.970660
+thirteen	I-rating.name	I-rating.name/0.964256
+movie	O	O/0.991730
+
+# 0.834085
+physfi	B-movie.genre	O/0.835301
+movie	O	O/0.994333
+
+# 0.899417
+i	O	O/0.994333
+like	O	O/0.996517
+sci-fi	B-movie.genre	O/0.909248
+movie	O	O/0.991730
+
+# 0.274419
+show	O	O/0.999161
+me	O	O/0.997358
+film	O	O/0.915287
+release	O	O/0.928033
+in	O	O/0.961771
+September	B-movie.release_date	O/0.320531
+
+# 0.301472
+show	O	O/0.998744
+all	O	O/0.997400
+movie	O	O/0.989046
+release	O	O/0.943502
+in	O	O/0.972240
+September	B-movie.release_date	O/0.321859
+
+# 0.337386
+look	O	O/0.994982
+up	O	O/0.998475
+all	O	O/0.989296
+movie	O	O/0.986221
+come	O	O/0.920861
+in	O	O/0.969670
+September	B-movie.release_date	O/0.371644
+
+# 0.435898
+find	O	O/0.995817
+movie	O	O/0.999822
+for	O	O/0.995212
+twenty	B-movie.release_date	B-movie.release_date/0.471006
+ten	I-movie.release_date	I-movie.release_date/0.447336
+
+# 0.528779
+most	O	O/0.959217
+recent	O	O/0.974860
+zombie	B-movie.subject	B-movie.subject/0.568439
+movie	O	O/0.974517
+
+# 0.294261
+search	O	O/0.999545
+for	O	O/0.999118
+movie	O	O/0.995698
+in	O	O/0.766778
+Chinese	B-movie.language	O/0.302086
+
+# 0.271922
+find	O	O/0.999654
+me	O	O/0.997100
+movie	O	O/0.999493
+that	O	O/0.992329
+be	O	O/0.996127
+in	O	O/0.967316
+Chinese	B-movie.language	B-movie.language/0.275809
+
+# 0.257819
+i	O	O/0.998643
+want	O	O/0.999901
+to	O	O/0.999735
+see	O	O/0.999509
+a	O	O/0.998286
+list	O	O/0.998270
+of	O	O/0.999541
+all	O	O/0.995532
+movie	O	O/0.998962
+show	O	O/0.973338
+in	O	O/0.936505
+English	B-movie.language	O/0.268707
+
+# 0.335296
+find	O	O/0.992660
+movie	O	O/0.999018
+in	O	O/0.878145
+farsi	B-movie.language	O/0.341746
+
+# 0.269664
+send	O	O/0.992414
+me	O	O/0.994463
+movie	O	O/0.998908
+that	O	O/0.992265
+be	O	O/0.996120
+in	O	O/0.967313
+French	B-movie.language	B-movie.language/0.275808
+
+# 0.335296
+find	O	O/0.992660
+movie	O	O/0.999018
+in	O	O/0.878145
+French	B-movie.language	O/0.341746
+
+# 0.284547
+i	O	O/0.998207
+would	O	O/0.999183
+like	O	O/0.997728
+a	O	O/0.998409
+list	O	O/0.999655
+of	O	O/0.998891
+movie	O	O/0.998567
+in	O	O/0.745437
+French	B-movie.language	O/0.294041
+
+# 0.358573
+movie	O	O/0.999165
+in	O	O/0.932192
+French	B-movie.language	O/0.360770
+
+# 0.147404
+i	O	O/0.998316
+want	O	O/0.999866
+to	O	O/0.999300
+find	O	O/0.995777
+movie	O	O/0.979201
+use	O	B-movie.name/0.271871
+the	O	I-movie.name/0.409519
+French	B-movie.language	I-movie.name/0.556784
+langauage	O	I-movie.name/0.426522
+
+# 0.347598
+i	O	O/0.999053
+want	O	O/0.998608
+movie	O	O/0.999721
+in	O	O/0.905031
+French	B-movie.language	O/0.351221
+
+# 0.116367
+find	O	O/0.991744
+movie	O	O/0.996040
+in	O	O/0.975771
+german	B-movie.language	B-movie.language/0.753102
+before	O	I-movie.language/0.261109
+@card@	B-movie.release_date	O/0.392279
+
+# 0.730252
+give	O	O/0.995422
+me	O	O/0.998353
+some	O	O/0.970016
+movie	O	O/0.994513
+which	O	O/0.996554
+be	O	O/0.990034
+film	O	O/0.985004
+in	O	O/0.972750
+polish	B-movie.language	B-movie.language/0.779312
+
+# 0.424486
+find	O	O/0.992662
+movie	O	O/0.999042
+in	O	O/0.891076
+portugese	B-movie.language	B-movie.language/0.428139
+
+# 0.318688
+show	O	O/0.999507
+all	O	O/0.998313
+movie	O	O/0.997847
+in	O	O/0.831078
+Spanish	B-movie.language	O/0.324995
+
+# 0.272757
+list	O	O/0.999867
+of	O	O/0.999829
+movie	O	O/0.999250
+in	O	O/0.946520
+the	O	O/0.372970
+Spanish	B-movie.language	O/0.329534
+language	O	O/0.595465
+
+# 0.358573
+movie	O	O/0.999165
+in	O	O/0.932192
+Spanish	B-movie.language	O/0.360770
+
+# 0.292103
+i	O	O/0.998021
+be	O	O/0.999702
+search	O	O/0.999510
+for	O	O/0.993976
+movie	O	O/0.995534
+in	O	O/0.766721
+Spanish	B-movie.language	O/0.302069
+
+# 0.293907
+i	O	O/0.998985
+would	O	O/0.999541
+like	O	O/0.999211
+to	O	O/0.998763
+look	O	O/0.999935
+for	O	O/0.999650
+movie	O	O/0.997127
+in	O	O/0.767412
+Spanish	B-movie.language	O/0.302280
+
+# 0.335296
+find	O	O/0.992660
+movie	O	O/0.999018
+in	O	O/0.878145
+swahili	B-movie.language	O/0.341746
+
+# 0.520345
+show	O	O/0.999608
+me	O	O/0.999740
+a	O	O/0.998390
+list	O	O/0.999372
+of	O	O/0.999529
+all	O	O/0.991135
+movie	O	O/0.998103
+produce	O	O/0.961477
+by	O	O/0.985510
+alfred	B-producer.name	B-director.name/0.567030
+ruddy	I-producer.name	I-director.name/0.556472
+
+# 0.127175
+what	O	O/0.998558
+other	O	O/0.989589
+movie	O	O/0.971909
+charles	B-producer.name	B-movie.name/0.257540
+vidor	I-producer.name	I-movie.name/0.259184
+produce	O	O/0.745310
+
+# 0.138221
+have	O	O/0.812709
+jennifer	B-producer.name	O/0.431669
+anniston	I-producer.name	O/0.343912
+produce	O	O/0.405954
+movie	O	O/0.975598
+
+# 0.143187
+show	O	O/0.999829
+me	O	O/0.999942
+the	O	O/0.999521
+movie	O	O/0.999677
+produce	O	O/0.846106
+by	O	O/0.789338
+m	B-producer.name	B-director.name/0.372907
+S	I-producer.name	I-director.name/0.326633
+raju	I-producer.name	O/0.452579
+
+# 0.215971
+list	O	O/0.999012
+the	O	O/0.999685
+movie	O	O/0.998773
+create	O	O/0.731624
+by	O	O/0.901999
+7	B-producer.name	B-director.name/0.324250
+art	I-producer.name	I-director.name/0.311500
+
+# 0.003296
+lionsgate	B-producer.name	B-producer.name/0.725092
+=	O	O/0.821596
+i	O	O/0.955022
+would	O	O/0.987748
+like	O	O/0.997837
+to	O	O/0.995654
+get	O	O/0.998430
+a	O	O/0.998833
+list	O	O/0.998448
+of	O	O/0.997717
+your	O	O/0.928558
+movie	O	O/0.995716
+from	O	O/0.951506
+two	B-movie.release_date	B-movie.release_date/0.339030
+thousand	I-movie.release_date	O/0.218879
+and	I-movie.release_date	O/0.505990
+nine	I-movie.release_date	O/0.632574
+to	I-movie.release_date	O/0.693139
+two	I-movie.release_date	O/0.562048
+thousand	I-movie.release_date	O/0.261755
+and	I-movie.release_date	O/0.226834
+twelve	I-movie.release_date	O/0.237043
+
+# 0.208388
+twentieth	B-producer.name	B-producer.name/0.621881
+century	I-producer.name	I-producer.name/0.673410
+fox	I-producer.name	I-producer.name/0.630106
+movie	O	O/0.867965
+@card@	B-movie.release_date	O/0.502236
+
+# 0.001438
+show	O	O/0.996463
+me	O	O/0.965915
+nc	B-rating.name	B-rating.name/0.137490
+minus	I-rating.name	I-rating.name/0.065804
+seventeen	I-rating.name	O/0.117393
+rate	O	O/0.203650
+movie	O	O/0.973076
+
+# 0.160102
+show	O	O/0.999793
+me	O	O/0.999467
+movie	O	O/0.990252
+with	O	O/0.842928
+not	B-rating.name	B-actor.name/0.248174
+rate	I-rating.name	I-actor.name/0.216249
+rating	O	O/0.849728
+
+# 0.373714
+give	O	O/0.996274
+me	O	O/0.999332
+a	O	O/0.998601
+list	O	O/0.998168
+of	O	O/0.993337
+nr	B-rating.name	O/0.378194
+movie	O	O/0.980182
+
+# 0.251821
+what	O	O/0.999415
+be	O	O/0.999692
+a	O	O/0.999249
+list	O	O/0.998023
+of	O	O/0.994501
+pg	B-rating.name	B-rating.name/0.862130
+thirteen	I-rating.name	I-rating.name/0.566656
+action	B-movie.genre	O/0.374823
+movie	O	O/0.984868
+
+# 0.966214
+i	O	O/0.998643
+want	O	O/0.999902
+to	O	O/0.999786
+see	O	O/0.999586
+a	O	O/0.995006
+pg	B-rating.name	B-rating.name/0.994166
+thirteen	I-rating.name	I-rating.name/0.983600
+movie	O	O/0.991893
+
+# 0.044640
+show	O	O/0.999367
+me	O	O/0.998562
+a	O	O/0.967880
+complete	O	O/0.925956
+list	O	O/0.986728
+of	O	O/0.956733
+r	B-rating.name	B-rating.name/0.648208
+rate	O	O/0.695846
+movie	O	O/0.956774
+that	O	O/0.908835
+come	O	O/0.997540
+out	O	O/0.997044
+in	O	O/0.993699
+the	B-movie.release_date	O/0.526381
+last	I-movie.release_date	O/0.418617
+@card@	I-movie.release_date	O/0.270078
+day	I-movie.release_date	O/0.434225
+
+# 0.543450
+show	O	O/0.999126
+me	O	O/0.998350
+all	O	O/0.975154
+rate	O	O/0.887668
+r	B-rating.name	B-rating.name/0.692337
+movie	O	O/0.998879
+by	O	O/0.997886
+paramount	B-producer.name	B-producer.name/0.858861
+
+# 0.606513
+show	O	O/0.999698
+me	O	O/0.999230
+movie	O	O/0.995760
+that	O	O/0.968283
+be	O	O/0.959889
+unrated	B-rating.name	O/0.628436
+
+# 0.048159
+list	O	O/0.987174
+movie	O	O/0.998389
+from	O	O/0.942276
+@card@	B-movie.release_date	O/0.094320
+with	O	O/0.360042
+adam	B-actor.name	B-actor.name/0.719689
+sandler	I-actor.name	I-actor.name/0.722307
+
+# 0.766357
+i	O	O/0.998646
+want	O	O/0.999929
+to	O	O/0.999894
+see	O	O/0.999135
+movie	O	O/0.994787
+with	O	O/0.916390
+alan	B-actor.name	B-actor.name/0.816473
+rickmman	I-actor.name	I-actor.name/0.793914
+
+# 0.051257
+which	O	O/0.985004
+movie	O	O/0.996755
+have	O	O/0.876596
+angelina	B-actor.name	B-actor.name/0.590330
+jolie	I-actor.name	I-actor.name/0.381013
+star	O	O/0.360367
+this	B-movie.release_date	B-movie.release_date/0.286567
+season	I-movie.release_date	I-movie.release_date/0.354485
+
+# 0.140393
+what	O	O/0.996526
+movie	O	O/0.999365
+be	O	O/0.899928
+angelina	B-actor.name	O/0.358136
+a	O	O/0.413738
+main	B-character.name	O/0.426440
+actress	I-character.name	O/0.753678
+
+# 0.403907
+look	O	O/0.994420
+up	O	O/0.996471
+movie	O	O/0.995927
+star	O	B-movie.name/0.633048
+the	O	I-movie.name/0.651296
+singer	B-actor.type	I-movie.name/0.658256
+mario	B-actor.name	I-movie.name/0.489362
+
+# 0.380613
+i	O	O/0.998316
+want	O	O/0.999871
+to	O	O/0.999583
+find	O	O/0.999085
+movie	O	O/0.996317
+star	O	B-movie.name/0.593242
+the	O	I-movie.name/0.611325
+singer	B-actor.type	I-movie.name/0.620837
+mario	B-actor.name	I-movie.name/0.466809
+
+# 0.108704
+look	O	O/0.999426
+for	O	O/0.999779
+movie	O	O/0.980332
+with	O	O/0.720695
+Max	B-actor.name	B-actor.name/0.297944
+von	I-actor.name	I-actor.name/0.233296
+sudow	I-actor.name	O/0.351595
+
+# 0.249235
+show	O	O/0.999707
+me	O	O/0.999373
+movie	O	O/0.997145
+that	O	O/0.969965
+have	O	O/0.956068
+patrick	B-actor.name	B-actor.name/0.540810
+swayze	I-actor.name	I-actor.name/0.501498
+and	O	O/0.684872
+jennifer	B-actor.name	B-actor.name/0.861338
+grey	I-actor.name	I-actor.name/0.883640
+in	O	O/0.982767
+them	O	O/0.921955
+
+# 0.401521
+show	O	O/0.999708
+me	O	O/0.999402
+movie	O	O/0.996827
+that	O	O/0.956762
+star	O	O/0.834586
+patrick	B-actor.name	B-actor.name/0.756807
+swayze	I-actor.name	I-actor.name/0.814215
+star	O	O/0.860680
+in	O	O/0.955949
+from	O	O/0.860542
+nineteen	B-movie.release_date	B-movie.release_date/0.896229
+eighty	I-movie.release_date	I-movie.release_date/0.919648
+seven	I-movie.release_date	I-movie.release_date/0.829462
+
+# 0.932907
+what	O	O/0.999225
+be	O	O/0.998235
+that	O	O/0.993389
+dance	B-movie.subject	O/0.969597
+movie	O	O/0.986113
+with	O	O/0.989743
+patrick	B-actor.name	B-actor.name/0.991124
+swayze	I-actor.name	I-actor.name/0.985219
+
+# 0.500419
+movie	O	O/0.997498
+of	O	O/0.978697
+sharukh	B-actor.name	B-movie.name/0.572060
+khan	I-actor.name	I-movie.name/0.528212
+
+# 0.004469
+movie	O	O/0.996792
+that	O	O/0.966287
+tom	B-actor.name	O/0.498402
+hank	I-actor.name	O/0.051923
+and	O	O/0.381672
+kevin	B-actor.name	B-actor.name/0.598673
+becon	I-actor.name	I-actor.name/0.705725
+play	O	O/0.811729
+in	O	O/0.901209
+together	O	B-movie.name/0.299560
+
+# 0.564930
+movie	O	O/0.998974
+about	O	O/0.966570
+animal	B-movie.subject	B-movie.subject/0.565655
+
+# 0.525930
+show	O	O/0.999776
+me	O	O/0.999552
+movie	O	O/0.998973
+about	O	O/0.900388
+bollywood	B-movie.subject	B-movie.subject/0.527408
+
+# 0.821100
+chess	B-movie.subject	O/0.822298
+movie	O	O/0.993940
+
+# 0.478135
+show	O	O/0.999682
+me	O	O/0.998304
+movie	O	O/0.996561
+on	O	B-movie.name/0.545538
+chess	B-movie.subject	I-movie.name/0.484237
+
+# 0.548876
+what	O	O/0.999332
+be	O	O/0.999739
+some	O	O/0.997837
+movie	O	O/0.997112
+about	O	O/0.943059
+disco	B-movie.subject	B-movie.subject/0.552316
+
+# 0.080600
+what	O	O/0.996442
+movie	O	O/0.998007
+can	O	O/0.723220
+offer	O	O/0.405232
+tip	O	O/0.288793
+on	O	O/0.551510
+gardening	B-movie.subject	B-movie.subject/0.387620
+
+# 0.620298
+i	O	O/0.998172
+want	O	O/0.999688
+to	O	O/0.998431
+look	O	O/0.999033
+up	O	O/0.996510
+movie	O	O/0.998588
+about	O	O/0.933755
+hair	B-movie.subject	B-movie.subject/0.626637
+
+# 0.545037
+find	O	O/0.996682
+movie	O	O/0.999209
+about	O	O/0.935365
+library	B-movie.subject	B-movie.subject/0.547854
+
+# 0.548851
+find	O	O/0.999297
+some	O	O/0.996223
+movie	O	O/0.998400
+about	O	O/0.943429
+musician	B-movie.subject	B-movie.subject/0.552515
+
+# 0.698243
+can	O	O/0.998152
+you	O	O/0.999568
+find	O	O/0.998456
+movie	O	O/0.996942
+about	O	O/0.968492
+preschool	B-movie.subject	B-movie.subject/0.805887
+boy	I-movie.subject	I-movie.subject/0.715959
+
+# 0.682033
+look	O	O/0.999380
+for	O	O/0.999839
+movie	O	O/0.994569
+about	O	O/0.944268
+preschool	B-movie.subject	B-movie.subject/0.791322
+boy	I-movie.subject	I-movie.subject/0.703687
+
+# 0.030088
+what	O	O/0.995960
+film	O	O/0.978455
+focus	O	O/0.526830
+on	O	O/0.379182
+rape	B-movie.subject	B-movie.name/0.140076
+and	I-movie.subject	I-movie.name/0.333684
+victim	I-movie.subject	I-movie.name/0.506465
+'s	I-movie.subject	O/0.822049
+right	I-movie.subject	O/0.843382
+
+# 0.163606
+i	O	O/0.998985
+would	O	O/0.999541
+like	O	O/0.998928
+to	O	O/0.998531
+know	O	O/0.998427
+name	O	O/0.998347
+of	O	O/0.998187
+some	O	O/0.985545
+movie	O	O/0.989358
+on	O	O/0.744323
+religious	B-movie.subject	B-movie.subject/0.218951
+issue	I-movie.subject	I-movie.subject/0.190646
+
+# 0.164162
+give	O	O/0.996276
+me	O	O/0.999337
+a	O	O/0.998748
+list	O	O/0.999263
+of	O	O/0.999515
+some	O	O/0.987499
+movie	O	O/0.989487
+on	O	O/0.744378
+religious	B-movie.subject	B-movie.subject/0.218961
+issue	I-movie.subject	I-movie.subject/0.190653
+
+# 0.474567
+look	O	O/0.999382
+for	O	O/0.999846
+movie	O	O/0.998056
+about	O	O/0.847348
+school	B-movie.subject	B-movie.subject/0.476509
+
+# 0.672587
+tell	O	O/0.997297
+me	O	O/0.999952
+the	O	O/0.999903
+name	O	O/0.998255
+of	O	O/0.995400
+some	O	O/0.938639
+soccer	B-movie.subject	O/0.686852
+movie	O	O/0.993317
+
+# 0.172932
+what	O	O/0.999001
+be	O	O/0.998986
+some	O	O/0.982306
+time	B-movie.subject	B-movie.subject/0.381029
+travel	I-movie.subject	I-movie.subject/0.290851
+movie	O	O/0.970450
+i	O	O/0.968222
+can	O	O/0.980677
+watch	O	O/0.975095
+
+# 0.859856
+show	O	O/0.999283
+me	O	O/0.995647
+movie	O	O/0.990213
+involve	O	O/0.934540
+time	B-movie.subject	B-movie.subject/0.925661
+travel	I-movie.subject	I-movie.subject/0.920853
+
+# 0.764355
+vampire	B-movie.subject	O/0.800254
+movie	O	O/0.994911
+please	O	O/0.956398
+
+# 0.278189
+list	O	O/0.995737
+movie	O	O/0.999656
+with	O	O/0.992721
+a	O	O/0.984275
+theme	O	O/0.904477
+of	O	O/0.884902
+war	B-movie.subject	O/0.319162
+in	O	O/0.945360
+them	O	O/0.917920
+
+# 0.344536
+show	O	O/0.999554
+all	O	O/0.999745
+movie	O	O/0.999114
+with	O	O/0.970863
+the	O	O/0.937343
+theme	O	O/0.845505
+of	O	O/0.803841
+war	B-movie.subject	B-movie.name/0.348357
+
+# 0.885144
+can	O	O/0.996926
+you	O	O/0.998375
+find	O	O/0.999261
+me	O	O/0.999253
+some	O	O/0.998205
+movie	O	O/0.999353
+about	O	O/0.972268
+war	B-movie.subject	B-movie.subject/0.892826
+
+# 0.848326
+i	O	O/0.998259
+want	O	O/0.999636
+a	O	O/0.999753
+list	O	O/0.999800
+of	O	O/0.999447
+movie	O	O/0.999271
+about	O	O/0.927632
+war	B-movie.subject	B-movie.subject/0.852072
+
+# 0.893936
+i	O	O/0.999009
+want	O	O/0.999438
+movie	O	O/0.999848
+about	O	O/0.975572
+war	B-movie.subject	B-movie.subject/0.895779
+
+# 0.404366
+find	O	O/0.996886
+movie	O	O/0.998699
+about	O	O/0.986040
+world	B-movie.subject	B-movie.subject/0.937341
+war	I-movie.subject	I-movie.subject/0.794197
+two	I-movie.subject	I-movie.subject/0.433846
+
+# 0.255314
+what	O	O/0.998426
+be	O	O/0.995576
+some	O	O/0.952220
+zombie	B-movie.subject	B-movie.subject/0.412926
+apocalypse	I-movie.subject	O/0.442439
+movie	O	O/0.981814
+
+# 0.349523
+search	O	O/0.998712
+for	O	O/0.997901
+zombie	B-movie.subject	B-movie.subject/0.361372
+movie	O	O/0.953921
+
+# 0.151761
+show	O	O/0.999243
+me	O	O/0.994286
+belle	B-movie.name	B-movie.name/0.626283
+in	O	O/0.879152
+Spanish	B-movie.language	O/0.259220
+
+# 0.177851
+be	O	O/0.761811
+dredd	B-movie.name	O/0.429741
+rate	O	O/0.565783
+r	B-rating.name	B-rating.name/0.444742
+
+# 0.694510
+take	O	O/0.998664
+me	O	O/0.999938
+to	O	O/0.999367
+the	O	O/0.997181
+French	B-movie.language	O/0.969036
+version	O	O/0.846294
+of	O	O/0.872336
+et	B-movie.name	B-movie.name/0.746411
+
+# 0.198586
+find	O	O/0.983237
+et	B-movie.name	B-movie.name/0.642165
+in	O	O/0.925550
+French	B-movie.language	O/0.326056
+
+# 0.120793
+find	O	O/0.976042
+fast	B-movie.name	O/0.653153
+and	I-movie.name	O/0.650377
+furious	I-movie.name	O/0.685506
+in	O	O/0.901420
+Japanese	B-movie.language	O/0.252229
+
+# 0.025337
+hard	B-movie.name	B-movie.name/0.679985
+day	I-movie.name	I-movie.name/0.644156
+'s	I-movie.name	I-movie.name/0.357786
+night	I-movie.name	I-movie.name/0.293233
+richard	B-director.name	B-person.name/0.362917
+lester	I-director.name	I-person.name/0.364130
+
+# 0.892236
+information	O	O/0.997320
+about	O	O/0.997141
+movie	O	O/0.943689
+life	B-movie.name	B-movie.name/0.969388
+be	I-movie.name	I-movie.name/0.984116
+beautiful	I-movie.name	I-movie.name/0.965420
+
+# 0.929634
+movie	O	O/0.999251
+information	O	O/0.999723
+for	O	O/0.995493
+life	B-movie.name	B-movie.name/0.957071
+be	I-movie.name	I-movie.name/0.990133
+beautiful	I-movie.name	I-movie.name/0.971304
+
+# 0.909057
+will	O	O/0.955493
+you	O	O/0.977964
+please	O	O/0.997420
+show	O	O/0.999113
+me	O	O/0.998666
+info	O	O/0.998549
+on	O	O/0.999528
+the	O	O/0.999101
+movie	O	O/0.999422
+life	B-movie.name	B-movie.name/0.993682
+be	I-movie.name	I-movie.name/0.990482
+beautiful	I-movie.name	I-movie.name/0.970794
+
+# 0.951427
+can	O	O/0.994263
+you	O	O/0.997925
+please	O	O/0.997688
+show	O	O/0.999120
+me	O	O/0.998666
+info	O	O/0.998549
+on	O	O/0.999528
+the	O	O/0.999101
+movie	O	O/0.999422
+life	B-movie.name	B-movie.name/0.993682
+be	I-movie.name	I-movie.name/0.990482
+beautiful	I-movie.name	I-movie.name/0.970794
+
+# 0.962630
+show	O	O/0.999431
+me	O	O/0.999617
+detail	O	O/0.998253
+to	O	O/0.999713
+the	O	O/0.999888
+movie	O	O/0.999782
+life	B-movie.name	B-movie.name/0.993722
+be	I-movie.name	I-movie.name/0.990487
+beautiful	I-movie.name	I-movie.name/0.970798
+
+# 0.847041
+show	O	O/0.999339
+me	O	O/0.999618
+info	O	O/0.998587
+on	O	O/0.999528
+the	O	O/0.999094
+movie	O	O/0.999305
+life	B-movie.name	B-movie.name/0.984438
+be	I-movie.name	I-movie.name/0.953647
+beautiful	I-movie.name	I-movie.name/0.912099
+please	O	O/0.948554
+
+# 0.939680
+open	O	O/0.980828
+a	O	O/0.998916
+page	O	O/0.995748
+about	O	O/0.999415
+the	O	O/0.997644
+movie	O	O/0.999368
+life	B-movie.name	B-movie.name/0.993679
+be	I-movie.name	I-movie.name/0.990481
+beautiful	I-movie.name	I-movie.name/0.970794
+
+# 0.215105
+be	O	O/0.872179
+nine	B-movie.release_date	O/0.578241
+fourteen	I-movie.release_date	O/0.327645
+the	O	O/0.586413
+premiere	O	O/0.751609
+date	O	O/0.970271
+for	O	O/0.994614
+resident	B-movie.name	B-movie.name/0.998237
+evil	I-movie.name	I-movie.name/0.993352
+
+# 0.180627
+select	O	O/0.758575
+Rio	B-movie.name	O/0.832827
+in	O	O/0.923472
+Chinese	B-movie.language	O/0.255876
+
+# 0.460087
+find	O	O/0.999636
+me	O	O/0.999420
+the	O	O/0.997101
+first	O	O/0.935669
+star	B-movie.name	B-movie.name/0.657867
+war	I-movie.name	I-movie.name/0.578877
+movie	O	O/0.983849
+info	O	O/0.968174
+
+# 0.329253
+i	O	O/0.995154
+need	O	O/0.999211
+detail	O	O/0.998697
+about	O	O/0.998535
+the	O	O/0.995803
+movie	O	O/0.998129
+star	B-movie.name	B-movie.name/0.947808
+war	I-movie.name	I-movie.name/0.742823
+:	I-movie.name	I-movie.name/0.532659
+episode	I-movie.name	I-movie.name/0.710069
+four	I-movie.name	I-movie.name/0.857840
+-	I-movie.name	I-movie.name/0.880255
+a	I-movie.name	I-movie.name/0.975637
+new	I-movie.name	I-movie.name/0.985603
+hope	I-movie.name	I-movie.name/0.955975
+
+# 0.002264
+do	O	O/0.732512
+ray	B-director.name	B-producer.name/0.146472
+stark	I-director.name	I-producer.name/0.076192
+produce	O	O/0.196420
+steel	B-movie.name	B-movie.name/0.194232
+magnolia	I-movie.name	I-movie.name/0.240945
+
+# 0.011451
+be	O	O/0.997246
+the	O	O/0.999273
+movie	O	O/0.994771
+toy	B-movie.name	B-movie.name/0.951077
+story	I-movie.name	I-movie.name/0.804154
+4	I-movie.name	O/0.197513
+be	O	O/0.226590
+release	O	O/0.259404
+next	B-movie.release_date	O/0.240984
+summer	I-movie.release_date	O/0.390535
+
+# 0.271270
+i	O	O/0.998170
+want	O	O/0.999676
+to	O	O/0.997901
+look	O	O/0.998744
+up	O	O/0.997767
+information	O	O/0.989314
+about	O	O/0.983005
+American	B-country.name	O/0.279704
+movie	O	O/0.817125
+
+# 0.287087
+Chinese	B-movie.language	O/0.824062
+foreign	O	O/0.826252
+film	O	O/0.888807
+with	O	O/0.812090
+kungfu	B-movie.subject	O/0.440570
+
+# 0.863165
+French	B-movie.language	O/0.889644
+movie	O	O/0.999465
+for	O	O/0.992028
+twenty	B-movie.release_date	B-movie.release_date/0.981230
+twelve	I-movie.release_date	I-movie.release_date/0.983625
+
+# 0.338496
+look	O	O/0.997542
+for	O	O/0.998629
+Russian	B-movie.language	O/0.869720
+movie	O	O/0.994003
+by	O	O/0.947151
+mosfilm	B-producer.name	O/0.401596
+
+# 0.897208
+show	O	O/0.985433
+production	O	O/0.988025
+company	O	O/0.980529
+lionsgate	B-producer.name	B-producer.name/0.923524
+
+# 0.217316
+paramount	B-producer.name	B-producer.name/0.529122
+film	I-producer.name	I-producer.name/0.386215
+studio	I-producer.name	I-producer.name/0.250138
+
+# 0.858464
+i	O	O/0.998992
+would	O	O/0.999607
+like	O	O/0.998926
+to	O	O/0.991730
+have	O	O/0.998281
+more	O	O/0.999352
+information	O	O/0.999701
+about	O	O/0.998850
+the	O	O/0.981460
+producer	O	O/0.976771
+ray	B-person.name	B-person.name/0.912714
+stark	I-person.name	I-person.name/0.897421
+
+# 0.897683
+show	O	O/0.999409
+me	O	O/0.999608
+detail	O	O/0.997001
+for	O	O/0.998354
+the	O	O/0.981036
+director	O	O/0.993544
+steven	B-director.name	B-person.name/0.929680
+spielberg	I-director.name	I-person.name/0.921547
+
+# 0.534777
+show	O	O/0.999651
+me	O	O/0.998919
+that	O	O/0.979835
+actor	O	O/0.996307
+tom	B-actor.name	B-actor.name/0.556948
+cruise	I-actor.name	I-actor.name/0.549124
+
+# 0.907442
+i	O	O/0.998284
+would	O	O/0.999552
+like	O	O/0.999526
+information	O	O/0.999281
+about	O	O/0.999520
+the	O	O/0.996803
+actor	O	O/0.997317
+will	B-actor.name	B-person.name/0.918630
+ferrell	I-actor.name	I-person.name/0.915858
+
+# 0.795949
+who	O	O/0.998730
+produce	O	O/0.999802
+the	O	O/0.993590
+movie	O	O/0.994772
+great	B-movie.name	B-movie.name/0.912028
+debater	I-movie.name	I-movie.name/0.812775
+
+# 0.169040
+king	B-movie.name	B-movie.name/0.282932
+'s	I-movie.name	O/0.761439
+speech	I-movie.name	O/0.711811
+production	O	O/0.852219
+company	O	O/0.896119
+
+# 0.876917
+i	O	O/0.992349
+wonder	O	O/0.993673
+who	O	O/0.991914
+produce	O	O/0.988863
+star	B-movie.name	B-movie.name/0.945229
+war	I-movie.name	I-movie.name/0.903695
+
+# 0.452255
+i	O	O/0.990190
+can	O	O/0.984257
+'t	O	O/0.900171
+remember	O	O/0.597033
+who	O	O/0.778434
+produce	O	O/0.937102
+star	B-movie.name	B-movie.name/0.923980
+war	I-movie.name	I-movie.name/0.887246
+
+# 0.896741
+who	O	O/0.994347
+produce	O	O/0.997462
+star	B-movie.name	B-movie.name/0.948722
+war	I-movie.name	I-movie.name/0.906406
+
+# 0.990257
+movie	O	O/0.998377
+producer	O	O/0.991540
+
+# 0.427858
+how	O	O/0.993403
+much	O	O/0.993460
+do	O	O/0.964975
+end	B-movie.name	B-movie.name/0.498399
+of	I-movie.name	I-movie.name/0.809144
+watch	I-movie.name	I-movie.name/0.822815
+gross	O	O/0.885070
+
+# 0.832034
+how	O	O/0.997592
+much	O	O/0.998335
+do	O	O/0.985651
+movie	O	O/0.996861
+earn	O	O/0.848293
+
+# 0.977795
+show	O	O/0.999590
+me	O	O/0.999858
+the	O	O/0.997098
+earning	O	O/0.988808
+for	O	O/0.996609
+hotel	B-movie.name	B-movie.name/0.996487
+transylvania	I-movie.name	I-movie.name/0.994585
+
+# 0.746771
+what	O	O/0.999584
+do	O	O/0.999957
+the	O	O/0.999973
+movie	O	O/0.999965
+the	O	O/0.891021
+house	B-movie.name	B-movie.name/0.856865
+at	I-movie.name	I-movie.name/0.974487
+the	I-movie.name	I-movie.name/0.979930
+end	I-movie.name	I-movie.name/0.988262
+of	I-movie.name	I-movie.name/0.996584
+the	I-movie.name	I-movie.name/0.992812
+steet	I-movie.name	I-movie.name/0.992393
+gross	O	O/0.899762
+
+# 0.852742
+revenue	O	O/0.995330
+for	O	O/0.997313
+iron	B-movie.name	B-movie.name/0.926232
+man	I-movie.name	I-movie.name/0.997655
+2	I-movie.name	I-movie.name/0.926210
+
+# 0.319534
+what	O	O/0.997840
+amount	O	O/0.990998
+of	O	O/0.960037
+revenue	O	O/0.549641
+do	O	O/0.549111
+iron	B-movie.name	B-movie.name/0.652157
+man	I-movie.name	I-movie.name/0.925005
+make	O	O/0.940748
+
+# 0.963614
+what	O	O/0.999380
+be	O	O/0.999535
+the	O	O/0.996057
+gross	O	O/0.986577
+revenue	O	O/0.997013
+of	O	O/0.995925
+iron	B-movie.name	B-movie.name/0.993559
+man	I-movie.name	I-movie.name/0.986593
+
+# 0.523055
+kahani	B-movie.name	B-movie.name/0.585690
+'s	O	O/0.927133
+revenue	O	O/0.977250
+
+# 0.939626
+get	O	O/0.998519
+the	O	O/0.999729
+revenue	O	O/0.998595
+of	O	O/0.997807
+kahani	B-movie.name	B-movie.name/0.941772
+
+# 0.476117
+revenue	O	O/0.919654
+looper	B-movie.name	O/0.494446
+
+# 0.239408
+how	O	O/0.995194
+much	O	O/0.993150
+do	O	O/0.954871
+looper	B-movie.name	B-movie.name/0.798055
+gross	O	O/0.927438
+in	O	O/0.969035
+sale	O	O/0.329644
+
+# 0.866663
+how	O	O/0.995439
+much	O	O/0.994970
+do	O	O/0.984452
+looper	B-movie.name	B-movie.name/0.911427
+gross	O	O/0.955998
+
+# 0.558034
+Ho	O	O/0.742807
+much	O	O/0.715991
+do	O	O/0.919705
+looper	B-movie.name	B-movie.name/0.931136
+make	O	O/0.974296
+
+# 0.020038
+how	O	O/0.996400
+much	O	O/0.993922
+money	O	O/0.912351
+do	O	O/0.638660
+Mr	B-movie.name	O/0.181994
+and	I-movie.name	O/0.128115
+Mrs	I-movie.name	I-movie.name/0.569559
+smith	I-movie.name	I-movie.name/0.664412
+make	O	O/0.928873
+
+# 0.438761
+how	O	O/0.997059
+much	O	O/0.999210
+money	O	O/0.998217
+do	O	O/0.997042
+the	O	O/0.998777
+movie	O	O/0.998067
+Mr	B-movie.name	B-movie.name/0.794906
+and	I-movie.name	I-movie.name/0.599522
+Mrs	I-movie.name	I-movie.name/0.717572
+smith	I-movie.name	I-movie.name/0.761712
+make	O	O/0.942129
+
+# 0.002080
+in	O	O/0.999013
+the	O	O/0.999322
+movie	O	O/0.997929
+Mr	B-movie.name	B-movie.name/0.706414
+and	I-movie.name	I-movie.name/0.358034
+Mrs	I-movie.name	I-movie.name/0.107438
+smith	I-movie.name	O/0.117320
+how	O	O/0.846002
+much	O	O/0.980770
+money	O	O/0.992766
+do	O	O/0.977284
+the	O	O/0.910955
+box	O	O/0.742165
+offfice	O	O/0.548323
+report	O	O/0.552652
+
+# 0.259143
+how	O	O/0.996413
+much	O	O/0.994025
+money	O	O/0.914904
+do	O	O/0.705045
+philadelphia	B-movie.name	O/0.341114
+make	O	O/0.892514
+
+# 0.563781
+i	O	O/0.998197
+want	O	O/0.999669
+to	O	O/0.999359
+know	O	O/0.998697
+what	O	O/0.999744
+the	O	O/0.999112
+revenue	O	O/0.998830
+for	O	O/0.989809
+pirate	B-movie.name	B-movie.name/0.785737
+be	O	I-movie.name/0.591608
+
+# 0.309904
+how	O	O/0.996185
+much	O	O/0.998104
+be	O	O/0.976350
+make	O	O/0.935220
+from	O	O/0.866401
+platoon	B-movie.name	B-country.name/0.334609
+
+# 0.044476
+what	O	O/0.999350
+be	O	O/0.999221
+the	O	O/0.978453
+gross	O	O/0.872285
+revenue	O	O/0.951192
+earn	O	O/0.889362
+by	O	O/0.817234
+star	B-movie.name	B-movie.name/0.352874
+war	I-movie.name	I-movie.name/0.292618
+in	O	O/0.588551
+its	O	B-movie.name/0.437330
+original	O	I-movie.name/0.530831
+release	O	O/0.716618
+
+# 0.193244
+what	O	O/0.999293
+be	O	O/0.998800
+the	O	O/0.948951
+total	O	O/0.381816
+gross	O	O/0.473231
+receipt	O	O/0.607578
+at	O	O/0.819552
+the	O	O/0.961926
+box	O	O/0.994716
+office	O	O/0.999822
+for	O	O/0.999891
+the	O	O/0.999037
+movie	O	O/0.999761
+star	B-movie.name	B-movie.name/0.994928
+war	I-movie.name	I-movie.name/0.974842
+
+# 0.571754
+what	O	O/0.999367
+be	O	O/0.999373
+the	O	O/0.987551
+gross	O	O/0.895611
+receipt	O	O/0.872653
+for	O	O/0.794743
+hunger	B-movie.name	B-movie.name/0.698825
+game	I-movie.name	I-movie.name/0.874306
+
+# 0.108431
+tell	O	O/0.994359
+me	O	O/0.997042
+how	O	O/0.979269
+much	O	O/0.945265
+money	O	O/0.765113
+tommy	B-movie.name	B-movie.name/0.189862
+boy	I-movie.name	I-movie.name/0.267610
+make	O	O/0.831847
+
+# 0.591414
+how	O	O/0.994036
+much	O	O/0.990930
+revenue	O	O/0.941193
+do	O	O/0.808353
+top	B-movie.name	B-movie.name/0.758961
+gun	I-movie.name	I-movie.name/0.866899
+make	O	O/0.951133
+
+# 0.820424
+tell	O	O/0.995455
+me	O	O/0.999822
+the	O	O/0.999771
+revenue	O	O/0.998209
+of	O	O/0.993276
+training	B-movie.name	B-movie.name/0.925725
+day	I-movie.name	I-movie.name/0.833985
+
+# 0.447236
+what	O	O/0.998353
+be	O	O/0.979023
+life	B-movie.name	O/0.613162
+be	I-movie.name	O/0.587381
+beautiful	I-movie.name	O/0.624855
+about	O	O/0.964399
+
+# 0.910240
+show	O	O/0.999608
+me	O	O/0.999737
+a	O	O/0.998194
+list	O	O/0.998004
+of	O	O/0.995808
+production	O	O/0.940205
+company	O	O/0.943933
+
+# 0.713797
+show	O	O/0.999582
+me	O	O/0.999746
+the	O	O/0.995930
+viewer	O	O/0.980645
+rating	O	O/0.984427
+in	B-movie.name	B-movie.name/0.740829
+orange	I-movie.name	I-movie.name/0.754152
+
+# 0.177830
+be	O	O/0.968171
+in	B-movie.name	O/0.780141
+july	I-movie.name	I-movie.name/0.465046
+on	O	O/0.701059
+netflix	O	O/0.704378
+
+# 0.866028
+rate	O	O/0.867119
+movie	O	O/0.995536
+
+# 0.569445
+find	O	O/0.999360
+the	O	O/0.996429
+actor	O	O/0.975352
+that	O	O/0.908665
+sing	O	O/0.805579
+let	O	O/0.756903
+me	O	O/0.881118
+love	O	O/0.949827
+you	O	O/0.949362
+
+# 0.224967
+what	O	O/0.999061
+be	O	O/0.991331
+steven	B-person.name	B-person.name/0.339267
+spielberg	I-person.name	I-person.name/0.336710
+up	O	O/0.981722
+to	O	O/0.985286
+
+# 0.039524
+Israel	B-country.name	O/0.919017
+be	O	O/0.985867
+all	O	O/0.984652
+your	O	O/0.926136
+movie	O	O/0.996590
+in	O	O/0.980263
+your	O	B-movie.language/0.554109
+native	O	O/0.339851
+language	O	O/0.468228
+or	O	O/0.872149
+in	O	O/0.960733
+English	B-movie.language	O/0.389077
+
+# 0.588551
+what	O	O/0.995175
+be	O	O/0.982302
+play	O	O/0.844031
+tonight	O	O/0.649329
+
+# 0.934583
+where	O	O/0.982343
+can	O	O/0.979885
+i	O	O/0.975993
+buy	O	O/0.994404
+this	O	O/0.992819
+movie	O	O/0.997469
+
+# 0.095418
+i	O	O/0.998982
+would	O	O/0.999516
+like	O	O/0.997620
+to	O	O/0.980491
+know	O	O/0.960043
+if	O	O/0.948323
+this	O	O/0.953691
+be	O	O/0.933271
+a	O	O/0.784699
+real	O	O/0.259993
+scary	B-movie.genre	B-movie.genre/0.181902
+
+# 0.960842
+how	O	O/0.998986
+to	O	O/0.999724
+rent	O	O/0.993828
+dirty	B-movie.name	B-movie.name/0.980986
+dancing	I-movie.name	I-movie.name/0.970859
+
+# 0.171313
+can	O	O/0.984459
+i	O	O/0.989778
+rent	O	O/0.938238
+find	B-movie.name	O/0.776211
+nemo	I-movie.name	O/0.252649
+on	O	O/0.749810
+netflix	O	O/0.796247
+
+# 0.155432
+hotel	B-movie.name	B-movie.name/0.626362
+rwanda	I-movie.name	I-movie.name/0.514706
+be	O	O/0.423963
+base	O	O/0.499061
+on	O	O/0.797598
+what	O	O/0.901010
+
+# 0.449695
+i	O	O/0.996570
+need	O	O/0.999026
+to	O	O/0.994793
+know	O	O/0.974175
+where	O	O/0.971194
+you	O	O/0.885133
+keep	O	O/0.779006
+resident	B-movie.name	B-movie.name/0.595413
+evil	I-movie.name	I-movie.name/0.632385
+
+# 0.641068
+in	O	O/0.926233
+September	O	O/0.647990
+
+# 0.251259
+dvd	O	O/0.857227
+find	B-movie.name	B-movie.name/0.278719
+nemo	I-movie.name	I-movie.name/0.310450
+
+# 0.253646
+find	O	O/0.992649
+movie	O	O/0.998593
+from	O	O/0.910312
+criterion	O	B-country.name/0.256241
+
+# 0.988694
+find	O	O/0.999294
+a	O	O/0.993428
+movie	O	O/0.995581
+
+# 0.051466
+can	O	O/0.995853
+you	O	O/0.996940
+tell	O	O/0.995935
+me	O	O/0.997702
+which	O	O/0.993727
+movie	O	O/0.998641
+make	O	O/0.986801
+the	O	O/0.994778
+most	O	O/0.992139
+at	O	O/0.992130
+the	O	O/0.991941
+box	O	O/0.995465
+office	O	O/0.997749
+in	O	O/0.999632
+the	O	O/0.945041
+weekend	O	O/0.909320
+of	O	O/0.865919
+September	O	B-movie.name/0.197545
+twenty	O	I-movie.name/0.188202
+eighth	O	O/0.317377
+
+# 0.607527
+find	O	O/0.990448
+movie	O	O/0.992603
+select	O	O/0.883601
+on	O	O/0.943984
+all	O	O/0.878695
+criterion	O	O/0.726924
+
+# 0.612222
+option	O	O/0.938253
+available	O	O/0.987642
+for	O	O/0.971812
+movie	O	O/0.974550
+today	O	O/0.674184
+
+# 0.471037
+find	O	O/0.994773
+all	O	O/0.960460
+selected	O	O/0.691743
+criterion	O	O/0.633526
+
+# 0.857676
+search	O	O/0.978154
+highlight	O	O/0.929665
+information	O	O/0.914844
+
+# 0.509899
+bring	O	O/0.955696
+up	O	O/0.931917
+movie	O	O/0.987000
+request	O	B-movie.name/0.556504
+
+# 0.911435
+find	O	O/0.995599
+selected	O	O/0.939007
+information	O	O/0.961671
+
+# 0.439065
+find	O	O/0.982155
+selected	O	O/0.597519
+criterion	O	O/0.602591
+
+# 0.974174
+where	O	O/0.989426
+can	O	O/0.995123
+i	O	O/0.994160
+watch	O	O/0.993207
+movie	O	O/0.998509
+
+# 0.715337
+search	O	O/0.994212
+all	O	O/0.986310
+database	O	O/0.722719
+
+# 0.824309
+search	O	O/0.931606
+database	O	O/0.845998
+
+# 0.982311
+where	O	O/0.990597
+can	O	O/0.996678
+i	O	O/0.997819
+see	O	O/0.997136
+movie	O	O/0.998776
+
+# 0.843339
+what	O	O/0.999360
+be	O	O/0.999511
+the	O	O/0.992195
+age	O	O/0.950343
+limit	O	O/0.990826
+for	O	O/0.997939
+the	O	O/0.986607
+pg	B-rating.name	B-rating.name/0.912385
+rating	O	O/0.999303
+for	O	O/0.999875
+the	O	O/0.999096
+movie	O	O/0.999745
+hotel	B-movie.name	B-movie.name/0.999443
+transylvania	B-movie.name	I-movie.name/0.992287
+
+# 0.419139
+what	O	O/0.999289
+do	O	O/0.999639
+the	O	O/0.998913
+rating	O	O/0.987743
+r	B-rating.name	B-rating.name/0.832859
+mean	O	O/0.995791
+for	O	O/0.999407
+the	O	O/0.996862
+movie	O	O/0.996729
+dred	O	O/0.513480
+
+# 0.861350
+show	O	O/0.999597
+me	O	O/0.999790
+the	O	O/0.994002
+sequel	O	O/0.954342
+or	O	O/0.910389
+prequels	O	O/0.962145
+to	O	O/0.996637
+this	O	O/0.998231
+movie	O	O/0.999467
+
+# 0.024448
+how	O	O/0.973962
+long	O	O/0.943759
+do	O	O/0.669684
+it	O	O/0.412580
+take	O	O/0.300099
+james	B-producer.name	O/0.122726
+cameron	I-producer.name	O/0.309697
+to	O	O/0.863169
+produce	O	O/0.977365
+avatar	B-movie.name	B-movie.name/0.944124
+
+# 0.143475
+be	O	O/0.976785
+this	O	O/0.953943
+film	O	O/0.836863
+dub	O	O/0.647505
+in	O	O/0.846937
+English	B-movie.language	O/0.246554
+
+# 0.243484
+apollo	B-movie.name	B-movie.name/0.831111
+thirteen	I-movie.name	I-movie.name/0.787720
+cast	O	O/0.553597
+be	O	O/0.708990
+choose	O	O/0.590419
+how	O	O/0.701257
+
+# 0.215889
+what	O	O/0.994932
+other	O	O/0.967794
+format	O	O/0.774020
+be	O	O/0.709745
+find	B-movie.name	O/0.502024
+nemo	I-movie.name	O/0.367983
+in	O	O/0.972114
+
+# 0.223845
+in	O	O/0.980057
+how	O	O/0.970716
+many	O	O/0.953490
+day	O	O/0.794577
+do	O	O/0.774037
+it	O	O/0.871755
+take	O	O/0.957778
+to	O	O/0.970922
+make	O	O/0.946412
+twenty	B-movie.gross_revenue	O/0.475194
+one	I-movie.gross_revenue	O/0.621766
+point	I-movie.gross_revenue	O/0.870530
+two	I-movie.gross_revenue	O/0.984263
+for	O	O/0.994620
+looper	B-movie.name	B-movie.name/0.926135
+
+# 0.401149
+what	O	O/0.992267
+age	O	O/0.965888
+group	O	O/0.934005
+be	O	O/0.920918
+for	O	O/0.888642
+rate	O	O/0.550909
+r	B-rating.name	B-rating.name/0.583293
+movie	O	O/0.993245
+
+# 0.969906
+show	O	O/0.999597
+me	O	O/0.999699
+the	O	O/0.995141
+behind	O	O/0.990876
+scene	O	O/0.994415
+of	O	O/0.998429
+the	O	O/0.999044
+movie	O	O/0.999966
+in	B-movie.name	B-movie.name/0.991884
+orange	I-movie.name	I-movie.name/0.987462
+
+# 0.033615
+how	O	O/0.982077
+long	O	O/0.975209
+do	O	O/0.950699
+you	O	O/0.907826
+predict	O	O/0.843711
+that	O	O/0.817886
+wb	B-producer.name	O/0.357221
+will	O	O/0.233690
+continue	O	O/0.579294
+to	O	O/0.758637
+strive	O	O/0.781518
+in	O	O/0.843828
+today	O	B-movie.name/0.597859
+'s	O	I-movie.name/0.562720
+market	O	I-movie.name/0.487029
+
+# 0.552892
+the	O	O/0.589354
+crap	O	O/0.561747
+
+# 0.977190
+who	O	O/0.997107
+determine	O	O/0.999099
+the	O	O/0.995014
+rating	O	O/0.997176
+on	O	O/0.991410
+movie	O	O/0.994976
+
+# 0.377099
+house	B-movie.name	B-movie.name/0.864545
+at	I-movie.name	I-movie.name/0.867389
+the	I-movie.name	I-movie.name/0.872438
+end	I-movie.name	I-movie.name/0.888961
+of	I-movie.name	I-movie.name/0.898445
+the	I-movie.name	I-movie.name/0.870914
+street	I-movie.name	I-movie.name/0.834313
+should	O	O/0.770659
+of	O	O/0.719043
+make	O	O/0.760118
+more	O	O/0.810696
+money	O	O/0.894636
+
+# 0.769595
+find	O	O/0.998179
+me	O	O/0.971431
+dirty	B-movie.name	B-movie.name/0.870731
+dancing	I-movie.name	I-movie.name/0.907004
+news	O	O/0.901456
+
+# 0.026963
+who	O	O/0.971063
+else	O	O/0.913689
+could	O	O/0.146980
+have	O	O/0.296547
+preformed	O	O/0.316952
+your	O	O/0.505015
+job	O	O/0.575709
+
+# 0.344612
+twenty	B-movie.gross_revenue	O/0.861096
+one	I-movie.gross_revenue	O/0.824934
+point	I-movie.gross_revenue	O/0.673115
+two	I-movie.gross_revenue	O/0.644385
+be	O	O/0.732827
+pay	O	O/0.814278
+out	O	O/0.840519
+
+# 0.228703
+find	O	O/0.993754
+some	O	O/0.942589
+note	O	O/0.388562
+on	O	O/0.512775
+parental	O	O/0.731116
+guidance	O	O/0.888420
+please	O	O/0.967242
+
+# 0.357972
+who	O	O/0.992234
+come	O	O/0.999300
+up	O	O/0.997093
+for	O	O/0.993952
+the	O	O/0.564501
+main	O	O/0.467354
+plot	O	O/0.566893
+
+# 0.722033
+what	O	O/0.999460
+be	O	O/0.999873
+the	O	O/0.997861
+standard	O	O/0.973207
+to	O	O/0.985404
+be	O	O/0.980648
+rate	O	O/0.920579
+g	B-rating.name	B-rating.name/0.758176
+
+# 0.182372
+i	O	O/0.919294
+love	O	O/0.857927
+taye	B-person.name	O/0.429716
+diggs	I-person.name	O/0.333983
+
+# 0.498838
+show	O	O/0.999829
+me	O	O/0.999932
+the	O	O/0.999472
+movie	O	O/0.999417
+review	O	O/0.626769
+in	O	B-movie.name/0.525663
+orange	O	I-movie.name/0.819838
+
+# 0.636947
+show	O	O/0.999026
+me	O	O/0.992318
+celebrity	O	O/0.639635
+
+# 0.192210
+how	O	O/0.995448
+old	O	O/0.996851
+do	O	O/0.997396
+you	O	O/0.995868
+have	O	O/0.999793
+to	O	O/0.999897
+be	O	O/0.999898
+to	O	O/0.996608
+see	O	O/0.961496
+an	O	O/0.749969
+R-rated	B-rating.name	O/0.219739
+movie	O	O/0.974487
+
+# 0.000147
+do	O	O/0.854904
+Ireland	B-country.name	O/0.706201
+have	O	O/0.613914
+an	O	O/0.457515
+equivalent	O	O/0.251227
+to	O	O/0.104718
+th	O	O/0.068086
+us	B-country.name	O/0.070256
+oscar	B-award.ceremony	B-movie.name/0.051366
+award	O	I-movie.name/0.100103
+
+# 0.895571
+click	O	O/0.967045
+on	O	O/0.990308
+the	O	O/0.979452
+most	O	O/0.977520
+popular	O	O/0.972868
+movie	O	O/0.998596
+in	O	B-movie.name/0.980759
+orange	O	I-movie.name/0.976936
+
+# 0.359306
+brazil	B-movie.location	B-country.name/0.570157
+movie	O	O/0.985690
+location	O	O/0.630577
+
+# 0.785160
+what	O	O/0.999335
+be	O	O/0.999332
+the	O	O/0.983924
+history	O	O/0.886946
+behind	O	O/0.919827
+lionsgate	B-producer.name	B-producer.name/0.884496
+
+# 0.910661
+what	O	O/0.998137
+do	O	O/0.997582
+an	O	O/0.993468
+r	B-rating.name	B-rating.name/0.986986
+rating	O	O/0.973215
+mean	O	O/0.977430
+on	O	O/0.984964
+a	O	O/0.982907
+movie	O	O/0.994814
+
+# 0.343067
+can	O	O/0.994947
+you	O	O/0.995895
+give	O	O/0.993855
+me	O	O/0.997070
+more	O	O/0.997374
+information	O	O/0.999188
+about	O	O/0.995149
+the	O	O/0.822180
+text	O	O/0.726689
+highlight	O	O/0.742598
+in	O	B-movie.name/0.509220
+orange	O	I-movie.name/0.607766
+
+# 0.738616
+what	O	O/0.999338
+be	O	O/0.999359
+the	O	O/0.986232
+recommended	O	O/0.889154
+age	O	O/0.979520
+for	O	O/0.993970
+a	O	O/0.947915
+pg	B-rating.name	B-rating.name/0.854317
+movie	O	O/0.993449
+
+# 0.701342
+send	O	O/0.898953
+dredd	B-movie.name	B-movie.name/0.715400
+movie	O	O/0.991345
+
+# 0.130994
+Jenn	B-person.name	O/0.548412
+Ann	I-person.name	O/0.362660
+lover	O	O/0.393484
+
+# 0.059142
+do	O	O/0.725167
+Kristen	B-person.name	O/0.532792
+Stewart	I-person.name	O/0.143039
+have	O	O/0.585130
+an	O	O/0.768179
+affair	O	O/0.823587
+with	O	O/0.970081
+the	O	O/0.992944
+director	O	O/0.998779
+of	O	O/0.995150
+snow	B-movie.name	B-movie.name/0.976015
+white	I-movie.name	I-movie.name/0.967163
+and	I-movie.name	I-movie.name/0.991088
+the	I-movie.name	I-movie.name/0.989216
+huntsman	I-movie.name	I-movie.name/0.974252
+
+# 0.617858
+show	O	O/0.999365
+me	O	O/0.998121
+movie	O	O/0.993794
+highlight	O	O/0.771485
+in	O	B-movie.name/0.648859
+orange	O	I-movie.name/0.821997
+
+# 0.970317
+need	O	O/0.987911
+to	O	O/0.997251
+rate	O	O/0.983734
+movie	O	O/0.997853
+
+# 0.554303
+how	O	O/0.995448
+old	O	O/0.996851
+do	O	O/0.997396
+you	O	O/0.995868
+have	O	O/0.999793
+to	O	O/0.999898
+be	O	O/0.999934
+to	O	O/0.998751
+see	O	O/0.990201
+a	O	O/0.955217
+rate	O	O/0.704049
+r	B-rating.name	B-rating.name/0.685986
+movie	O	O/0.993711
+
+# 0.789815
+what	O	O/0.999216
+do	O	O/0.999524
+a	O	O/0.997270
+pg	B-rating.name	B-rating.name/0.974145
+thirteen	I-rating.name	I-rating.name/0.920737
+rating	O	O/0.926037
+mean	O	O/0.919003
+
+# 0.247920
+twenty	B-movie.gross_revenue	O/0.895824
+one	I-movie.gross_revenue	O/0.896153
+point	I-movie.gross_revenue	O/0.904312
+two	I-movie.gross_revenue	O/0.936249
+be	O	O/0.938776
+the	O	O/0.871007
+first	O	O/0.654377
+week	O	O/0.443242
+gross	O	O/0.842907
+
+# 0.755268
+r	B-rating.name	B-rating.name/0.807199
+rating	O	O/0.993089
+what	O	O/0.995666
+do	O	O/0.985572
+that	O	O/0.989587
+include	O	O/0.959416
+
+# 0.411877
+in	B-movie.name	O/0.715740
+julie	I-movie.name	O/0.419378
+
+# 0.302667
+wb	B-producer.name	O/0.460484
+-	O	O/0.622347
+what	O	O/0.819199
+do	O	O/0.920230
+it	O	O/0.966072
+take	O	O/0.966851
+to	O	O/0.987429
+become	O	O/0.993571
+a	O	O/0.992767
+movie	O	O/0.997587
+producer	O	O/0.991854
+
+# 0.464356
+show	O	O/0.998041
+me	O	O/0.991732
+hollywood	O	O/0.652125
+influence	O	O/0.621783
+
+# 0.895940
+how	O	O/0.998374
+do	O	O/0.999803
+a	O	O/0.996546
+movie	O	O/0.983327
+receive	O	O/0.937225
+an	O	O/0.972762
+r	B-rating.name	B-rating.name/0.993897
+rating	O	O/0.993821
+
+# 0.833951
+do	O	O/0.992601
+you	O	O/0.995725
+have	O	O/0.997782
+fun	O	O/0.996872
+on	O	O/0.998828
+the	O	O/0.908640
+set	O	O/0.849467
+
+# 0.962378
+what	O	O/0.999564
+be	O	O/0.999765
+the	O	O/0.997023
+rating	O	O/0.989458
+symbol	O	O/0.993879
+for	O	O/0.986352
+movie	O	O/0.991283
+
+# 0.570783
+sb	O	O/0.927739
+news	O	O/0.984645
+on	O	O/0.955343
+life	O	O/0.633082
+
+# 0.803617
+i	O	O/0.997800
+have	O	O/0.999736
+a	O	O/0.990780
+thirteen	O	O/0.867589
+year	O	O/0.947651
+old	O	O/0.939578
+
+# 0.041328
+end	B-movie.name	O/0.616600
+of	I-movie.name	O/0.608872
+watch	I-movie.name	O/0.360307
+shoulde	O	O/0.315639
+of	O	O/0.263081
+make	O	O/0.365846
+less	O	O/0.416065
+money	O	O/0.726970
+
+# 0.344563
+when	O	O/0.999065
+the	O	O/0.997593
+movie	O	O/0.984988
+come	O	O/0.965486
+out	O	O/0.931188
+do	O	O/0.843073
+you	O	O/0.788104
+think	O	O/0.806465
+it	O	O/0.787603
+will	O	O/0.643872
+raise	O	O/0.801778
+in	O	O/0.987907
+the	O	O/0.932981
+box	O	O/0.934465
+office	O	O/0.960326
+
+# 0.612031
+show	O	O/0.999830
+me	O	O/0.999954
+the	O	O/0.999646
+movie	O	O/0.999785
+list	O	O/0.957964
+in	O	B-movie.name/0.625371
+orange	O	I-movie.name/0.654229
+
+# 0.234913
+show	O	O/0.999626
+me	O	O/0.999909
+the	O	O/0.986583
+story	O	O/0.949837
+of	O	O/0.931742
+the	O	B-movie.name/0.357455
+armstrong	B-person.name	I-movie.name/0.459413
+siddeley	I-person.name	I-movie.name/0.394377
+
+# 0.702366
+classic	O	B-movie.subject/0.721456
+car	O	I-movie.subject/0.708553
+
+# 0.501541
+i	O	O/0.997784
+want	O	O/0.999758
+to	O	O/0.999099
+learn	O	O/0.990997
+about	O	O/0.967298
+flower	O	B-movie.subject/0.506991
+
+# 0.583883
+out	O	O/0.789766
+camping	O	O/0.622458
+
+# 0.875924
+happy	O	O/0.875924
+
+# 0.879971
+interesting	O	O/0.879971
+
+# 0.633484
+sort	O	O/0.971943
+by	O	O/0.985941
+Spanish	B-movie.language	O/0.654469
+
+# 0.431333
+where	O	O/0.972812
+be	O	O/0.932772
+punjabi	B-movie.language	O/0.454884
+
+# 0.701109
+what	O	O/0.998574
+be	O	O/0.991124
+robert	B-person.name	B-director.name/0.880692
+wise	I-person.name	I-director.name/0.863613
+'s	O	O/0.978251
+middle	O	O/0.960177
+name	O	O/0.888396
+
+# 0.879971
+ferret	O	O/0.879971
+
+# 0.099837
+forty	O	O/0.477047
+three	O	O/0.302058
+million	O	O/0.283129
+what	O	O/0.745918
+
+# 0.000165
+twenty	O	O/0.747484
+one	O	O/0.623625
+point	O	I-movie.gross_revenue/0.379468
+two	O	I-movie.gross_revenue/0.399803
+million	O	I-movie.gross_revenue/0.311210
+dollar	O	O/0.053683
+be	O	O/0.083207
+divide	O	O/0.170445
+between	O	O/0.389686
+who	O	O/0.732678
+
+# 0.024201
+do	O	O/0.849425
+movie	O	O/0.948426
+author	O	B-movie.name/0.222546
+use	O	I-movie.name/0.175774
+real	O	O/0.277428
+country	O	O/0.688294
+
+# 0.645610
+on	O	O/0.783617
+lie	O	O/0.695317
+
+# 0.003260
+the	O	O/0.997270
+movie	O	O/0.999731
+a	B-movie.name	O/0.484708
+tanu	I-movie.name	O/0.300589
+be	O	O/0.564220
+from	O	O/0.430215
+hungary	B-country.name	B-country.name/0.288125
+;	O	O/0.108796
+where	O	O/0.645378
+be	O	O/0.870560
+the	O	O/0.879939
+country	O	O/0.837789
+hungary	B-country.name	O/0.667138
+
+# 0.946935
+how	O	O/0.990662
+fun	O	O/0.997762
+be	O	O/0.995494
+it	O	O/0.986542
+to	O	O/0.990799
+produce	O	O/0.997452
+a	O	O/0.989118
+movie	O	O/0.990782
+
+# 0.874118
+do	O	O/0.995717
+you	O	O/0.997969
+like	O	O/0.993164
+work	O	O/0.964299
+with	O	O/0.936492
+who	O	O/0.992673
+you	O	O/0.996789
+do	O	O/0.967837
+
+# 0.257653
+can	O	O/0.994802
+i	O	O/0.999202
+see	O	O/0.998595
+a	O	O/0.992152
+map	O	O/0.873792
+of	O	O/0.888051
+Canada	B-country.name	B-movie.name/0.268020
+
+# 0.082944
+be	O	O/0.807413
+your	O	O/0.588842
+journey	O	O/0.202048
+worth	O	O/0.373634
+it	O	O/0.723805
+
+# 0.129162
+south	O	O/0.476346
+American	O	O/0.412149
+country	O	O/0.445754
+flag	O	O/0.566818
+
+# 0.590019
+need	O	O/0.884139
+more	O	O/0.949167
+info	O	O/0.945305
+that	O	O/0.949996
+relate	O	O/0.940826
+to	O	O/0.865917
+china	B-country.name	O/0.760269
+
+# 0.506485
+flag	O	O/0.932366
+of	O	O/0.938459
+planet	O	B-movie.name/0.594294
+earth	O	I-movie.name/0.567058
+
+# 0.587633
+good	O	O/0.920322
+writer	O	O/0.936453
+in	O	O/0.952468
+the	O	B-movie.name/0.632528
+field	O	I-movie.name/0.677459
+
+# 0.300213
+find	O	O/0.998406
+the	O	O/0.974832
+male	O	O/0.906260
+actor	O	O/0.912374
+from	O	O/0.829102
+grand	B-movie.name	B-movie.name/0.446298
+torino	I-movie.name	I-movie.name/0.392903
+
+# 0.803839
+who	O	O/0.996645
+play	O	O/0.997878
+the	O	O/0.939866
+female	O	O/0.874956
+lead	O	O/0.957937
+in	O	O/0.997608
+hitch	B-movie.name	B-movie.name/0.950458
+
+# 0.253760
+find	O	O/0.996537
+the	O	O/0.916435
+female	O	O/0.805107
+actress	O	O/0.790458
+from	O	O/0.825318
+shallow	B-movie.name	B-movie.name/0.448361
+hal	I-movie.name	I-movie.name/0.395204
+
+# 0.541322
+who	O	O/0.997838
+be	O	O/0.999163
+in	O	O/0.978867
+picture	O	O/0.638841
+three	O	O/0.626858
+
+# 0.939317
+who	O	O/0.998929
+be	O	O/0.999876
+the	O	O/0.993601
+lead	O	O/0.962649
+actor	O	O/0.971521
+
+# 0.272463
+how	O	O/0.992536
+old	O	O/0.988450
+be	O	O/0.890567
+jennifer	B-person.name	B-actor.name/0.326732
+aniston	I-person.name	I-actor.name/0.305357
+
+# 0.711941
+when	O	O/0.996006
+be	O	O/0.985656
+will	B-person.name	B-person.name/0.777459
+ferrell	I-person.name	I-person.name/0.792959
+bear	O	O/0.929011
+
+# 0.748166
+where	O	O/0.983963
+be	O	O/0.968501
+black	B-movie.name	B-movie.name/0.820022
+swan	I-movie.name	I-movie.name/0.887988
+direct	O	O/0.959893
+
+# 0.027030
+where	O	O/0.925930
+be	O	O/0.754082
+Muriel	B-movie.name	B-movie.name/0.133012
+'s	I-movie.name	O/0.374921
+wedding	I-movie.name	O/0.390258
+shot	O	O/0.568659
+
+# 0.847826
+show	O	O/0.986079
+release	O	O/0.997644
+date	O	O/0.996020
+in	O	O/0.997492
+the	B-movie.release_region	O/0.937492
+usa	I-movie.release_region	O/0.956034
+for	O	O/0.995482
+the	O	O/0.997467
+movie	O	O/0.999295
+little	B-movie.name	B-movie.name/0.986672
+woman	I-movie.name	I-movie.name/0.929983
+
+# 0.535459
+show	O	O/0.989535
+movie	O	O/0.994102
+description	O	O/0.542387
+
+# 0.002246
+i	O	O/0.997800
+will	O	O/0.999303
+like	O	O/0.997905
+to	O	O/0.991668
+see	O	O/0.966083
+popular	O	O/0.733025
+film	O	O/0.822333
+director	O	O/0.968068
+from	O	O/0.963985
+the	O	B-movie.name/0.510701
+nineteen	B-movie.release_date	I-movie.name/0.409592
+fifty	I-movie.release_date	O/0.109766
+be	I-movie.release_date	O/0.169125
+through	I-movie.release_date	O/0.130657
+today	I-movie.release_date	O/0.381908
+
+# 0.773738
+good	O	O/0.779510
+director	O	O/0.975827
+
+# 0.826731
+good	O	O/0.929773
+director	O	O/0.999433
+of	O	O/0.999388
+all	O	O/0.936479
+time	O	O/0.907021
+
+# 0.830781
+please	O	O/0.993229
+show	O	O/0.998834
+me	O	O/0.991207
+famous	O	O/0.925764
+film	O	O/0.919504
+director	O	O/0.968481
+
+# 0.733270
+great	O	O/0.742697
+director	O	O/0.959771
+
+# 0.912264
+who	O	O/0.998153
+produce	O	O/0.999854
+some	O	O/0.995404
+of	O	O/0.990723
+the	O	O/0.979241
+most	O	O/0.965245
+popular	O	O/0.945999
+movie	O	O/0.994151
+
+# 0.474874
+show	O	O/0.998825
+me	O	O/0.991616
+successful	O	O/0.504488
+movie	O	O/0.970523
+director	O	O/0.959056
+
+# 0.045378
+who	O	O/0.980158
+produce	O	O/0.946759
+hotel	B-movie.name	B-movie.name/0.379859
+rwanda	I-movie.name	I-movie.name/0.282043
+cover	O	I-movie.name/0.181923
+art	O	I-movie.name/0.181234
+
+# 0.915257
+who	O	O/0.998987
+be	O	O/0.999839
+the	O	O/0.930570
+director	O	O/0.954196
+
+# 0.925804
+director	O	O/0.961397
+'s	O	O/0.992472
+name	O	O/0.963891
+
+# 0.251265
+what	O	O/0.999622
+be	O	O/0.999975
+the	O	O/0.999833
+name	O	O/0.995644
+of	O	O/0.987528
+a	O	O/0.699745
+Turkish	B-director.nationality	O/0.462755
+director	O	O/0.847900
+that	O	O/0.871570
+produce	O	O/0.893304
+a	O	O/0.871052
+drama	B-movie.genre	B-movie.genre/0.726693
+film	O	O/0.942431
+
+# 0.600795
+watch	O	O/0.947219
+dredd	B-movie.name	B-movie.name/0.609893
+movie	O	O/0.985894
+
+# 0.432904
+see	O	O/0.948207
+dredd	B-movie.name	B-movie.name/0.441940
+movie	O	O/0.983206
+
+# 0.004028
+what	O	O/0.999622
+be	O	O/0.999975
+the	O	O/0.999806
+name	O	O/0.990955
+of	O	O/0.971731
+an	O	O/0.450498
+academy	B-award.ceremony	B-award.ceremony/0.431692
+award	O	I-award.ceremony/0.412867
+win	O	O/0.196636
+Russian	B-country.name	O/0.187432
+documentary	B-movie.genre	O/0.205732
+
+# 0.000027
+what	O	O/0.997176
+movie	O	O/0.998735
+title	O	O/0.794268
+star	O	B-movie.name/0.156581
+meryl	B-actor.name	B-person.name/0.082150
+streep	I-actor.name	I-person.name/0.073499
+earn	O	O/0.119619
+oscar	B-award.ceremony	O/0.088582
+nomination	O	O/0.385359
+
+# 0.160594
+in	O	O/0.996028
+search	O	O/0.999339
+for	O	O/0.998196
+name	O	O/0.885443
+of	O	O/0.797320
+crew	O	O/0.284420
+member	O	O/0.365503
+please	O	O/0.828328
+
+# 0.878979
+get	O	O/0.995431
+me	O	O/0.993190
+review	O	O/0.901053
+and	O	O/0.992898
+info	O	O/0.997821
+about	O	O/0.997832
+the	B-movie.name	B-movie.name/0.991966
+campaign	I-movie.name	I-movie.name/0.995083
+movie	O	O/0.997344
+
+# 0.836694
+show	O	O/0.998883
+me	O	O/0.995222
+review	O	O/0.845137
+and	O	O/0.986665
+info	O	O/0.999165
+for	O	O/0.999826
+the	B-movie.name	B-movie.name/0.998564
+campaign	I-movie.name	I-movie.name/0.998573
+
+# 0.278874
+what	O	O/0.998352
+movie	O	O/0.999658
+that	O	O/0.973344
+clint	B-director.name	B-director.name/0.860433
+eastwood	I-director.name	I-director.name/0.827462
+direct	O	O/0.869391
+that	O	O/0.941895
+he	O	O/0.959493
+win	O	O/0.914211
+the	O	O/0.801124
+good	B-award.category	O/0.497853
+director	I-award.category	O/0.931985
+oscar	B-award.ceremony	O/0.928742
+for	O	O/0.926815
+
+# 0.228920
+what	O	O/0.995441
+be	O	O/0.872370
+hitchcock	B-director.name	B-director.name/0.267915
+'s	O	O/0.897983
+most	O	O/0.964054
+famous	O	O/0.959673
+movie	O	O/0.996080
+
+# 0.001115
+tell	O	O/0.997348
+me	O	O/0.999714
+some	O	O/0.994841
+of	O	O/0.874892
+Walter	B-director.name	O/0.077722
+f	I-director.name	O/0.047652
+parkes	I-director.name	B-movie.name/0.138202
+good	O	I-movie.name/0.148879
+movie	O	O/0.976428
+
+# 0.282670
+look	O	O/0.998621
+for	O	O/0.999451
+movie	O	O/0.996409
+direct	O	O/0.954156
+by	O	O/0.957164
+actor	O	O/0.776050
+number	O	O/0.427598
+one	O	O/0.551626
+
+# 0.566882
+list	O	O/0.999551
+of	O	O/0.998739
+movie	O	O/0.996304
+direct	O	O/0.905497
+by	O	O/0.943235
+director	O	O/0.874764
+three	O	O/0.663431
+
+# 0.042020
+show	O	O/0.999744
+me	O	O/0.999944
+the	O	O/0.998845
+film	O	O/0.972084
+that	O	O/0.661261
+gross	O	O/0.517464
+seven	B-movie.gross_revenue	B-movie.gross_revenue/0.421404
+point	I-movie.gross_revenue	I-movie.gross_revenue/0.530679
+two	I-movie.gross_revenue	I-movie.gross_revenue/0.473599
+million	I-movie.gross_revenue	I-movie.gross_revenue/0.296718
+at	O	O/0.703027
+the	O	O/0.907808
+box	O	O/0.943205
+office	O	O/0.962845
+
+# 0.049723
+show	O	O/0.999701
+me	O	O/0.999202
+movie	O	O/0.993076
+that	O	O/0.822389
+make	O	O/0.787503
+over	B-movie.gross_revenue	B-movie.gross_revenue/0.299526
+seven	I-movie.gross_revenue	I-movie.gross_revenue/0.247653
+million	I-movie.gross_revenue	I-movie.gross_revenue/0.339041
+dollar	I-movie.gross_revenue	I-movie.gross_revenue/0.248187
+
+# 0.071628
+show	O	O/0.999687
+me	O	O/0.998947
+movie	O	O/0.978091
+that	O	O/0.733916
+didn	O	O/0.412678
+'t	O	O/0.182250
+gross	O	O/0.625376
+much	O	O/0.728220
+
+# 0.039264
+i	O	O/0.998646
+want	O	O/0.999927
+to	O	O/0.999776
+see	O	O/0.996709
+movie	O	O/0.987963
+from	O	O/0.793088
+early	B-movie.release_date	B-movie.name/0.132039
+two	I-movie.release_date	I-movie.name/0.180564
+thousand	I-movie.release_date	I-movie.name/0.156343
+
+# 0.181218
+show	O	O/0.979643
+last	B-movie.release_date	O/0.775530
+year	I-movie.release_date	O/0.677320
+film	O	O/0.876112
+by	O	O/0.897385
+7	B-producer.name	B-director.name/0.331368
+art	I-producer.name	I-director.name/0.318179
+
+# 0.693148
+show	O	O/0.999285
+all	O	O/0.998378
+movie	O	O/0.983644
+that	O	O/0.823414
+come	O	O/0.983449
+out	O	O/0.934594
+nine	B-movie.release_date	B-movie.release_date/0.916624
+fourteen	I-movie.release_date	I-movie.release_date/0.980335
+twenty	I-movie.release_date	I-movie.release_date/0.987166
+twelve	I-movie.release_date	I-movie.release_date/0.992920
+
+# 0.603908
+be	O	O/0.986184
+there	O	O/0.992099
+any	O	O/0.956826
+movie	O	O/0.978104
+release	O	O/0.799838
+nine	B-movie.release_date	B-movie.release_date/0.759284
+fourteen	I-movie.release_date	I-movie.release_date/0.949004
+twenty	I-movie.release_date	I-movie.release_date/0.976749
+twelve	I-movie.release_date	I-movie.release_date/0.992196
+
+# 0.752787
+show	O	O/0.999625
+me	O	O/0.999513
+movie	O	O/0.999716
+from	O	O/0.990993
+the	O	O/0.858757
+nineteen	B-movie.release_date	B-movie.release_date/0.816805
+seventy	I-movie.release_date	I-movie.release_date/0.776864
+
+# 0.330158
+can	O	O/0.994128
+you	O	O/0.998548
+list	O	O/0.999291
+all	O	O/0.995684
+movie	O	O/0.997601
+from	O	O/0.983668
+twenty	B-movie.release_date	B-movie.release_date/0.968440
+twelve	I-movie.release_date	I-movie.release_date/0.959166
+with	O	O/0.972038
+a	O	O/0.993415
+rating	O	O/0.995819
+of	O	O/0.991729
+three	B-movie.star_rating	O/0.601475
+star	O	B-movie.name/0.518431
+and	O	I-movie.name/0.742250
+up	O	I-movie.name/0.706173
+
+# 0.457368
+academy	B-award.ceremony	O/0.693349
+award	O	O/0.716877
+lionsgate	B-producer.name	B-producer.name/0.648701
+movie	O	O/0.988402
+
+# 0.397825
+show	O	O/0.954176
+oscar	B-award.ceremony	O/0.656599
+win	O	O/0.730586
+movie	O	O/0.981559
+by	O	O/0.977916
+warner	B-producer.name	B-producer.name/0.753027
+brother	I-producer.name	I-producer.name/0.745440
+
+# 0.000045
+what	O	O/0.994391
+movie	O	O/0.994285
+performance	O	O/0.366356
+do	O	O/0.218927
+meryl	B-actor.name	B-person.name/0.272989
+streep	I-actor.name	I-person.name/0.294774
+win	O	O/0.187566
+her	O	O/0.063530
+good	B-award.category	I-movie.name/0.080457
+supporting	I-award.category	I-movie.name/0.174731
+oscar	B-award.ceremony	I-movie.name/0.180872
+
+# 0.118203
+have	O	O/0.974080
+any	O	O/0.941306
+us	B-country.name	O/0.695006
+release	O	O/0.611399
+movie	O	O/0.977479
+be	O	O/0.955581
+film	O	O/0.923293
+on	O	O/0.841112
+location	O	O/0.700065
+in	O	O/0.805841
+the	O	B-movie.name/0.547767
+Czech	B-movie.location	I-movie.name/0.741589
+republic	I-movie.location	I-movie.name/0.512868
+
+# 0.310695
+what	O	O/0.988269
+us	B-country.name	O/0.904557
+release	O	O/0.859318
+movie	O	O/0.978035
+have	O	O/0.990935
+be	O	O/0.995644
+film	O	O/0.995441
+in	O	O/0.955055
+the	O	B-movie.name/0.613086
+Czech	B-movie.location	I-movie.name/0.701358
+republic	I-movie.location	I-movie.name/0.490596
+
+# 0.190126
+list	O	O/0.994907
+movie	O	O/0.998790
+set	O	O/0.934852
+in	O	O/0.971786
+ireland	B-movie.location	B-movie.language/0.201101
+
+# 0.247881
+show	O	O/0.999829
+me	O	O/0.999942
+the	O	O/0.999653
+movie	O	O/0.999354
+release	O	O/0.895176
+in	O	O/0.959427
+england	B-movie.release_region	B-country.name/0.269479
+
+# 0.164892
+what	O	O/0.996765
+movie	O	O/0.999282
+be	O	O/0.858530
+come	O	O/0.927700
+out	O	O/0.932723
+this	B-movie.release_date	O/0.776259
+week	I-movie.release_date	O/0.664510
+in	O	O/0.886581
+great	B-movie.release_region	B-country.name/0.395308
+britain	I-movie.release_region	I-country.name/0.351833
+
+# 0.287974
+show	O	O/0.999829
+me	O	O/0.999942
+the	O	O/0.999652
+movie	O	O/0.999349
+release	O	O/0.890388
+in	O	O/0.955263
+nepal	B-movie.release_region	O/0.317813
+
+# 0.339448
+what	O	O/0.999359
+be	O	O/0.999368
+the	O	O/0.988282
+top	O	O/0.811065
+five	O	O/0.791878
+French	B-country.name	O/0.428601
+movie	O	O/0.995529
+of	O	O/0.998477
+all	O	O/0.992551
+time	O	O/0.945581
+
+# 0.477709
+what	O	O/0.997732
+top	O	O/0.987435
+film	O	O/0.912443
+have	O	O/0.713542
+come	O	O/0.984636
+out	O	O/0.998353
+of	O	O/0.993216
+russia	B-country.name	B-country.name/0.715098
+
+# 0.724899
+show	O	O/0.999600
+me	O	O/0.999834
+the	O	O/0.995566
+top	O	O/0.979289
+movie	O	O/0.999160
+from	O	O/0.947130
+spain	B-country.name	B-country.name/0.743045
+
+# 0.296823
+what	O	O/0.999282
+be	O	O/0.998715
+the	O	O/0.955452
+high	O	O/0.565839
+rate	O	O/0.625477
+zombie	B-movie.subject	B-movie.subject/0.519401
+movie	O	O/0.967972
+
+# 0.065598
+what	O	O/0.992569
+be	O	O/0.919398
+highly	O	O/0.353156
+rate	O	O/0.177341
+zombie	B-movie.subject	B-movie.subject/0.438731
+movie	O	O/0.947532
+i	O	O/0.966827
+can	O	O/0.980505
+watch	O	O/0.975009
+
+# 0.911949
+look	O	O/0.998146
+for	O	O/0.999623
+popular	O	O/0.917121
+movie	O	O/0.991284
+
+# 0.521203
+search	O	O/0.994562
+for	O	O/0.971720
+foreign	B-movie.language	B-movie.language/0.585124
+language	I-movie.language	I-movie.language/0.722584
+film	O	O/0.938438
+
+# 0.315571
+what	O	O/0.999264
+be	O	O/0.992787
+will	B-actor.name	B-person.name/0.409314
+ferrell	I-actor.name	I-person.name/0.418528
+famous	O	O/0.993048
+for	O	O/0.994918
+
+# 0.425870
+be	O	O/0.990969
+this	O	O/0.995464
+a	O	O/0.982041
+musical	B-movie.genre	O/0.434285
+
+# 0.256420
+hope	O	O/0.979722
+that	O	O/0.999368
+the	O	O/0.999897
+movie	O	O/0.999578
+be	O	O/0.934376
+in	O	O/0.950134
+English	B-movie.language	B-movie.language/0.270774
+
+# 0.363372
+be	O	O/0.996006
+this	O	O/0.994613
+movie	O	O/0.998714
+in	O	O/0.951867
+English	B-movie.language	O/0.368204
+
+# 0.557889
+do	O	O/0.929655
+they	O	O/0.924835
+speak	O	O/0.791833
+german	B-movie.language	O/0.668376
+in	O	O/0.993987
+the	O	O/0.995745
+movie	O	O/0.998096
+
+# 0.386402
+be	O	O/0.994031
+this	O	O/0.996898
+movie	O	O/0.997521
+film	O	O/0.986163
+in	O	O/0.962414
+india	B-movie.location	B-country.name/0.394937
+
+# 0.481344
+show	O	O/0.998335
+all	O	O/0.991215
+dawn	B-movie.name	B-movie.name/0.495038
+of	I-movie.name	I-movie.name/0.799032
+the	I-movie.name	I-movie.name/0.815097
+dead	I-movie.name	I-movie.name/0.915208
+movie	O	O/0.989360
+
+# 0.235357
+all	O	O/0.992501
+of	O	O/0.977607
+kung	B-movie.name	B-movie.name/0.420348
+fu	I-movie.name	I-movie.name/0.451898
+panda	I-movie.name	I-movie.name/0.508569
+movie	O	O/0.983343
+
+# 0.273307
+list	O	O/0.993867
+movie	O	O/0.999268
+that	O	O/0.989072
+have	O	O/0.992556
+time	O	B-movie.subject/0.532755
+travel	O	I-movie.subject/0.507879
+in	O	O/0.956753
+their	O	O/0.670793
+title	O	O/0.763888
+
+# 0.060696
+i	O	O/0.998639
+want	O	O/0.999872
+to	O	O/0.998980
+see	O	O/0.968841
+nine	B-movie.release_date	B-movie.release_date/0.263707
+twenty	I-movie.release_date	I-movie.release_date/0.351445
+eight	I-movie.release_date	I-movie.release_date/0.355390
+release	O	O/0.734201
+date	O	O/0.800887
+film	O	O/0.888161
+from	O	O/0.909275
+twenty	I-movie.release_date	B-movie.release_date/0.962564
+twelve	I-movie.release_date	I-movie.release_date/0.991475
+
+# 0.275294
+find	O	O/0.998355
+information	O	O/0.994770
+about	O	O/0.988448
+French	B-movie.language	O/0.280399
+movie	O	O/0.816522
+
+# 0.239746
+i	O	O/0.996606
+need	O	O/0.999249
+to	O	O/0.998364
+know	O	O/0.998924
+more	O	O/0.998638
+about	O	O/0.999025
+the	O	O/0.992659
+life	O	O/0.981320
+and	O	O/0.983825
+movie	O	O/0.997560
+of	O	O/0.975488
+Indian	B-actor.nationality	B-actor.nationality/0.308905
+actor	O	O/0.801627
+dilip	B-actor.name	B-actor.name/0.835313
+kumar	I-actor.name	I-actor.name/0.821844
+
+# 0.165963
+what	O	O/0.998806
+do	O	O/0.997927
+the	O	O/0.959048
+miramax	B-producer.name	B-producer.name/0.283503
+logo	O	O/0.543101
+look	O	O/0.848222
+like	O	O/0.941163
+
+# 0.538483
+show	O	O/0.999678
+me	O	O/0.999583
+picture	O	O/0.982287
+of	O	O/0.980569
+martin	B-person.name	B-director.name/0.569265
+scorsese	I-person.name	I-director.name/0.561427
+
+# 0.720305
+photo	O	O/0.993016
+of	O	O/0.997956
+steven	B-person.name	B-person.name/0.733997
+spielberg	I-person.name	I-person.name/0.726267
+
+# 0.773535
+i	O	O/0.998635
+want	O	O/0.999837
+to	O	O/0.999502
+see	O	O/0.999075
+image	O	O/0.991345
+of	O	O/0.990418
+will	B-person.name	B-person.name/0.791169
+ferrell	I-person.name	I-person.name/0.788470
+
+# 0.798981
+show	O	O/0.999682
+me	O	O/0.999651
+picture	O	O/0.989922
+of	O	O/0.990154
+woody	B-person.name	B-director.name/0.843886
+allen	I-person.name	I-director.name/0.814923
+
+# 0.933489
+what	O	O/0.998910
+be	O	O/0.997420
+popular	O	O/0.965977
+movie	O	O/0.996477
+producer	O	O/0.970622
+
+# 0.982626
+can	O	O/0.995517
+you	O	O/0.998775
+give	O	O/0.999258
+me	O	O/0.999744
+the	O	O/0.998159
+producer	O	O/0.989359
+
+# 0.988721
+i	O	O/0.998986
+would	O	O/0.999552
+like	O	O/0.999498
+to	O	O/0.998977
+know	O	O/0.999677
+the	O	O/0.999961
+rating	O	O/0.999924
+of	O	O/0.999920
+the	O	O/0.999674
+movie	O	O/0.999974
+avatar	B-movie.name	B-movie.name/0.992351
+
+# 0.946502
+what	O	O/0.999441
+rating	O	O/0.999841
+be	O	O/0.999753
+the	O	O/0.999413
+movie	O	O/0.999759
+barfi	B-movie.name	B-movie.name/0.947985
+
+# 0.131425
+what	O	O/0.998597
+be	O	O/0.990768
+find	B-movie.name	O/0.723233
+nemo	I-movie.name	B-movie.name/0.254929
+rate	O	I-movie.name/0.208530
+
+# 0.891408
+i	O	O/0.996689
+need	O	O/0.999777
+to	O	O/0.999686
+know	O	O/0.999751
+the	O	O/0.999805
+rating	O	O/0.998498
+of	O	O/0.997181
+grease	B-movie.name	B-movie.name/0.895708
+
+# 0.783044
+can	O	O/0.996370
+you	O	O/0.996530
+find	O	O/0.996816
+out	O	O/0.988263
+what	O	O/0.997764
+rating	O	O/0.999219
+the	O	O/0.999622
+movie	O	O/0.999528
+grease	B-movie.name	B-movie.name/0.957548
+be	O	O/0.841066
+
+# 0.116852
+what	O	O/0.999023
+be	O	O/0.995950
+kid	B-movie.name	O/0.813406
+by	O	O/0.613689
+larry	B-director.name	B-director.name/0.330656
+clark	I-director.name	I-director.name/0.296733
+rate	O	O/0.457419
+
+# 0.296439
+what	O	O/0.997576
+rating	O	O/0.993931
+do	O	O/0.933700
+marley	B-movie.name	O/0.419551
+and	I-movie.name	O/0.448039
+me	I-movie.name	O/0.463696
+receive	O	O/0.894057
+
+# 0.409469
+what	O	O/0.999573
+be	O	O/0.999917
+the	O	O/0.998525
+rating	O	O/0.997069
+for	O	O/0.990243
+Mr	B-movie.name	B-movie.name/0.587114
+and	I-movie.name	I-movie.name/0.818369
+Mrs	I-movie.name	I-movie.name/0.826997
+smith	I-movie.name	I-movie.name/0.666319
+
+# 0.464154
+what	O	O/0.997622
+rating	O	O/0.992067
+do	O	O/0.866474
+resident	B-movie.name	B-movie.name/0.670761
+evil	I-movie.name	I-movie.name/0.836006
+receive	O	O/0.766650
+
+# 0.820899
+rating	O	O/0.993694
+for	O	O/0.991356
+snow	B-movie.name	B-movie.name/0.866943
+white	I-movie.name	I-movie.name/0.954243
+and	I-movie.name	I-movie.name/0.989210
+the	I-movie.name	I-movie.name/0.987533
+huntsman	I-movie.name	I-movie.name/0.972704
+
+# 0.662075
+what	O	O/0.998121
+rating	O	O/0.997202
+be	O	O/0.974317
+step	B-movie.name	B-movie.name/0.704826
+up	I-movie.name	I-movie.name/0.714077
+
+# 0.974188
+look	O	O/0.996306
+up	O	O/0.999693
+the	O	O/0.999901
+rating	O	O/0.999942
+of	O	O/0.999920
+the	O	O/0.999254
+movie	O	O/0.999898
+step	B-movie.name	B-movie.name/0.994882
+up	I-movie.name	I-movie.name/0.979475
+
+# 0.803161
+what	O	O/0.999298
+rating	O	O/0.999060
+do	O	O/0.991180
+the	B-movie.name	B-movie.name/0.900794
+campaign	I-movie.name	I-movie.name/0.948577
+movie	O	O/0.995807
+get	O	O/0.906293
+
+# 0.851469
+show	O	O/0.999723
+me	O	O/0.999929
+the	O	O/0.999731
+rating	O	O/0.999953
+for	O	O/0.999984
+the	O	O/0.999310
+movie	O	O/0.999399
+the	B-movie.name	B-movie.name/0.859525
+expendable	I-movie.name	I-movie.name/0.853570
+
+# 0.964018
+what	O	O/0.999573
+be	O	O/0.999917
+the	O	O/0.998557
+rating	O	O/0.997030
+for	O	O/0.998147
+toy	B-movie.name	B-movie.name/0.980875
+story	I-movie.name	I-movie.name/0.975338
+
+# 0.960638
+what	O	O/0.999573
+be	O	O/0.999920
+the	O	O/0.999635
+rating	O	O/0.999887
+for	O	O/0.999935
+the	O	O/0.998499
+movie	O	O/0.999481
+toy	B-movie.name	B-movie.name/0.992411
+story	I-movie.name	I-movie.name/0.964019
+
+# 0.651204
+rating	O	O/0.994138
+for	O	O/0.995519
+twilight	B-movie.name	B-movie.name/0.944158
+break	I-movie.name	I-movie.name/0.927788
+dawn	I-movie.name	I-movie.name/0.691109
+
+# 0.868717
+what	O	O/0.996520
+be	O	O/0.988542
+gross	O	O/0.960517
+revenue	O	O/0.980873
+for	O	O/0.993019
+batman	B-movie.name	B-movie.name/0.976811
+begin	I-movie.name	I-movie.name/0.936119
+
+# 0.778802
+how	O	O/0.997312
+much	O	O/0.997316
+have	O	O/0.984564
+black	B-movie.name	B-movie.name/0.832377
+swan	I-movie.name	I-movie.name/0.914698
+bring	O	O/0.983094
+in	O	O/0.997115
+
+# 0.960928
+find	O	O/0.999385
+the	O	O/0.994647
+revenue	O	O/0.994216
+for	O	O/0.998662
+downton	B-movie.name	B-movie.name/0.989399
+abbey	I-movie.name	I-movie.name/0.976243
+
+# 0.254371
+find	O	O/0.999619
+the	O	O/0.998238
+revenue	O	O/0.994833
+of	O	O/0.973325
+edward	B-movie.name	B-movie.name/0.650120
+scissor	I-movie.name	I-movie.name/0.585552
+hand	I-movie.name	I-movie.name/0.333968
+
+# 0.956505
+what	O	O/0.999366
+be	O	O/0.999735
+the	O	O/0.998632
+most	O	O/0.991207
+a	O	O/0.993819
+movie	O	O/0.986547
+make	O	O/0.982343
+
+# 0.978573
+review	O	O/0.983772
+for	O	O/0.998212
+dirty	B-movie.name	B-movie.name/0.997491
+dancing	I-movie.name	I-movie.name/0.996803
+
+# 0.958809
+find	O	O/0.994401
+review	O	O/0.972111
+for	O	O/0.992607
+dirty	B-movie.name	B-movie.name/0.997050
+dancing	I-movie.name	I-movie.name/0.996660
+
+# 0.920147
+what	O	O/0.998880
+be	O	O/0.997372
+review	O	O/0.981632
+for	O	O/0.987736
+find	B-movie.name	B-movie.name/0.952830
+nemo	I-movie.name	I-movie.name/0.951373
+
+# 0.638920
+what	O	O/0.999571
+be	O	O/0.999889
+the	O	O/0.998633
+rating	O	O/0.980620
+and	O	O/0.971569
+review	O	O/0.868654
+on	O	O/0.949298
+find	B-movie.name	B-movie.name/0.770847
+nemo	I-movie.name	I-movie.name/0.766051
+
+# 0.935022
+review	O	O/0.986502
+for	O	O/0.998369
+find	B-movie.name	B-movie.name/0.956634
+nemo	I-movie.name	I-movie.name/0.953541
+
+# 0.935022
+review	O	O/0.986502
+for	O	O/0.998369
+find	B-movie.name	B-movie.name/0.956634
+nemo	I-movie.name	I-movie.name/0.953541
+
+# 0.935022
+review	O	O/0.986502
+for	O	O/0.998369
+find	B-movie.name	B-movie.name/0.956634
+nemo	I-movie.name	I-movie.name/0.953541
+
+# 0.981747
+review	O	O/0.992004
+for	O	O/0.995234
+movie	O	O/0.992174
+
+# 0.356986
+review	O	O/0.981164
+for	O	O/0.995978
+in	B-movie.name	B-movie.name/0.369074
+July	I-movie.name	I-movie.name/0.376227
+
+# 0.145542
+what	O	O/0.999312
+be	O	O/0.999013
+the	O	O/0.967919
+reviewer	O	O/0.688991
+say	O	O/0.602920
+about	O	O/0.556140
+star	B-movie.name	B-movie.name/0.338569
+war	I-movie.name	I-movie.name/0.823250
+episode	I-movie.name	I-movie.name/0.922415
+four	I-movie.name	I-movie.name/0.921314
+
+# 0.617624
+how	O	O/0.986513
+long	O	O/0.987064
+be	O	O/0.872665
+life	B-movie.name	B-movie.name/0.702201
+be	I-movie.name	I-movie.name/0.893971
+beautiful	I-movie.name	I-movie.name/0.893298
+
+# 0.979299
+synopsis	O	O/0.996785
+for	O	O/0.999857
+the	O	O/0.999255
+movie	O	O/0.999784
+house	B-movie.name	B-movie.name/0.999158
+at	I-movie.name	I-movie.name/0.997644
+the	I-movie.name	I-movie.name/0.994114
+end	I-movie.name	I-movie.name/0.996811
+of	I-movie.name	I-movie.name/0.999510
+the	I-movie.name	I-movie.name/0.998395
+street	I-movie.name	I-movie.name/0.993417
+
+# 0.861245
+synopsis	O	O/0.984909
+for	O	O/0.992528
+star	B-movie.name	B-movie.name/0.947989
+war	I-movie.name	I-movie.name/0.992683
+four	I-movie.name	I-movie.name/0.922771
+
+# 0.879256
+summary	O	O/0.983776
+of	O	O/0.989585
+star	B-movie.name	B-movie.name/0.968053
+war	I-movie.name	I-movie.name/0.989551
+four	I-movie.name	I-movie.name/0.921037
+
+# 0.345201
+find	B-movie.name	O/0.905635
+nemo	I-movie.name	O/0.403882
+movie	O	O/0.976127
+shortcut	O	O/0.867417
+
+# 0.972427
+show	O	O/0.999591
+me	O	O/0.999865
+the	O	O/0.998227
+trailer	O	O/0.995904
+for	O	O/0.997812
+house	B-movie.name	B-movie.name/0.995415
+at	I-movie.name	I-movie.name/0.997526
+the	I-movie.name	I-movie.name/0.994423
+end	I-movie.name	I-movie.name/0.997010
+of	I-movie.name	I-movie.name/0.999554
+the	I-movie.name	I-movie.name/0.998439
+street	I-movie.name	I-movie.name/0.993452
+
+# 0.081906
+life	B-movie.name	O/0.586797
+be	I-movie.name	O/0.518237
+beatiful	I-movie.name	O/0.232116
+shortcut	O	O/0.416465
+
+# 0.813384
+trailer	O	O/0.983678
+for	O	O/0.991591
+star	B-movie.name	B-movie.name/0.920543
+war	I-movie.name	I-movie.name/0.945626
+a	I-movie.name	I-movie.name/0.960100
+new	I-movie.name	I-movie.name/0.974798
+hope	I-movie.name	I-movie.name/0.947378
+
+# 0.226049
+show	O	O/0.977273
+resident	B-movie.name	B-movie.name/0.566352
+evil	I-movie.name	I-movie.name/0.448277
+movie	O	O/0.972010
+with	O	O/0.793248
+trailer	O	O/0.606258
+
+# 0.007965
+can	O	O/0.991279
+i	O	O/0.996974
+see	O	O/0.976055
+preview	O	O/0.741694
+for	O	O/0.419041
+upcoming	O	B-movie.name/0.081211
+warner	B-producer.name	I-movie.name/0.173127
+brother	I-producer.name	I-movie.name/0.140455
+movie	O	O/0.979849
+
+# 0.050309
+how	O	O/0.994372
+many	O	O/0.990843
+woody	B-director.name	B-director.name/0.807346
+allen	I-director.name	I-director.name/0.679588
+movie	O	O/0.981127
+be	O	O/0.958926
+set	O	O/0.845797
+in	O	O/0.825876
+new	B-movie.location	O/0.194168
+york	I-movie.location	O/0.248273
+city	I-movie.location	O/0.554393
+
+# 0.213375
+how	O	O/0.993220
+many	O	O/0.981698
+scorsese	B-producer.name	O/0.707990
+film	O	O/0.896731
+be	O	O/0.856202
+film	O	O/0.927417
+in	O	O/0.944402
+france	B-movie.location	B-country.name/0.361450
+

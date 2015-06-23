@@ -1,0 +1,3 @@
+So you want [%sure_class%] related to [%category%], but what do you mean for [%category%]?
+[%category%] can be: [%what%],
+Tell me one of them or None.

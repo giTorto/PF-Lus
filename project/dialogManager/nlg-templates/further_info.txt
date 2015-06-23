@@ -1,0 +1,2 @@
+I can tell you the [%sure_class%] of [%category%], if you tell me a [%what%].
+Do you want to tell it to me? Just answer yes or no.
