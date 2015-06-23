@@ -1,13 +1,13 @@
 # PF-Lus
 
-First of all this project is based on the classifier created in the first assignment.
-However, since I need the confidence of the predictions I change it slightly.
-In order to ensure that the project is going to work, the classifier should be in the same path required
-in the controller.php file.
-However this project is given with the naive bayes already trained and ready to classify.
-The only thing that must be trained is the Concept tagger, which is not given as already trained,
-since it is very big. The trained classification model must be in the classifier folder and
-named "crf.lm", must be in the path = project/classifier/crf.lm.
-In order to be fully working the project must be available at http://localhost/project/index.html .
-In addition the classifier must be trained and fully working.
+## Description
+This project aims to create a Language Understanding System on the movie domain.
+
+## How To Make it working
+- This project is based on the classifier, provided inside the folder. The classifier is slightly different from the one given for the first assignment, since I change it slightly in order to retrieve confidences.
+-- Once the project is downloaded the Naive Bayes Classifier is already trained and ready to predict
+- The project is based on a Concept Tagger build with CRF++.
+-- The concept tagger must be trained and placed in the path 'project/classifier/' with the name 'crf.lm', otherwise the system will not work.
+- In order to be fully working the project must be available at http://localhost/project/index.html .
+- To be sure that the system works properly go to http://localhost/project/test.php, if each test return OK, the system is ready to execute.
 
