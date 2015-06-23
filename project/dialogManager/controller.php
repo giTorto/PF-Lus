@@ -18,9 +18,9 @@
 
     // check if transcript confidence is enough high
     if ($input_json["confidence"] > 0.70) {
-        //$out = shell_exec("python3.4 /home/gt/Projects/computeProbs/giveMeTheProb.py /home/gt/Projects/computeProbs/TestD/NLSPARQL.test.txt '/home/gt/Projects/computeProbs/NB/results_prior.res' '/home/gt/Projects/computeProbs/TestD/NLSPARQL.test.utt.labels.txt' " . $input_phrase);
         // perform classification
-        $out = shell_exec("python3.4 /var/www/html/project/classifier/giveMeTheProb.py /var/www/html/project/classifier/TestD/NLSPARQL.test.txt '/var/www/html/project/classifier/NB/results_prior.res' '/var/www/html/project/classifier/TestD/NLSPARQL.test.utt.labels.txt' " . $input_phrase . " /var/www/html/project/classifier/");
+        $out = shell_exec("python3.4 /var/www/html/project/classifier/giveMeTheProb.py  /var/www/html/project/classifier/TestD/NLSPARQL.test.txt '/var/www/html/project/classifier/NB/results_prior.res' '/var/www/html/project/classifier/TestD/NLSPARQL.test.utt.labels.txt' " . $input_phrase . " /var/www/html/project/classifier/");
+
         $out = json_decode($out, true);
         //print_r("<br/>".$out["class"]."<br/>");
         //print_r($out["concept"]); //////print_r($out["conc_conf"]); //////print_r("<br/>");

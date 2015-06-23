@@ -1,2 +1,2 @@
-0	1	person	person
+0	1	star_of_thor	<unk>
 1
